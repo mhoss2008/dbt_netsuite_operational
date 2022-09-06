@@ -1,0 +1,34 @@
+version: 2
+
+sources:
+  - name: netsuite_tables_v2
+    database: PC_FIVETRAN_DB
+    schema: NETSUITE
+    tables:
+      - name: BININVENTORYBALANCE
+      - name: INVENTORYNUMBER
+      - name: ITEM
+      - name: BIN
+      - name: LOCATION
+      - name: BOMASSEMBLY
+      - name: BOMREVISION
+      - name: BOMREVISIONCOMPONENT
+      - name: ACCOUNT
+      - name: EMPLOYEE
+      - name: TRANSACTION
+      - name: TRANSACTIONLINE
+      - name: DEPARTMENT
+      - name: VENDOR
+      - name: ENTITY
+      - name: NEXTTRANSACTIONLINK
+      - name: NEXTTRANSACTIONLINELINK
+      - name: PREVIOUSTRANSACTIONLINELINK
+      - name: ACCOUNTINGPERIOD
+      - name: BUDGETSMACHINE
+      - name: BUDGETS
+      - name: BUDGETCATEGORY
+      - name: SUBSIDIARY
+      - name: TRACKINGNUMBER
+      - name: TRACKINGNUMBERMAP
+      - name: UNITSTYPEUOM
+      - name: TRANSACTIONSHIPPINGADDRESS

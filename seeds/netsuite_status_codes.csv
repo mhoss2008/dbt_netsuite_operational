@@ -1,0 +1,153 @@
+id,Description
+VENDBILL:A,Bill : Open
+VENDBILL:B,Bill : Paid In Full
+VENDPYMT:V,Bill Payment : Voided
+VENDPYMT:Z,Bill Payment : Online Bill Pay Pending Accounting Approval
+CASHSALE:A,Cash Sale : Unapproved Payment
+CASHSALE:B,Cash Sale : Not Deposited
+CASHSALE:C,Cash Sale : Deposited
+CHECK:V,Check : Voided
+CHECK:Z,Check : Online Bill Pay Pending Accounting Approval
+COMMISSN:A,Commission : Pending Payment
+COMMISSN:O,Commission : Overpaid
+COMMISSN:P,Commission : Pending Accounting Approval
+COMMISSN:R,Commission : Rejected by Accounting
+COMMISSN:X,Commission : Paid in Full
+CUSTCRED:A,Credit Memo : Open
+CUSTCRED:B,Credit Memo : Fully Applied
+CUSTDEP:A,Customer Deposit : Not Deposited
+CUSTDEP:B,Customer Deposit : Deposited
+CUSTDEP:C,Customer Deposit : Fully Applied
+CUSTRFND:V,Customer Refund : Voided
+EXPREPT:A,Expense Report : In Progress
+EXPREPT:B,Expense Report : Pending Supervisor Approval
+EXPREPT:C,Expense Report : Pending Accounting Approval
+EXPREPT:D,Expense Report : Rejected by Supervisor
+EXPREPT:E,Expense Report : Rejected by Accounting
+EXPREPT:F,Expense Report : Approved by Accounting
+EXPREPT:G,Expense Report : Approved (Overridden) by Accounting
+EXPREPT:H,Expense Report : Rejected (Overridden) by Accounting
+EXPREPT:I,Expense Report : Paid In Full
+CUSTINVC:A,Invoice : Open
+CUSTINVC:B,Invoice : Paid In Full
+ITEMSHIP:A,Item Fulfillment : Picked
+ITEMSHIP:B,Item Fulfillment : Packed
+ITEMSHIP:C,Item Fulfillment : Shipped
+JOURNAL:A,Journal : Pending Approval
+JOURNAL:B,Journal : Approved for Posting
+OPPRTNTY:A,Opportunity : In Progress
+OPPRTNTY:B,Opportunity : Issued Estimate
+OPPRTNTY:C,Opportunity : Closed – Won
+OPPRTNTY:D,Opportunity : Closed – Lost
+PAYCHECK:A,Paycheck : Undefined
+PAYCHECK:C,Paycheck : Pending Tax Calculation
+PAYCHECK:D,Paycheck : Pending Commitment
+PAYCHECK:F,Paycheck : Committed
+PAYCHECK:P,Paycheck : Preview
+PAYCHECK:R,Paycheck : Reversed
+CUSTPYMT:A,Payment : Unapproved Payment
+CUSTPYMT:B,Payment : Not Deposited
+CUSTPYMT:C,Payment : Deposited
+LIAPYMT:V,Payroll Liability Check : Voided
+PURCHORD:A,Purchase Order : Pending Supervisor Approval
+PURCHORD:B,Purchase Order : Pending Receipt
+PURCHORD:C,Purchase Order : Rejected by Supervisor
+PURCHORD:D,Purchase Order : Partially Received
+PURCHORD:E,Purchase Order : Pending Billing/Partially Received
+PURCHORD:F,Purchase Order : Pending Bill
+PURCHORD:G,Purchase Order : Fully Billed
+PURCHORD:H,Purchase Order : Closed
+ESTIMATE:A,Quote : Open
+ESTIMATE:B,Quote : Processed
+ESTIMATE:C,Quote : Closed
+ESTIMATE:V,Quote : Voided
+ESTIMATE:X,Quote : Expired
+RTNAUTH:A,Return Authorization : Pending Approval
+RTNAUTH:B,Return Authorization : Pending Receipt
+RTNAUTH:C,Return Authorization : Cancelled
+RTNAUTH:D,Return Authorization : Partially Received
+RTNAUTH:E,Return Authorization : Pending Refund/Partially Received
+RTNAUTH:F,Return Authorization : Pending Refund
+RTNAUTH:G,Return Authorization : Refunded
+RTNAUTH:H,Return Authorization : Closed
+SALESORD:A,Sales Order : Pending Approval
+SALESORD:B,Sales Order : Pending Fulfillment
+SALESORD:C,Sales Order : Cancelled
+SALESORD:D,Sales Order : Partially Fulfilled
+SalesOrd:E,Sales Order : Pending Billing/Partially Fulfilled
+SALESORD:F,Sales Order : Pending Billing
+SALESORD:G,Sales Order : Billed
+SALESORD:H,Sales Order : Closed
+TAXPYMT:V,Sales Tax Payment : Voided
+TAXPYMT:Z,Sales Tax Payment : Online Bill Pay Pending Accounting Approval
+CUSTCHRG:A,Statement Charge : Open
+CUSTCHRG:B,Statement Charge : Paid In Full
+TAXLIAB:V,Tax Liability Cheque : Voided
+TEGPYBL:E,Tegata Payable : Endorsed
+TEGPYBL:I,Tegata Payable : Issued
+TEGPYBL:P,Tegata Payable : Paid
+TEGRCVBL:C,Tegata Receivables : Collected
+TEGRCVBL:D,Tegata Receivables : Discounted
+TEGRCVBL:E,Tegata Receivables : Endorsed
+TEGRCVBL:H,Tegata Receivables : Holding
+TRNFRORD:A,Transfer Order : Pending Approval
+TRNFRORD:B,Transfer Order : Pending Fulfillment
+TRNFRORD:C,Transfer Order : Rejected
+TRNFRORD:D,Transfer Order : Partially Fulfilled
+TRNFRORD:E,Transfer Order : Pending Receipt/Partially Fulfilled
+TRNFRORD:F,Transfer Order : Pending Receipt
+TRNFRORD:G,Transfer Order : Received
+TRNFRORD:H,Transfer Order : Closed
+VENDAUTH:A,Vendor Return Authorization : Pending Approval
+VENDAUTH:B,Vendor Return Authorization : Pending Return
+VENDAUTH:C,Vendor Return Authorization : Cancelled
+VENDAUTH:D,Vendor Return Authorization : Partially Returned
+VENDAUTH:E,Vendor Return Authorization : Pending Credit/Partially Returned
+VENDAUTH:F,Vendor Return Authorization : Pending Credit
+VENDAUTH:G,Vendor Return Authorization : Credited
+VENDAUTH:H,Vendor Return Authorization : Closed
+WORKORD:B,Work Order : Released
+WORKORD:C,Work Order : Cancelled
+WORKORD:D,Work Order : In Process
+WORKORD:G,Work Order : Built
+WORKORD:H,Work Order : Closed
+CHK:V,Check : Voided
+BUILD:Y,Assembly Build : Undefined
+BILLCRED:Y,Bill Credit : Undefined
+PURCHREQ:H,Requisition : Closed
+BILLPMT:V,Bill Payment : Voided
+CHK:Y,Check : Undefined
+ITEM RCP:Y,Item Receipt : Undefined
+PURCHREQ:F,Requisition : Partially Received
+BILL:C,Bill : Cancelled
+INV:D,Invoice : Pending Approval
+INVREVAL:Y,Inventory Cost Revaluation : Undefined
+TRANSFR:Y,Transfer : Undefined
+INV:B,Invoice : Paid In Full
+VPREPAPP:Y,Vendor Prepayment Application : Undefined
+INV:A,Invoice : Open
+BILL:D,Bill : Pending Approval
+VPREP:B,Vendor Prepayment : Paid
+VPREP:V,Vendor Prepayment : Voided
+BILL:A,Bill : Open
+GENJRNL:B,Journal : Approved for Posting
+DEP:Y,Deposit : Undefined
+REVAL:Y,Currency Revaluation : Undefined
+VPREP:F,Vendor Prepayment : Fully Applied
+WOISSUE:Y,Work Order Issue : Undefined
+WORKORD:A,Work Order : Planned
+BILL:B,Bill : Paid In Full
+PURCHREQ:E,Requisition : Fully Ordered
+PMT:C,Payment : Deposited
+CREDMEM:B,Credit Memo : Fully Applied
+BINTRNFR:Y,Bin Transfer : Undefined
+BILL:E,Bill : Rejected
+INV TRFR:Y,Inventory Transfer : Undefined
+WOCLOSE:Y,Work Order Close : Undefined
+PURCHREQ:B,Requisition : Pending Order
+BILLPMT:Y,Bill Payment : Undefined
+UNBUILD:Y,Assembly Unbuild : Undefined
+WOCOMPL:Y,Work Order Completion : Undefined
+VPREP:E,Vendor Prepayment : Partially Applied
+INV ADJT:Y,Inventory Adjustment : Undefined
+BINWKSHT:Y,Bin Putaway Worksheet : Undefined
