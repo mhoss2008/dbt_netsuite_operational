@@ -48,34 +48,10 @@ models:
         +materialized: table
         +database: "{{ env_var('DBT_DB') }}"
         +schema: "{{ 'commercial' if env_var('DBT__ENV') == 'PROD' else 'dev' }}"  
-      instrumentruns:
-        +materialized: table
-        +database: "{{ env_var('DBT_DB') }}"
-        +schema: "{{ 'commercial' if env_var('DBT__ENV') == 'PROD' else 'dev' }}"  
-      instruments:
-        +materialized: table
-        +database: "{{ env_var('DBT_DB') }}"
-        +schema: "{{ 'commercial' if env_var('DBT__ENV') == 'PROD' else 'dev' }}"  
-      manufacturing:
-        +materialized: table
-        +database: "{{ env_var('DBT_DB') }}"
-        +schema: "{{ 'commercial' if env_var('DBT__ENV') == 'PROD' else 'dev' }}"  
       operations:
         +materialized: table
         +database: "{{ env_var('DBT_DB') }}"
-        +schema: "{{ 'commercial' if env_var('DBT__ENV') == 'PROD' else 'dev' }}"  
-      Q42:
-        +materialized: view
-        +database: "{{ env_var('DBT_DB') }}"
-        +schema: "{{ 'commercial' if env_var('DBT__ENV') == 'PROD' else 'dev' }}"
-      quality:
-        +materialized: table
-        +database: "{{ env_var('DBT_DB') }}"
-        +schema: "{{ 'commercial' if env_var('DBT__ENV') == 'PROD' else 'dev' }}"  
-      service:
-        +materialized: table
-        +database: "{{ env_var('DBT_DB') }}"
-        +schema: "{{ 'commercial' if env_var('DBT__ENV') == 'PROD' else 'dev' }}"  
+        +schema: "{{ 'commercial' if env_var('DBT__ENV') == 'PROD' else 'dev' }}"   
     admin:
       +database: "{{ env_var('DBT_DB') }}"
       +schema: "{{ 'admin' if env_var('DBT__ENV') == 'PROD' else 'dev' }}" 
