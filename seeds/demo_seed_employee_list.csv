@@ -1,0 +1,1001 @@
+﻿id,externalid,firstname,lastname,email,title,lastmodifieddate,isinactive,department,supervisor,DELETE_RandomColumn,DELETE_SupervisorRow,DELETE_RandYear
+9394,48441,Deacon,Rivas,Deacon.Rivas@businessdatastack.com,Director,2021-09-26,F,22,367,6,4,2021
+2683,30781,Zaiden,Lynch,Zaiden.Lynch@businessdatastack.com,Analyst,2022-06-15,F,19,8643,2,8,2022
+367,90607,Logan,Compton,Logan.Compton@businessdatastack.com,Sr. Director,2021-10-16,F,28,,7,,2021
+8797,94546,Zion,Brooks,Zion.Brooks@businessdatastack.com,Sr. Director,2022-03-15,F,21,,7,,2022
+986,53488,Shaylee,Terry,Shaylee.Terry@businessdatastack.com,Sr. Manager,2022-04-05,F,17,3781,5,22,2022
+8910,80573,Ross,Murillo,Ross.Murillo@businessdatastack.com,Manager,2022-01-28,T,28,5161,4,17,2022
+8643,56428,Nigel,Webster,Nigel.Webster@businessdatastack.com,Sr. Analyst,2020-10-11,F,28,1322,3,10,2020
+8088,13980,Giovanna,Brennan,Giovanna.Brennan@businessdatastack.com,Sr. Director,2021-12-23,F,25,,7,,2021
+1322,8831,Cohen,Patton,Cohen.Patton@businessdatastack.com,Manager,2020-08-21,F,20,5161,4,17,2020
+1587,79915,Jayda,Collier,Jayda.Collier@businessdatastack.com,Manager,2020-08-10,F,35,5161,4,17,2020
+4284,54275,Grace,Mayo,Grace.Mayo@businessdatastack.com,Analyst,2021-02-05,F,27,1842,2,13,2021
+1842,58402,Angeline,Cordova,Angeline.Cordova@businessdatastack.com,Sr. Analyst,2022-07-17,F,28,5308,3,14,2022
+5308,3181,Kennedi,Harrington,Kennedi.Harrington@businessdatastack.com,Manager,2021-09-22,F,16,5161,4,17,2021
+6990,60350,Corey,Parks,Corey.Parks@businessdatastack.com,Sr. Analyst,2022-01-19,T,30,3445,3,16,2022
+3445,69481,Lamont,Gray,Lamont.Gray@businessdatastack.com,Manager,2020-03-18,F,27,5161,4,17,2020
+5161,19449,Brittany,Lin,Brittany.Lin@businessdatastack.com,Sr. Manager,2022-06-06,F,28,3781,5,22,2022
+722,89085,Cora,Hudson,Cora.Hudson@businessdatastack.com,Sr. Manager,2020-06-04,F,31,3781,5,22,2020
+3305,57949,Tabitha,Barnes,Tabitha.Barnes@businessdatastack.com,Sr. Analyst,2020-02-19,F,21,6544,3,20,2020
+6544,41128,America,Duffy,America.Duffy@businessdatastack.com,Manager,2020-03-27,F,25,7472,4,23,2020
+8981,79169,Nash,Barrera,Nash.Barrera@businessdatastack.com,Sr. Director,2020-01-25,F,22,,7,,2020
+3781,3016,Felipe,Mills,Felipe.Mills@businessdatastack.com,Director,2021-06-04,F,28,8749,6,27,2021
+7472,44054,Madyson,Kennedy,Madyson.Kennedy@businessdatastack.com,Sr. Manager,2020-01-10,F,20,3729,5,31,2020
+5967,38251,Raven,Dixon,Raven.Dixon@businessdatastack.com,Sr. Analyst,2021-08-19,F,36,5262,3,28,2021
+156,41664,Shayna,Young,Shayna.Young@businessdatastack.com,Sr. Analyst,2022-04-10,T,22,5262,3,28,2022
+6858,22206,Lara,Heath,Lara.Heath@businessdatastack.com,Sr. Manager,2020-09-03,F,29,3729,5,31,2020
+8749,35850,Emmett,Daniel,Emmett.Daniel@businessdatastack.com,Sr. Director,2021-11-17,T,26,,7,,2021
+5262,78206,Nyla,Blackwell,Nyla.Blackwell@businessdatastack.com,Manager,2020-02-27,F,22,8062,4,33,2020
+2582,72984,Dorian,Fleming,Dorian.Fleming@businessdatastack.com,Sr. Director,2021-12-03,F,24,,7,,2021
+2538,12655,Kaleigh,Duncan,Kaleigh.Duncan@businessdatastack.com,Sr. Analyst,2021-05-03,F,28,3891,3,36,2021
+3729,77018,Kiana,Pollard,Kiana.Pollard@businessdatastack.com,Director,2022-07-06,F,22,8512,6,32,2022
+8512,24319,Aldo,King,Aldo.King@businessdatastack.com,Sr. Director,2021-07-06,T,32,,7,,2021
+8062,9115,Reagan,Ponce,Reagan.Ponce@businessdatastack.com,Sr. Manager,2021-11-21,T,22,1709,5,41,2021
+6301,7753,Isaiah,Price,Isaiah.Price@businessdatastack.com,Analyst,2021-03-04,F,29,9409,2,38,2021
+4699,11114,Trevin,Woodward,Trevin.Woodward@businessdatastack.com,Sr. Manager,2020-06-17,F,22,1709,5,41,2020
+3891,20559,Chaim,Shah,Chaim.Shah@businessdatastack.com,Manager,2020-03-23,F,26,8856,4,45,2020
+5312,33079,Paisley,Carlson,Paisley.Carlson@businessdatastack.com,Analyst,2020-10-03,F,23,9409,2,38,2020
+9409,39994,Hailey,Valencia,Hailey.Valencia@businessdatastack.com,Sr. Analyst,2020-02-01,F,23,325,3,44,2020
+1482,68763,Taylor,Sanders,Taylor.Sanders@businessdatastack.com,Analyst,2022-08-08,F,34,4955,2,40,2022
+4955,16220,Sarah,Rose,Sarah.Rose@businessdatastack.com,Sr. Analyst,2021-02-12,F,29,325,3,44,2021
+1709,66211,Sawyer,Gentry,Sawyer.Gentry@businessdatastack.com,Director,2021-12-06,F,31,1669,6,53,2021
+693,6372,Garrett,Bray,Garrett.Bray@businessdatastack.com,Sr. Analyst,2020-01-01,F,35,325,3,44,2020
+5680,52171,Iliana,Becker,Iliana.Becker@businessdatastack.com,Sr. Analyst,2022-04-27,F,30,325,3,44,2022
+325,28969,Bentley,Bradshaw,Bentley.Bradshaw@businessdatastack.com,Manager,2020-06-20,F,33,8856,4,45,2020
+8856,44366,Laney,Herrera,Laney.Herrera@businessdatastack.com,Sr. Manager,2022-01-22,F,28,6234,5,46,2022
+6234,242,Arjun,Estrada,Arjun.Estrada@businessdatastack.com,Director,2021-02-16,F,33,1669,6,53,2021
+1099,72596,Miah,Pierce,Miah.Pierce@businessdatastack.com,Sr. Analyst,2022-04-26,F,33,8471,3,50,2022
+4735,83039,Michael,Knapp,Michael.Knapp@businessdatastack.com,Analyst,2020-02-10,F,16,7301,2,51,2020
+2562,74037,Abraham,Summers,Abraham.Summers@businessdatastack.com,Director,2020-05-23,F,21,1669,6,53,2020
+8471,63518,Isaias,Mercer,Isaias.Mercer@businessdatastack.com,Manager,2021-02-07,F,35,4024,4,52,2021
+7301,34737,Sam,Jefferson,Sam.Jefferson@businessdatastack.com,Sr. Analyst,2020-08-24,F,37,9959,3,75,2020
+4024,21934,Mylee,Daniel,Mylee.Daniel@businessdatastack.com,Sr. Manager,2022-02-14,F,27,6056,5,54,2022
+1669,32259,Gregory,Sheppard,Gregory.Sheppard@businessdatastack.com,Sr. Director,2022-05-12,F,32,,7,,2022
+6056,42224,Jeremy,Morrison,Jeremy.Morrison@businessdatastack.com,Director,2022-02-23,T,29,8080,6,59,2022
+6057,40111,Dillan,Vance,Dillan.Vance@businessdatastack.com,Sr. Manager,2020-07-16,T,36,1067,5,56,2020
+1067,6410,Eleanor,Ashley,Eleanor.Ashley@businessdatastack.com,Director,2021-06-18,F,24,8080,6,59,2021
+1649,41290,Kenya,Brown,Kenya.Brown@businessdatastack.com,Director,2020-02-28,F,26,8080,6,59,2020
+4550,45597,Irene,Campos,Irene.Campos@businessdatastack.com,Sr. Analyst,2022-09-11,F,25,9959,3,75,2022
+8080,48348,Mckayla,Wise,Mckayla.Wise@businessdatastack.com,Sr. Director,2022-08-23,F,36,,7,,2022
+251,78713,Lorelai,Gaines,Lorelai.Gaines@businessdatastack.com,Sr. Director,2020-02-02,F,22,,7,,2020
+3253,88436,Cody,Brock,Cody.Brock@businessdatastack.com,Director,2020-08-14,T,26,6020,6,64,2020
+3691,37198,Nathen,Aguilar,Nathen.Aguilar@businessdatastack.com,Analyst,2020-01-16,F,34,5759,2,68,2020
+1183,27325,Yahir,Dorsey,Yahir.Dorsey@businessdatastack.com,Analyst,2022-04-28,F,26,5759,2,68,2022
+6020,13018,Justice,Hood,Justice.Hood@businessdatastack.com,Sr. Director,2021-12-08,F,16,,7,,2021
+7049,53538,Shyanne,Greene,Shyanne.Greene@businessdatastack.com,Director,2021-06-02,F,28,872,6,73,2021
+3578,63085,Jared,Summers,Jared.Summers@businessdatastack.com,Sr. Manager,2021-07-17,T,34,2476,5,67,2021
+2476,83777,Leonard,Beltran,Leonard.Beltran@businessdatastack.com,Director,2021-07-19,F,25,872,6,73,2021
+5759,68376,Molly,Rangel,Molly.Rangel@businessdatastack.com,Sr. Analyst,2021-05-05,F,23,9959,3,75,2021
+9527,58499,Rolando,Meyers,Rolando.Meyers@businessdatastack.com,Director,2020-03-02,F,19,872,6,73,2020
+5747,10966,Arturo,Gamble,Arturo.Gamble@businessdatastack.com,Sr. Manager,2021-12-09,F,20,9624,5,71,2021
+9624,58295,Osvaldo,Barrera,Osvaldo.Barrera@businessdatastack.com,Director,2020-06-21,F,31,872,6,73,2020
+7539,26327,Teresa,Keller,Teresa.Keller@businessdatastack.com,Sr. Analyst,2021-04-06,F,25,9959,3,75,2021
+872,8432,Jewel,Powers,Jewel.Powers@businessdatastack.com,Sr. Director,2022-03-21,F,17,,7,,2022
+4855,38404,Anastasia,Duke,Anastasia.Duke@businessdatastack.com,Sr. Director,2021-07-20,F,34,,7,,2021
+9959,60648,Leia,Bray,Leia.Bray@businessdatastack.com,Manager,2021-09-07,F,22,1034,4,79,2021
+3816,39228,Mattie,Carr,Mattie.Carr@businessdatastack.com,Director,2021-03-25,F,35,9026,6,84,2021
+7361,25738,Jaden,Galvan,Jaden.Galvan@businessdatastack.com,Director,2022-09-10,F,36,9026,6,84,2022
+8518,38429,Uriel,Cuevas,Uriel.Cuevas@businessdatastack.com,Manager,2021-05-05,F,28,1034,4,79,2021
+1034,31517,Ariella,Edwards,Ariella.Edwards@businessdatastack.com,Sr. Manager,2020-02-05,F,20,9732,5,82,2020
+6360,10860,Jovani,Schultz,Jovani.Schultz@businessdatastack.com,Manager,2021-08-14,F,27,2718,4,81,2021
+2718,62164,Hana,Rowe,Hana.Rowe@businessdatastack.com,Sr. Manager,2022-03-21,F,23,9732,5,82,2022
+9732,39480,Mitchell,Ramos,Mitchell.Ramos@businessdatastack.com,Director,2020-12-16,F,30,9026,6,84,2020
+5741,89468,Zackary,Haney,Zackary.Haney@businessdatastack.com,Manager,2021-04-01,F,25,1310,4,86,2021
+9026,99005,Sanai,Casey,Sanai.Casey@businessdatastack.com,Sr. Director,2021-07-25,F,18,,7,,2021
+8132,34465,Kaylyn,Saunders,Kaylyn.Saunders@businessdatastack.com,Director,2020-07-09,F,37,8406,6,88,2020
+1310,83377,Giselle,Knox,Giselle.Knox@businessdatastack.com,Sr. Manager,2022-01-17,F,22,5582,5,94,2022
+7672,76732,Rigoberto,Shaffer,Rigoberto.Shaffer@businessdatastack.com,Sr. Analyst,2021-09-05,F,25,4283,3,91,2021
+8406,48018,Zayden,Case,Zayden.Case@businessdatastack.com,Sr. Director,2021-10-14,F,20,,7,,2021
+4492,72276,Gilbert,Young,Gilbert.Young@businessdatastack.com,Sr. Manager,2022-03-06,F,19,5582,5,94,2022
+1693,97078,Amaris,White,Amaris.White@businessdatastack.com,Sr. Manager,2020-06-23,F,32,5582,5,94,2020
+4283,62921,Reginald,Gray,Reginald.Gray@businessdatastack.com,Manager,2021-07-14,F,27,6399,4,95,2021
+1562,20239,Jaxon,Salinas,Jaxon.Salinas@businessdatastack.com,Sr. Director,2022-09-03,F,36,,7,,2022
+2999,88880,Maria,Manning,Maria.Manning@businessdatastack.com,Manager,2022-09-17,T,22,6399,4,95,2022
+5582,71358,Kiersten,Cunningham,Kiersten.Cunningham@businessdatastack.com,Director,2021-10-28,F,25,5855,6,101,2021
+6399,36154,Trevor,Yoder,Trevor.Yoder@businessdatastack.com,Sr. Manager,2022-03-24,T,30,1283,5,97,2022
+5053,71116,Carter,Roth,Carter.Roth@businessdatastack.com,Sr. Analyst,2020-03-04,T,17,5251,3,98,2020
+1283,90353,Sarahi,Daugherty,Sarahi.Daugherty@businessdatastack.com,Director,2020-07-27,F,30,5855,6,101,2020
+5251,23876,Yosef,Riggs,Yosef.Riggs@businessdatastack.com,Manager,2021-01-24,T,22,7698,4,109,2021
+9024,94564,Armani,Fuentes,Armani.Fuentes@businessdatastack.com,Analyst,2020-12-26,T,19,8024,2,100,2020
+8024,94112,Mollie,Dougherty,Mollie.Dougherty@businessdatastack.com,Sr. Analyst,2020-09-16,F,21,2910,3,102,2020
+5855,81854,Julio,Dawson,Julio.Dawson@businessdatastack.com,Sr. Director,2020-09-24,F,28,,7,,2020
+2910,78272,Zayden,Sparks,Zayden.Sparks@businessdatastack.com,Manager,2020-11-06,F,33,7698,4,109,2020
+9020,18846,Atticus,Rice,Atticus.Rice@businessdatastack.com,Manager,2022-07-22,T,23,7698,4,109,2022
+436,51179,Elise,Blevins,Elise.Blevins@businessdatastack.com,Analyst,2022-02-15,T,23,6690,2,106,2022
+2485,45597,Adrianna,Powell,Adrianna.Powell@businessdatastack.com,Director,2022-07-23,F,32,403,6,110,2022
+6690,71935,Miriam,Howell,Miriam.Howell@businessdatastack.com,Sr. Analyst,2021-01-24,F,24,767,3,107,2021
+767,60120,Karla,Coffey,Karla.Coffey@businessdatastack.com,Manager,2020-09-10,F,34,7698,4,109,2020
+2143,47206,Sullivan,Wheeler,Sullivan.Wheeler@businessdatastack.com,Analyst,2020-11-16,F,25,6702,2,115,2020
+7698,1522,Gauge,Forbes,Gauge.Forbes@businessdatastack.com,Sr. Manager,2022-01-25,F,17,1450,5,111,2022
+403,50309,Alivia,Lucero,Alivia.Lucero@businessdatastack.com,Sr. Director,2020-03-16,T,26,,7,,2020
+1450,9844,Carley,Hopkins,Carley.Hopkins@businessdatastack.com,Director,2020-09-28,F,23,3702,6,112,2020
+3702,17302,Kimberly,Mathis,Kimberly.Mathis@businessdatastack.com,Sr. Director,2021-07-11,F,32,,7,,2021
+2178,40020,Alfredo,Gallagher,Alfredo.Gallagher@businessdatastack.com,Director,2021-04-07,F,32,7229,6,116,2021
+18,79931,Marely,Riley,Marely.Riley@businessdatastack.com,Analyst,2022-04-02,F,16,6702,2,115,2022
+6702,15060,Paxton,Mayo,Paxton.Mayo@businessdatastack.com,Sr. Analyst,2022-04-01,F,30,2993,3,118,2022
+7229,78974,Jadiel,Santiago,Jadiel.Santiago@businessdatastack.com,Sr. Director,2020-05-04,F,34,,7,,2020
+6976,4347,Viviana,Morse,Viviana.Morse@businessdatastack.com,Sr. Analyst,2022-06-23,F,26,2993,3,118,2022
+2993,36213,Ulises,Vang,Ulises.Vang@businessdatastack.com,Manager,2021-06-15,T,16,8635,4,124,2021
+4563,78452,Marley,Keller,Marley.Keller@businessdatastack.com,Analyst,2020-11-09,T,33,4031,2,128,2020
+2056,2696,Tiana,Chung,Tiana.Chung@businessdatastack.com,Director,2021-02-04,T,18,7549,6,123,2021
+9123,15011,Krista,Barrera,Krista.Barrera@businessdatastack.com,Manager,2022-04-28,F,27,8635,4,124,2022
+661,827,Lena,Odom,Lena.Odom@businessdatastack.com,Analyst,2022-04-09,F,34,4031,2,128,2022
+7549,52402,Ibrahim,Donovan,Ibrahim.Donovan@businessdatastack.com,Sr. Director,2022-05-09,F,26,,7,,2022
+8635,37103,Jeffery,Simon,Jeffery.Simon@businessdatastack.com,Sr. Manager,2021-01-06,F,25,4046,5,149,2021
+7647,24956,Michael,Baxter,Michael.Baxter@businessdatastack.com,Sr. Manager,2021-05-11,T,21,4046,5,149,2021
+465,87418,Jakobe,Andrews,Jakobe.Andrews@businessdatastack.com,Manager,2022-01-24,F,29,7479,4,127,2022
+7479,2498,Rowan,Haney,Rowan.Haney@businessdatastack.com,Sr. Manager,2020-07-01,F,18,4046,5,149,2020
+4031,31547,Maurice,Benjamin,Maurice.Benjamin@businessdatastack.com,Sr. Analyst,2020-02-12,F,30,3850,3,135,2020
+1751,5994,Breanna,Hodge,Breanna.Hodge@businessdatastack.com,Sr. Director,2022-01-07,F,17,,7,,2022
+5550,18686,Carolyn,Norman,Carolyn.Norman@businessdatastack.com,Sr. Director,2021-03-10,F,18,,7,,2021
+1817,91332,Melina,Benjamin,Melina.Benjamin@businessdatastack.com,Analyst,2020-11-17,T,33,9184,2,136,2020
+1900,84818,Mallory,Porter,Mallory.Porter@businessdatastack.com,Sr. Manager,2020-08-19,T,31,4046,5,149,2020
+8173,35562,Frankie,Pittman,Frankie.Pittman@businessdatastack.com,Sr. Manager,2022-04-01,F,27,4046,5,149,2022
+3693,93640,Arielle,Miller,Arielle.Miller@businessdatastack.com,Sr. Manager,2020-05-05,F,17,4046,5,149,2020
+3850,79511,Jesus,Gomez,Jesus.Gomez@businessdatastack.com,Manager,2020-03-06,F,35,5532,4,144,2020
+9184,85150,Mario,Flores,Mario.Flores@businessdatastack.com,Sr. Analyst,2022-02-05,F,22,3448,3,157,2022
+9497,66624,Jaydin,Gates,Jaydin.Gates@businessdatastack.com,Sr. Analyst,2022-02-09,F,26,3448,3,157,2022
+9599,20979,Caiden,Barr,Caiden.Barr@businessdatastack.com,Sr. Analyst,2021-07-07,F,36,3448,3,157,2021
+7296,14681,Lorelai,Williamson,Lorelai.Williamson@businessdatastack.com,Sr. Analyst,2022-01-01,T,36,3448,3,157,2022
+7009,11653,Shaun,Benson,Shaun.Benson@businessdatastack.com,Analyst,2020-01-23,F,37,7985,2,143,2020
+2065,39171,Jacey,Figueroa,Jacey.Figueroa@businessdatastack.com,Analyst,2020-09-19,F,29,7985,2,143,2020
+3086,85131,Prince,Walton,Prince.Walton@businessdatastack.com,Sr. Director,2020-12-05,F,25,,7,,2020
+7985,88718,Aleena,Peters,Aleena.Peters@businessdatastack.com,Sr. Analyst,2021-11-27,T,26,3448,3,157,2021
+5532,71644,Arnav,Chen,Arnav.Chen@businessdatastack.com,Sr. Manager,2020-12-11,F,36,4046,5,149,2020
+4299,28854,Kingston,Valdez,Kingston.Valdez@businessdatastack.com,Analyst,2021-07-27,F,27,5377,2,147,2021
+1643,21790,Bruno,Wheeler,Bruno.Wheeler@businessdatastack.com,Sr. Manager,2020-12-14,F,32,4046,5,149,2020
+5377,11154,Cecelia,James,Cecelia.James@businessdatastack.com,Sr. Analyst,2022-08-11,T,20,3448,3,157,2022
+9518,94371,Branden,Franco,Branden.Franco@businessdatastack.com,Sr. Director,2022-08-09,F,22,,7,,2022
+4046,45553,Leia,Mason,Leia.Mason@businessdatastack.com,Director,2022-05-28,F,19,210,6,153,2022
+9706,73386,Cash,Snyder,Cash.Snyder@businessdatastack.com,Analyst,2020-10-04,F,25,4136,2,155,2020
+676,36990,Evelin,Holland,Evelin.Holland@businessdatastack.com,Sr. Manager,2022-04-27,F,16,4490,5,185,2022
+7281,2330,Salvatore,Cuevas,Salvatore.Cuevas@businessdatastack.com,Analyst,2020-07-20,T,28,4136,2,155,2020
+210,86830,John,Chapman,John.Chapman@businessdatastack.com,Sr. Director,2022-02-11,T,22,,7,,2022
+7404,59352,Denisse,Sandoval,Denisse.Sandoval@businessdatastack.com,Sr. Manager,2022-03-26,F,21,4490,5,185,2022
+4136,55211,Kayden,Mcfarland,Kayden.Mcfarland@businessdatastack.com,Sr. Analyst,2020-12-13,T,18,3448,3,157,2020
+5413,90678,Felix,Patrick,Felix.Patrick@businessdatastack.com,Sr. Analyst,2021-12-27,F,35,3448,3,157,2021
+3448,7456,Octavio,Ingram,Octavio.Ingram@businessdatastack.com,Manager,2022-02-05,F,27,1757,4,159,2022
+5094,23650,Jesse,Herrera,Jesse.Herrera@businessdatastack.com,Sr. Analyst,2020-11-13,F,36,7073,3,162,2020
+1757,45235,Jovanny,Deleon,Jovanny.Deleon@businessdatastack.com,Sr. Manager,2020-10-06,F,33,4490,5,185,2020
+2993,13225,Miles,Chambers,Miles.Chambers@businessdatastack.com,Sr. Director,2020-04-23,F,29,,7,,2020
+807,81664,Bernard,Garcia,Bernard.Garcia@businessdatastack.com,Analyst,2022-01-27,F,16,7671,2,172,2022
+7073,45330,Ana,Cannon,Ana.Cannon@businessdatastack.com,Manager,2021-02-03,F,16,6244,4,164,2021
+8020,73429,Clayton,Tapia,Clayton.Tapia@businessdatastack.com,Manager,2021-04-04,F,35,6244,4,164,2021
+6244,63383,Dulce,Walters,Dulce.Walters@businessdatastack.com,Sr. Manager,2020-04-11,F,23,4490,5,185,2020
+4036,62428,Casey,Manning,Casey.Manning@businessdatastack.com,Analyst,2020-12-09,F,31,7671,2,172,2020
+6765,32353,Anastasia,Jacobson,Anastasia.Jacobson@businessdatastack.com,Analyst,2021-01-17,F,30,7671,2,172,2021
+9465,55516,Maryjane,Bullock,Maryjane.Bullock@businessdatastack.com,Sr. Director,2020-07-14,F,20,,7,,2020
+3354,60442,Raina,Dixon,Raina.Dixon@businessdatastack.com,Analyst,2020-05-24,F,23,7671,2,172,2020
+423,99732,Lilianna,Armstrong,Lilianna.Armstrong@businessdatastack.com,Manager,2020-02-01,F,34,8862,4,170,2020
+8862,71816,Dangelo,Garner,Dangelo.Garner@businessdatastack.com,Sr. Manager,2022-07-23,T,28,4490,5,185,2022
+2334,20622,Brianna,Sullivan,Brianna.Sullivan@businessdatastack.com,Sr. Director,2022-01-12,F,29,,7,,2022
+7671,88490,Ann,Walter,Ann.Walter@businessdatastack.com,Sr. Analyst,2020-12-06,F,36,9758,3,173,2020
+9758,34144,Jayson,Olson,Jayson.Olson@businessdatastack.com,Manager,2022-04-28,F,34,1496,4,174,2022
+1496,61445,Olivia,Lin,Olivia.Lin@businessdatastack.com,Sr. Manager,2020-03-06,T,37,4490,5,185,2020
+9874,77651,Kason,Newton,Kason.Newton@businessdatastack.com,Sr. Analyst,2020-10-16,F,16,2590,3,178,2020
+1010,54734,Talon,Thompson,Talon.Thompson@businessdatastack.com,Sr. Manager,2021-04-19,F,16,4490,5,185,2021
+6889,46701,Rodolfo,Maddox,Rodolfo.Maddox@businessdatastack.com,Sr. Manager,2020-02-26,F,24,4490,5,185,2020
+2590,91266,Jake,Lindsey,Jake.Lindsey@businessdatastack.com,Manager,2022-06-26,F,25,9125,4,182,2022
+3447,50509,Devin,Stone,Devin.Stone@businessdatastack.com,Sr. Director,2020-08-17,F,16,,7,,2020
+6962,10017,Brayden,Alvarado,Brayden.Alvarado@businessdatastack.com,Sr. Analyst,2020-08-21,F,37,9479,3,195,2020
+6229,24981,Derrick,Leonard,Derrick.Leonard@businessdatastack.com,Sr. Director,2020-11-23,T,20,,7,,2020
+9125,83079,Jocelynn,Stout,Jocelynn.Stout@businessdatastack.com,Sr. Manager,2022-07-06,T,23,4490,5,185,2022
+9716,54122,Isabelle,Coffey,Isabelle.Coffey@businessdatastack.com,Sr. Manager,2020-09-13,T,19,4490,5,185,2020
+7694,29734,Nathanial,Leon,Nathanial.Leon@businessdatastack.com,Sr. Analyst,2022-08-12,F,35,9479,3,195,2022
+4490,71561,Zion,Huffman,Zion.Huffman@businessdatastack.com,Director,2020-12-26,F,18,2577,6,187,2020
+8985,3227,Kristin,Schmidt,Kristin.Schmidt@businessdatastack.com,Director,2021-05-01,F,18,2577,6,187,2021
+2577,52798,Darryl,Peck,Darryl.Peck@businessdatastack.com,Sr. Director,2021-03-26,F,18,,7,,2021
+857,91213,Karen,Hull,Karen.Hull@businessdatastack.com,Sr. Manager,2021-08-22,F,16,4056,5,204,2021
+5534,93892,Hannah,Horn,Hannah.Horn@businessdatastack.com,Sr. Analyst,2022-01-20,F,19,9479,3,195,2022
+2796,13287,Ronald,Mathews,Ronald.Mathews@businessdatastack.com,Sr. Analyst,2021-02-06,F,19,9479,3,195,2021
+9939,94958,Heaven,Bass,Heaven.Bass@businessdatastack.com,Sr. Director,2022-08-28,T,27,,7,,2022
+3436,89205,Jameson,Fritz,Jameson.Fritz@businessdatastack.com,Sr. Director,2020-08-24,T,30,,7,,2020
+4307,13178,Nikhil,Mata,Nikhil.Mata@businessdatastack.com,Sr. Manager,2020-11-22,T,18,4056,5,204,2020
+9404,79766,Frankie,Chen,Frankie.Chen@businessdatastack.com,Sr. Director,2022-09-26,T,29,,7,,2022
+9479,39265,Marcel,Woodward,Marcel.Woodward@businessdatastack.com,Manager,2021-02-15,F,31,5554,4,211,2021
+7982,15495,Jasmin,Klein,Jasmin.Klein@businessdatastack.com,Sr. Analyst,2022-07-23,F,24,1012,3,205,2022
+7074,23229,Bailee,Delgado,Bailee.Delgado@businessdatastack.com,Analyst,2022-03-01,F,34,450,2,202,2022
+9380,6606,Linda,Mann,Linda.Mann@businessdatastack.com,Sr. Director,2021-06-11,T,22,,7,,2021
+1609,82674,Guillermo,Calhoun,Guillermo.Calhoun@businessdatastack.com,Sr. Director,2021-07-21,F,17,,7,,2021
+8391,96775,Isabell,Maddox,Isabell.Maddox@businessdatastack.com,Sr. Director,2022-02-26,F,20,,7,,2022
+267,23271,Deangelo,Conley,Deangelo.Conley@businessdatastack.com,Sr. Director,2021-06-27,F,27,,7,,2021
+450,10498,Carlos,Dickson,Carlos.Dickson@businessdatastack.com,Sr. Analyst,2020-09-04,F,33,1012,3,205,2020
+5037,6862,Aracely,Clarke,Aracely.Clarke@businessdatastack.com,Sr. Director,2021-07-20,F,17,,7,,2021
+4056,63007,Marquis,Phelps,Marquis.Phelps@businessdatastack.com,Director,2020-02-18,F,23,1083,6,207,2020
+1012,40410,Saige,Chase,Saige.Chase@businessdatastack.com,Manager,2022-05-14,F,23,5554,4,211,2022
+9808,40343,Damion,Stein,Damion.Stein@businessdatastack.com,Director,2021-03-27,F,16,1083,6,207,2021
+1083,26129,Janelle,Rojas,Janelle.Rojas@businessdatastack.com,Sr. Director,2022-09-28,T,34,,7,,2022
+5678,74994,Abagail,Khan,Abagail.Khan@businessdatastack.com,Sr. Director,2020-05-02,T,37,,7,,2020
+9267,82402,Aylin,Padilla,Aylin.Padilla@businessdatastack.com,Manager,2022-06-09,F,23,5554,4,211,2022
+2029,51125,Skylar,Lowery,Skylar.Lowery@businessdatastack.com,Sr. Director,2021-06-19,F,22,,7,,2021
+5554,8982,Salvatore,Meadows,Salvatore.Meadows@businessdatastack.com,Sr. Manager,2021-05-25,T,30,2622,5,212,2021
+2622,89493,Emely,Sawyer,Emely.Sawyer@businessdatastack.com,Director,2021-02-21,F,19,7037,6,213,2021
+7037,96404,India,Proctor,India.Proctor@businessdatastack.com,Sr. Director,2022-01-27,F,29,,7,,2022
+3421,36698,Wyatt,Reilly,Wyatt.Reilly@businessdatastack.com,Analyst,2020-08-11,T,34,4269,2,231,2020
+7392,13013,Brett,Bryan,Brett.Bryan@businessdatastack.com,Sr. Manager,2021-01-27,F,28,4012,5,217,2021
+4207,20995,Cayden,Joyce,Cayden.Joyce@businessdatastack.com,Sr. Director,2021-04-14,F,18,,7,,2021
+4012,92777,Jordan,Kane,Jordan.Kane@businessdatastack.com,Director,2020-05-11,T,21,7497,6,225,2020
+9505,65008,Darwin,Mckinney,Darwin.Mckinney@businessdatastack.com,Manager,2020-10-07,T,16,177,4,219,2020
+177,91505,Aliza,Sellers,Aliza.Sellers@businessdatastack.com,Sr. Manager,2020-06-23,T,30,8832,5,223,2020
+7206,96911,Alex,Richards,Alex.Richards@businessdatastack.com,Sr. Manager,2021-10-21,F,24,8832,5,223,2021
+2321,43515,Aiyana,Mccarthy,Aiyana.Mccarthy@businessdatastack.com,Manager,2021-10-27,T,20,8286,4,230,2021
+7183,75507,Maxwell,Roberson,Maxwell.Roberson@businessdatastack.com,Manager,2021-01-17,F,19,8286,4,230,2021
+8832,85653,Jennifer,Floyd,Jennifer.Floyd@businessdatastack.com,Director,2021-04-09,T,18,7497,6,225,2021
+2674,58430,Reese,Sloan,Reese.Sloan@businessdatastack.com,Analyst,2022-06-09,F,26,4269,2,231,2022
+7497,97060,Damion,Hunter,Damion.Hunter@businessdatastack.com,Sr. Director,2021-09-23,F,23,,7,,2021
+4446,30462,Audrina,Hays,Audrina.Hays@businessdatastack.com,Director,2020-02-10,F,18,7774,6,228,2020
+4539,52084,Elianna,Zavala,Elianna.Zavala@businessdatastack.com,Director,2022-04-22,F,24,7774,6,228,2022
+7774,62018,Damon,Choi,Damon.Choi@businessdatastack.com,Sr. Director,2022-02-19,T,21,,7,,2022
+2615,4724,Iyana,Singleton,Iyana.Singleton@businessdatastack.com,Analyst,2020-12-01,F,25,4269,2,231,2020
+8286,45076,Jamie,Soto,Jamie.Soto@businessdatastack.com,Sr. Manager,2020-09-12,F,19,2943,5,235,2020
+4269,38127,Jaelynn,Warner,Jaelynn.Warner@businessdatastack.com,Sr. Analyst,2021-12-02,F,33,1691,3,232,2021
+1691,63318,Tony,Mcguire,Tony.Mcguire@businessdatastack.com,Manager,2021-01-28,F,16,1981,4,234,2021
+7414,3853,Elena,Castro,Elena.Castro@businessdatastack.com,Analyst,2020-10-24,F,32,4474,2,240,2020
+1981,2921,Julien,Ferguson,Julien.Ferguson@businessdatastack.com,Sr. Manager,2022-07-27,F,16,2943,5,235,2022
+2943,83805,Irene,Santos,Irene.Santos@businessdatastack.com,Director,2021-11-17,F,29,4150,6,248,2021
+5618,71596,Johnathon,Jarvis,Johnathon.Jarvis@businessdatastack.com,Analyst,2020-02-11,F,16,4474,2,240,2020
+7465,25190,Colt,Terrell,Colt.Terrell@businessdatastack.com,Analyst,2020-06-11,T,37,4474,2,240,2020
+6511,83718,Lea,Stokes,Lea.Stokes@businessdatastack.com,Sr. Manager,2020-08-17,F,29,7675,5,243,2020
+2937,14176,Elaine,Gould,Elaine.Gould@businessdatastack.com,Sr. Manager,2020-10-07,F,35,7675,5,243,2020
+4474,37916,Yael,Russo,Yael.Russo@businessdatastack.com,Sr. Analyst,2021-05-27,F,35,6420,3,241,2021
+6420,50197,Paulina,Ross,Paulina.Ross@businessdatastack.com,Manager,2021-04-28,F,36,695,4,249,2021
+5274,45219,Annika,Morris,Annika.Morris@businessdatastack.com,Analyst,2021-09-12,F,17,1715,2,256,2021
+7675,88537,Makenzie,Case,Makenzie.Case@businessdatastack.com,Director,2021-07-20,F,36,4150,6,248,2021
+8930,14218,Eileen,Sullivan,Eileen.Sullivan@businessdatastack.com,Analyst,2021-05-01,T,16,1715,2,256,2021
+5741,47094,Kaeden,Hobbs,Kaeden.Hobbs@businessdatastack.com,Director,2021-12-23,F,20,4150,6,248,2021
+4223,64012,Amelia,Poole,Amelia.Poole@businessdatastack.com,Analyst,2020-10-23,F,24,1715,2,256,2020
+2700,57784,Jaidyn,Clements,Jaidyn.Clements@businessdatastack.com,Analyst,2020-11-21,T,23,1715,2,256,2020
+4150,13894,Gunnar,Moran,Gunnar.Moran@businessdatastack.com,Sr. Director,2021-10-13,F,32,,7,,2021
+695,47615,Parker,Norris,Parker.Norris@businessdatastack.com,Sr. Manager,2020-08-26,T,27,4340,5,251,2020
+4709,25872,Blaze,Osborne,Blaze.Osborne@businessdatastack.com,Analyst,2021-06-08,F,19,1715,2,256,2021
+4340,72372,June,Vasquez,June.Vasquez@businessdatastack.com,Director,2021-10-01,F,33,1837,6,252,2021
+1837,44720,Madden,Shepard,Madden.Shepard@businessdatastack.com,Sr. Director,2021-10-14,F,28,,7,,2021
+8772,73405,Iris,Kennedy,Iris.Kennedy@businessdatastack.com,Sr. Manager,2020-05-02,T,34,4846,5,259,2020
+20,17966,Reagan,French,Reagan.French@businessdatastack.com,Manager,2021-11-03,F,31,1975,4,261,2021
+9891,47912,Kira,Zamora,Kira.Zamora@businessdatastack.com,Sr. Director,2021-04-16,F,30,,7,,2021
+1715,67515,Hassan,Cortez,Hassan.Cortez@businessdatastack.com,Sr. Analyst,2022-09-06,F,30,3637,3,257,2022
+3637,60364,Amari,Love,Amari.Love@businessdatastack.com,Manager,2022-03-13,F,36,1975,4,261,2022
+2648,64547,Braydon,Lowery,Braydon.Lowery@businessdatastack.com,Manager,2021-11-02,F,25,1975,4,261,2021
+4846,36968,Jose,Morris,Jose.Morris@businessdatastack.com,Director,2021-08-11,F,32,4514,6,260,2021
+4514,12132,Sebastian,Boyd,Sebastian.Boyd@businessdatastack.com,Sr. Director,2022-09-28,F,28,,7,,2022
+1975,82578,Kaylin,Sherman,Kaylin.Sherman@businessdatastack.com,Sr. Manager,2022-04-04,F,37,9252,5,268,2022
+3076,66616,Yurem,Knapp,Yurem.Knapp@businessdatastack.com,Manager,2021-01-15,F,16,2913,4,263,2021
+2913,83661,Jayleen,Swanson,Jayleen.Swanson@businessdatastack.com,Sr. Manager,2021-11-18,F,32,9252,5,268,2021
+4045,50134,Lacey,Farley,Lacey.Farley@businessdatastack.com,Sr. Manager,2022-01-22,F,22,9252,5,268,2022
+8103,76404,Bethany,Ortega,Bethany.Ortega@businessdatastack.com,Sr. Director,2020-06-06,F,37,,7,,2020
+9787,70352,Caiden,Morrison,Caiden.Morrison@businessdatastack.com,Sr. Manager,2022-07-26,F,31,9252,5,268,2022
+1967,80384,Howard,Cummings,Howard.Cummings@businessdatastack.com,Manager,2020-01-07,F,30,9282,4,296,2020
+9252,40582,George,Stewart,George.Stewart@businessdatastack.com,Director,2020-08-17,F,24,9340,6,279,2020
+4320,43952,Richard,Jenkins,Richard.Jenkins@businessdatastack.com,Sr. Analyst,2022-08-25,F,17,8821,3,274,2022
+583,64196,Alexandria,Donaldson,Alexandria.Donaldson@businessdatastack.com,Sr. Analyst,2020-04-21,F,34,8821,3,274,2020
+5972,79271,Clayton,Ortega,Clayton.Ortega@businessdatastack.com,Analyst,2021-10-17,F,28,138,2,273,2021
+8668,59996,Jimena,Clark,Jimena.Clark@businessdatastack.com,Analyst,2021-06-05,F,32,138,2,273,2021
+138,2935,Colt,Stafford,Colt.Stafford@businessdatastack.com,Sr. Analyst,2022-09-04,F,36,8821,3,274,2022
+8821,42926,Jose,Berry,Jose.Berry@businessdatastack.com,Manager,2021-05-13,F,37,9282,4,296,2021
+6959,54683,Laura,Stein,Laura.Stein@businessdatastack.com,Director,2020-05-25,F,30,9340,6,279,2020
+2216,29047,Taliyah,Long,Taliyah.Long@businessdatastack.com,Sr. Analyst,2022-02-01,F,34,925,3,295,2022
+7707,13617,Michaela,Eaton,Michaela.Eaton@businessdatastack.com,Sr. Analyst,2021-11-27,F,21,925,3,295,2021
+4040,67028,Maximilian,Farrell,Maximilian.Farrell@businessdatastack.com,Analyst,2021-11-28,F,24,990,2,280,2021
+9340,43381,Kaya,Watkins,Kaya.Watkins@businessdatastack.com,Sr. Director,2022-07-28,T,32,,7,,2022
+990,18326,Jewel,George,Jewel.George@businessdatastack.com,Sr. Analyst,2022-05-07,F,19,925,3,295,2022
+4239,86110,Devon,Garcia,Devon.Garcia@businessdatastack.com,Analyst,2021-05-27,F,33,8994,2,282,2021
+8994,25555,Areli,Watts,Areli.Watts@businessdatastack.com,Sr. Analyst,2022-06-19,F,24,925,3,295,2022
+1474,56342,Kamora,Lester,Kamora.Lester@businessdatastack.com,Director,2022-03-05,T,17,9326,6,285,2022
+5781,28295,Ronin,Marks,Ronin.Marks@businessdatastack.com,Sr. Analyst,2020-02-25,F,29,925,3,295,2020
+9326,80857,Alondra,Donaldson,Alondra.Donaldson@businessdatastack.com,Sr. Director,2022-03-24,F,20,,7,,2022
+6442,5559,Riya,Beck,Riya.Beck@businessdatastack.com,Analyst,2020-03-23,F,25,5452,2,292,2020
+521,86064,Skye,Patel,Skye.Patel@businessdatastack.com,Director,2021-09-06,F,36,6851,6,291,2021
+5920,69734,Eric,Roman,Eric.Roman@businessdatastack.com,Director,2022-07-25,T,20,6851,6,291,2022
+8688,59365,Cash,Knight,Cash.Knight@businessdatastack.com,Analyst,2020-05-28,F,26,5452,2,292,2020
+3542,2596,Marcus,Bright,Marcus.Bright@businessdatastack.com,Director,2020-10-07,F,16,6851,6,291,2020
+6851,33155,Jaiden,Norris,Jaiden.Norris@businessdatastack.com,Sr. Director,2021-09-06,F,22,,7,,2021
+5452,24412,Howard,Houston,Howard.Houston@businessdatastack.com,Sr. Analyst,2022-03-06,T,25,925,3,295,2022
+3850,76608,Paul,Villanueva,Paul.Villanueva@businessdatastack.com,Sr. Director,2022-05-09,F,32,,7,,2022
+6009,88875,Makayla,Harding,Makayla.Harding@businessdatastack.com,Analyst,2022-05-13,F,36,8985,2,304,2022
+925,7139,Marlon,Hensley,Marlon.Hensley@businessdatastack.com,Manager,2022-02-02,F,37,9282,4,296,2022
+9282,76038,Nico,Dominguez,Nico.Dominguez@businessdatastack.com,Sr. Manager,2021-03-12,F,37,3993,5,301,2021
+1538,74707,Elisa,Salinas,Elisa.Salinas@businessdatastack.com,Analyst,2020-12-13,F,17,8985,2,304,2020
+6505,89899,Mary,Moyer,Mary.Moyer@businessdatastack.com,Sr. Manager,2020-10-05,F,32,3993,5,301,2020
+2937,78235,Hamza,Wong,Hamza.Wong@businessdatastack.com,Manager,2020-05-19,F,29,3890,4,308,2020
+7596,30650,Reginald,Herring,Reginald.Herring@businessdatastack.com,Manager,2022-05-04,F,23,3890,4,308,2022
+3993,4597,Roman,Davenport,Roman.Davenport@businessdatastack.com,Director,2020-08-05,T,20,8837,6,305,2020
+2650,24178,Kaitlynn,Shaw,Kaitlynn.Shaw@businessdatastack.com,Director,2020-10-26,F,28,8837,6,305,2020
+5156,60499,Caden,Brown,Caden.Brown@businessdatastack.com,Manager,2020-08-13,T,22,3890,4,308,2020
+8985,66311,Tripp,Harvey,Tripp.Harvey@businessdatastack.com,Sr. Analyst,2021-11-01,F,33,1094,3,319,2021
+8837,22979,River,York,River.York@businessdatastack.com,Sr. Director,2021-12-02,F,22,,7,,2021
+909,34119,Ramiro,Erickson,Ramiro.Erickson@businessdatastack.com,Sr. Director,2020-12-01,F,20,,7,,2020
+3809,59183,Seamus,Tyler,Seamus.Tyler@businessdatastack.com,Sr. Director,2020-11-11,F,33,,7,,2020
+3890,94286,Dania,Lucero,Dania.Lucero@businessdatastack.com,Sr. Manager,2022-05-16,F,27,5192,5,324,2022
+5593,6340,Makenna,Atkins,Makenna.Atkins@businessdatastack.com,Sr. Manager,2021-07-09,F,31,5192,5,324,2021
+1578,49336,Kaya,Pineda,Kaya.Pineda@businessdatastack.com,Sr. Analyst,2022-09-22,F,23,1094,3,319,2022
+4432,67404,Jamal,Pena,Jamal.Pena@businessdatastack.com,Analyst,2021-07-14,F,19,7895,2,312,2021
+7895,96001,Braylon,Peck,Braylon.Peck@businessdatastack.com,Sr. Analyst,2022-03-17,F,24,1094,3,319,2022
+6361,40150,Keyon,Tate,Keyon.Tate@businessdatastack.com,Sr. Manager,2021-08-27,F,27,5192,5,324,2021
+4932,88117,Evangeline,Yang,Evangeline.Yang@businessdatastack.com,Sr. Director,2022-03-01,F,29,,7,,2022
+3471,35180,Rodney,Burnett,Rodney.Burnett@businessdatastack.com,Sr. Analyst,2021-07-14,F,35,1094,3,319,2021
+1595,97651,Alijah,Rios,Alijah.Rios@businessdatastack.com,Sr. Director,2021-05-17,F,30,,7,,2021
+1901,22461,Anton,Reed,Anton.Reed@businessdatastack.com,Sr. Director,2022-05-13,F,30,,7,,2022
+3089,83863,Nancy,Decker,Nancy.Decker@businessdatastack.com,Analyst,2020-01-03,F,28,7541,2,322,2020
+1094,67178,Zion,Diaz,Zion.Diaz@businessdatastack.com,Manager,2021-01-03,F,21,7617,4,331,2021
+4431,24154,Waylon,Barron,Waylon.Barron@businessdatastack.com,Manager,2022-07-25,F,21,7617,4,331,2022
+1495,65805,London,Dudley,London.Dudley@businessdatastack.com,Sr. Director,2020-08-16,F,22,,7,,2020
+7541,91204,Quinn,Key,Quinn.Key@businessdatastack.com,Sr. Analyst,2020-09-06,T,17,674,3,325,2020
+2563,75834,Tyree,Jefferson,Tyree.Jefferson@businessdatastack.com,Sr. Analyst,2021-11-08,F,24,674,3,325,2021
+5192,8784,Kaylee,Koch,Kaylee.Koch@businessdatastack.com,Director,2021-11-22,F,26,9232,6,327,2021
+674,40079,Bianca,Kemp,Bianca.Kemp@businessdatastack.com,Manager,2021-09-03,F,27,7617,4,331,2021
+2245,41786,Julia,Burke,Julia.Burke@businessdatastack.com,Director,2020-12-15,F,29,9232,6,327,2020
+9232,22235,Deven,Park,Deven.Park@businessdatastack.com,Sr. Director,2022-02-12,F,20,,7,,2022
+5736,44613,Leo,Sims,Leo.Sims@businessdatastack.com,Director,2020-12-16,T,36,5503,6,338,2020
+6102,38608,Bailee,Barnett,Bailee.Barnett@businessdatastack.com,Sr. Analyst,2020-10-02,F,23,9419,3,336,2020
+1433,90201,Marissa,Marks,Marissa.Marks@businessdatastack.com,Analyst,2020-09-09,F,19,6844,2,347,2020
+7617,55150,Jorge,Flowers,Jorge.Flowers@businessdatastack.com,Sr. Manager,2022-02-18,F,18,1323,5,341,2022
+7433,75398,Joseph,Riddle,Joseph.Riddle@businessdatastack.com,Sr. Manager,2020-04-28,F,18,1323,5,341,2020
+2022,54192,Davian,Jordan,Davian.Jordan@businessdatastack.com,Analyst,2020-06-28,F,25,6844,2,347,2020
+7938,35557,Paul,Schwartz,Paul.Schwartz@businessdatastack.com,Sr. Manager,2022-09-08,F,26,1323,5,341,2022
+1535,45663,Darius,Harper,Darius.Harper@businessdatastack.com,Sr. Manager,2022-01-02,F,30,1323,5,341,2022
+9419,58781,Raphael,Gardner,Raphael.Gardner@businessdatastack.com,Manager,2020-07-10,F,18,5257,4,339,2020
+4756,33013,Zoie,Gill,Zoie.Gill@businessdatastack.com,Analyst,2020-06-03,T,23,6844,2,347,2020
+5503,80947,Eva,Guerrero,Eva.Guerrero@businessdatastack.com,Sr. Director,2020-10-13,F,27,,7,,2020
+5257,71038,Damien,Steele,Damien.Steele@businessdatastack.com,Sr. Manager,2022-07-02,F,29,1323,5,341,2022
+6731,20114,George,Rivers,George.Rivers@businessdatastack.com,Analyst,2022-01-14,T,30,6844,2,347,2022
+1323,30530,Nathaniel,Santiago,Nathaniel.Santiago@businessdatastack.com,Director,2021-02-02,F,25,8583,6,342,2021
+8583,79687,Harry,Rosario,Harry.Rosario@businessdatastack.com,Sr. Director,2022-07-22,T,29,,7,,2022
+1370,14184,Savion,Hawkins,Savion.Hawkins@businessdatastack.com,Analyst,2022-06-15,F,33,6844,2,347,2022
+4561,69225,Sage,Mcconnell,Sage.Mcconnell@businessdatastack.com,Manager,2022-07-04,F,29,9547,4,345,2022
+9547,16770,Angel,Harper,Angel.Harper@businessdatastack.com,Sr. Manager,2022-01-12,F,22,3940,5,349,2022
+4995,80738,Johnny,Drake,Johnny.Drake@businessdatastack.com,Sr. Director,2022-02-06,F,25,,7,,2022
+6844,94102,Marilyn,Bautista,Marilyn.Bautista@businessdatastack.com,Sr. Analyst,2021-09-22,F,37,8216,3,357,2021
+9441,22660,Anne,Horton,Anne.Horton@businessdatastack.com,Sr. Director,2022-06-13,F,30,,7,,2022
+3940,69299,Aron,Gilbert,Aron.Gilbert@businessdatastack.com,Director,2022-05-10,F,36,7775,6,352,2022
+5630,40496,Mary,Townsend,Mary.Townsend@businessdatastack.com,Analyst,2022-07-19,F,27,6941,2,353,2022
+2494,68774,Roselyn,Hansen,Roselyn.Hansen@businessdatastack.com,Sr. Manager,2020-01-23,F,28,2696,5,366,2020
+7775,36412,Ali,Bean,Ali.Bean@businessdatastack.com,Sr. Director,2021-08-02,T,29,,7,,2021
+6941,3359,Lamont,Dillon,Lamont.Dillon@businessdatastack.com,Sr. Analyst,2022-05-13,F,34,8216,3,357,2022
+2569,584,Lorenzo,Davila,Lorenzo.Davila@businessdatastack.com,Sr. Analyst,2022-01-25,T,25,8216,3,357,2022
+9370,95864,Brian,Bartlett,Brian.Bartlett@businessdatastack.com,Analyst,2021-06-02,F,18,6209,2,356,2021
+6209,56638,Jalen,Lambert,Jalen.Lambert@businessdatastack.com,Sr. Analyst,2020-06-12,F,23,8216,3,357,2020
+8216,23521,Kylie,Brock,Kylie.Brock@businessdatastack.com,Manager,2021-11-09,F,30,8201,4,369,2021
+1257,82510,Gabriel,Rhodes,Gabriel.Rhodes@businessdatastack.com,Sr. Director,2021-11-26,T,27,,7,,2021
+1975,72871,Sarahi,Campos,Sarahi.Campos@businessdatastack.com,Manager,2020-10-07,F,34,8201,4,369,2020
+6503,45891,Terrance,Ritter,Terrance.Ritter@businessdatastack.com,Sr. Analyst,2022-09-21,F,28,6913,3,363,2022
+7670,92653,Victoria,Irwin,Victoria.Irwin@businessdatastack.com,Sr. Analyst,2021-02-03,F,24,6913,3,363,2021
+8373,85376,Quinten,Norris,Quinten.Norris@businessdatastack.com,Sr. Director,2020-10-09,T,25,,7,,2020
+6913,40754,Ronnie,Donaldson,Ronnie.Donaldson@businessdatastack.com,Manager,2021-07-06,T,16,8201,4,369,2021
+4285,35821,Lizeth,Rivera,Lizeth.Rivera@businessdatastack.com,Analyst,2021-01-21,F,32,3487,2,375,2021
+1930,41288,Erik,Ashley,Erik.Ashley@businessdatastack.com,Manager,2022-02-08,F,34,8201,4,369,2022
+2696,25579,Brooks,Carlson,Brooks.Carlson@businessdatastack.com,Director,2021-10-08,T,20,1090,6,371,2021
+3433,75531,Ahmed,Duke,Ahmed.Duke@businessdatastack.com,Analyst,2022-02-07,F,16,3487,2,375,2022
+829,5968,Osvaldo,Mcpherson,Osvaldo.Mcpherson@businessdatastack.com,Director,2022-07-23,T,29,1090,6,371,2022
+8201,52101,Kaiya,Sexton,Kaiya.Sexton@businessdatastack.com,Sr. Manager,2022-01-21,T,36,841,5,370,2022
+841,79091,Aryanna,Allen,Aryanna.Allen@businessdatastack.com,Director,2022-08-01,T,26,1090,6,371,2022
+1090,65115,Nikhil,Matthews,Nikhil.Matthews@businessdatastack.com,Sr. Director,2020-08-20,F,20,,7,,2020
+4318,68997,Sammy,Murray,Sammy.Murray@businessdatastack.com,Sr. Manager,2021-05-16,F,37,8989,5,378,2021
+7157,77269,Elianna,Maddox,Elianna.Maddox@businessdatastack.com,Analyst,2020-10-07,F,28,3487,2,375,2020
+640,27011,Ray,Snow,Ray.Snow@businessdatastack.com,Analyst,2022-04-25,F,35,3487,2,375,2022
+3487,14233,Irene,Lowe,Irene.Lowe@businessdatastack.com,Sr. Analyst,2021-07-25,F,32,2649,3,376,2021
+2649,82999,Orion,Miles,Orion.Miles@businessdatastack.com,Manager,2020-01-25,F,19,5149,4,377,2020
+5149,91102,Anabella,Singh,Anabella.Singh@businessdatastack.com,Sr. Manager,2022-07-05,F,26,8989,5,378,2022
+8989,39717,Dana,Love,Dana.Love@businessdatastack.com,Director,2022-07-11,F,23,5852,6,381,2022
+2444,98404,Bria,Fitzpatrick,Bria.Fitzpatrick@businessdatastack.com,Director,2021-06-18,F,22,5852,6,381,2021
+4786,64960,Allisson,Saunders,Allisson.Saunders@businessdatastack.com,Manager,2022-08-26,F,29,2321,4,394,2022
+5852,99629,Theodore,Wiley,Theodore.Wiley@businessdatastack.com,Sr. Director,2020-03-05,F,21,,7,,2020
+9186,43641,India,Schaefer,India.Schaefer@businessdatastack.com,Manager,2022-05-06,F,19,2321,4,394,2022
+191,72141,Uriah,Estrada,Uriah.Estrada@businessdatastack.com,Sr. Director,2020-02-25,F,32,,7,,2020
+5557,31795,Ingrid,Mullen,Ingrid.Mullen@businessdatastack.com,Sr. Analyst,2020-04-02,T,29,62,3,389,2020
+8871,7099,Karen,Levy,Karen.Levy@businessdatastack.com,Director,2021-11-26,F,36,8586,6,387,2021
+4105,55012,Devyn,Hess,Devyn.Hess@businessdatastack.com,Sr. Analyst,2022-05-26,F,34,62,3,389,2022
+8586,77430,Marin,Houston,Marin.Houston@businessdatastack.com,Sr. Director,2022-01-24,F,16,,7,,2022
+1377,20858,Grant,Cochran,Grant.Cochran@businessdatastack.com,Analyst,2022-05-05,T,31,9686,2,390,2022
+62,22178,Jalen,Howell,Jalen.Howell@businessdatastack.com,Manager,2020-10-13,T,18,2321,4,394,2020
+9686,58569,Rayne,Flores,Rayne.Flores@businessdatastack.com,Sr. Analyst,2022-09-27,T,30,1616,3,399,2022
+4079,44094,River,Lopez,River.Lopez@businessdatastack.com,Sr. Analyst,2020-07-19,F,19,1616,3,399,2020
+6610,66037,Rhett,Rosales,Rhett.Rosales@businessdatastack.com,Analyst,2021-09-03,F,34,9841,2,400,2021
+9009,5687,Sarai,Farrell,Sarai.Farrell@businessdatastack.com,Analyst,2021-12-08,F,20,9841,2,400,2021
+2321,81,Julio,Ryan,Julio.Ryan@businessdatastack.com,Sr. Manager,2020-08-14,F,19,6835,5,397,2020
+5626,98374,Kathryn,Hebert,Kathryn.Hebert@businessdatastack.com,Sr. Manager,2020-12-08,F,22,6835,5,397,2020
+8474,36997,Angeline,Huang,Angeline.Huang@businessdatastack.com,Sr. Manager,2021-07-17,F,22,6835,5,397,2021
+6835,19875,Kael,Hopkins,Kael.Hopkins@businessdatastack.com,Director,2021-03-14,F,32,9165,6,404,2021
+8843,5933,Derrick,Shaffer,Derrick.Shaffer@businessdatastack.com,Sr. Manager,2022-09-08,F,30,128,5,410,2022
+1616,80058,Amaya,Duran,Amaya.Duran@businessdatastack.com,Manager,2021-01-01,F,30,7008,4,405,2021
+9841,31772,Alexa,Moreno,Alexa.Moreno@businessdatastack.com,Sr. Analyst,2022-08-12,F,16,6970,3,403,2022
+3737,15168,Nicole,Hayes,Nicole.Hayes@businessdatastack.com,Analyst,2022-02-03,F,18,4472,2,402,2022
+4472,27745,Semaj,Pennington,Semaj.Pennington@businessdatastack.com,Sr. Analyst,2020-11-06,F,17,6970,3,403,2020
+6970,40104,Maci,Rich,Maci.Rich@businessdatastack.com,Manager,2020-12-01,F,25,7008,4,405,2020
+9165,81281,Kaila,Willis,Kaila.Willis@businessdatastack.com,Sr. Director,2021-03-07,F,32,,7,,2021
+7008,97015,Darnell,Velez,Darnell.Velez@businessdatastack.com,Sr. Manager,2021-02-02,F,23,128,5,410,2021
+356,33495,Emmanuel,Manning,Emmanuel.Manning@businessdatastack.com,Manager,2020-03-04,T,29,9392,4,409,2020
+1685,63527,Jadiel,Murillo,Jadiel.Murillo@businessdatastack.com,Sr. Analyst,2022-09-19,F,34,2783,3,413,2022
+5223,66018,Kamari,Webb,Kamari.Webb@businessdatastack.com,Sr. Analyst,2020-07-27,F,25,2783,3,413,2020
+9392,18028,Taylor,Carson,Taylor.Carson@businessdatastack.com,Sr. Manager,2022-05-20,T,19,128,5,410,2022
+128,67827,Yoselin,Cook,Yoselin.Cook@businessdatastack.com,Director,2021-02-15,F,34,3511,6,427,2021
+2805,12079,Taylor,Sanders,Taylor.Sanders@businessdatastack.com,Sr. Analyst,2020-03-11,F,20,2783,3,413,2020
+3908,37696,Ronald,Figueroa,Ronald.Figueroa@businessdatastack.com,Sr. Manager,2022-05-25,F,36,9319,5,415,2022
+2783,937,Jaqueline,Clark,Jaqueline.Clark@businessdatastack.com,Manager,2020-10-06,F,20,4907,4,414,2020
+4907,71309,Kristen,Stewart,Kristen.Stewart@businessdatastack.com,Sr. Manager,2020-09-26,F,35,9319,5,415,2020
+9319,42585,Miranda,Benjamin,Miranda.Benjamin@businessdatastack.com,Director,2022-02-07,T,34,3511,6,427,2022
+9981,27358,Haven,Richards,Haven.Richards@businessdatastack.com,Director,2021-09-15,F,20,3511,6,427,2021
+6374,88219,Sage,Lara,Sage.Lara@businessdatastack.com,Director,2020-07-04,F,32,3511,6,427,2020
+9178,59446,Alena,Freeman,Alena.Freeman@businessdatastack.com,Sr. Analyst,2022-07-07,F,34,3548,3,420,2022
+3057,60429,Lorenzo,Wiggins,Lorenzo.Wiggins@businessdatastack.com,Sr. Manager,2021-06-25,T,29,440,5,426,2021
+3548,24021,Esther,Oconnell,Esther.Oconnell@businessdatastack.com,Manager,2020-01-11,F,36,91,4,428,2020
+8956,98783,Lorena,Baxter,Lorena.Baxter@businessdatastack.com,Sr. Analyst,2021-05-16,F,26,2675,3,423,2021
+5526,16010,Rolando,Caldwell,Rolando.Caldwell@businessdatastack.com,Analyst,2020-04-14,F,21,5407,2,430,2020
+2675,67761,Johnny,Grimes,Johnny.Grimes@businessdatastack.com,Manager,2021-07-10,T,30,91,4,428,2021
+8210,46522,Oscar,Pearson,Oscar.Pearson@businessdatastack.com,Analyst,2021-09-01,F,30,5407,2,430,2021
+8500,81635,Emmy,Gentry,Emmy.Gentry@businessdatastack.com,Manager,2022-09-02,F,24,91,4,428,2022
+440,15332,Matias,Rojas,Matias.Rojas@businessdatastack.com,Director,2020-01-02,F,16,3511,6,427,2020
+3511,38495,Gregory,Montoya,Gregory.Montoya@businessdatastack.com,Sr. Director,2021-05-06,T,17,,7,,2021
+91,17115,Neil,Robinson,Neil.Robinson@businessdatastack.com,Sr. Manager,2021-09-15,F,24,7867,5,429,2021
+7867,60106,Campbell,Dodson,Campbell.Dodson@businessdatastack.com,Director,2020-10-28,F,16,8226,6,435,2020
+5407,19948,Kaia,Morse,Kaia.Morse@businessdatastack.com,Sr. Analyst,2021-04-20,F,23,6640,3,440,2021
+7048,91956,Hanna,Pineda,Hanna.Pineda@businessdatastack.com,Sr. Analyst,2022-07-14,F,23,6640,3,440,2022
+4263,20652,London,Nichols,London.Nichols@businessdatastack.com,Sr. Manager,2021-06-18,F,30,4253,5,438,2021
+8816,61050,Aleah,Robertson,Aleah.Robertson@businessdatastack.com,Sr. Manager,2020-08-01,T,31,4253,5,438,2020
+8496,80169,Penelope,James,Penelope.James@businessdatastack.com,Analyst,2020-08-26,F,28,2822,2,447,2020
+8226,301,Dale,Watson,Dale.Watson@businessdatastack.com,Sr. Director,2022-01-04,F,19,,7,,2022
+423,93881,Aubree,Powers,Aubree.Powers@businessdatastack.com,Analyst,2022-04-21,F,24,2822,2,447,2022
+1971,63975,Hayden,Barrett,Hayden.Barrett@businessdatastack.com,Sr. Director,2022-04-21,F,28,,7,,2022
+4253,99251,Wilson,Robinson,Wilson.Robinson@businessdatastack.com,Director,2022-06-04,F,18,2413,6,439,2022
+2413,1950,Jovanni,Gross,Jovanni.Gross@businessdatastack.com,Sr. Director,2020-10-25,F,33,,7,,2020
+6640,94346,Averie,Alvarez,Averie.Alvarez@businessdatastack.com,Manager,2022-04-18,F,32,1339,4,462,2022
+447,48108,Kaden,Rivas,Kaden.Rivas@businessdatastack.com,Director,2021-08-03,F,20,2702,6,442,2021
+2702,34145,Catalina,White,Catalina.White@businessdatastack.com,Sr. Director,2020-01-12,F,35,,7,,2020
+8006,80291,Jakobe,Potts,Jakobe.Potts@businessdatastack.com,Sr. Director,2021-01-22,F,29,,7,,2021
+5699,16033,Cason,Lester,Cason.Lester@businessdatastack.com,Analyst,2022-01-04,F,16,2822,2,447,2022
+5674,88270,Myles,Cantu,Myles.Cantu@businessdatastack.com,Analyst,2022-08-21,F,30,2822,2,447,2022
+3070,60611,Marshall,Rollins,Marshall.Rollins@businessdatastack.com,Manager,2020-05-05,F,19,1339,4,462,2020
+2822,88453,Tianna,Barnett,Tianna.Barnett@businessdatastack.com,Sr. Analyst,2022-04-08,F,28,7310,3,455,2022
+1508,2969,Grayson,Armstrong,Grayson.Armstrong@businessdatastack.com,Analyst,2022-05-06,F,21,9848,2,449,2022
+9848,44674,Justus,Mcgee,Justus.Mcgee@businessdatastack.com,Sr. Analyst,2020-09-24,F,22,7310,3,455,2020
+3277,37693,Monserrat,Stone,Monserrat.Stone@businessdatastack.com,Analyst,2021-05-07,T,26,7197,2,451,2021
+7197,43963,Cecilia,Perez,Cecilia.Perez@businessdatastack.com,Sr. Analyst,2021-03-11,F,24,7310,3,455,2021
+536,52421,Justice,Conway,Justice.Conway@businessdatastack.com,Sr. Director,2021-05-19,T,37,,7,,2021
+3326,37340,Andy,Stokes,Andy.Stokes@businessdatastack.com,Sr. Director,2020-03-16,F,27,,7,,2020
+2356,1204,Beatrice,Leon,Beatrice.Leon@businessdatastack.com,Analyst,2020-05-20,F,18,1494,2,463,2020
+7310,63015,Adelaide,Rollins,Adelaide.Rollins@businessdatastack.com,Manager,2022-02-14,F,34,1339,4,462,2022
+2662,55554,Haleigh,Stevenson,Haleigh.Stevenson@businessdatastack.com,Sr. Director,2020-11-23,F,27,,7,,2020
+1384,64285,Carlo,Werner,Carlo.Werner@businessdatastack.com,Manager,2022-08-16,F,30,1339,4,462,2022
+780,78220,Aidan,Fleming,Aidan.Fleming@businessdatastack.com,Manager,2020-02-21,F,31,1339,4,462,2020
+9487,53217,Ethan,Lamb,Ethan.Lamb@businessdatastack.com,Manager,2020-03-15,F,18,1339,4,462,2020
+8097,82532,Kennedi,Castro,Kennedi.Castro@businessdatastack.com,Sr. Director,2020-01-15,F,17,,7,,2020
+4639,94121,Russell,Murray,Russell.Murray@businessdatastack.com,Manager,2022-02-14,F,24,1339,4,462,2022
+1339,68178,Lizeth,Wilkinson,Lizeth.Wilkinson@businessdatastack.com,Sr. Manager,2022-03-01,F,27,3814,5,469,2022
+1494,12418,Gavyn,Lyons,Gavyn.Lyons@businessdatastack.com,Sr. Analyst,2020-06-12,F,26,2719,3,464,2020
+2719,99311,Judah,Melendez,Judah.Melendez@businessdatastack.com,Manager,2020-04-16,F,36,9713,4,478,2020
+4320,51637,Darrell,Nolan,Darrell.Nolan@businessdatastack.com,Sr. Analyst,2020-12-12,F,21,6677,3,467,2020
+7363,95454,Clayton,Moon,Clayton.Moon@businessdatastack.com,Sr. Director,2022-09-16,F,29,,7,,2022
+6677,74954,Kareem,Hurst,Kareem.Hurst@businessdatastack.com,Manager,2020-12-27,F,28,9713,4,478,2020
+4741,8697,Anika,Hines,Anika.Hines@businessdatastack.com,Sr. Director,2022-06-21,F,22,,7,,2022
+3814,46334,Kamryn,Dennis,Kamryn.Dennis@businessdatastack.com,Director,2022-06-06,F,35,6990,6,476,2022
+6765,61805,Nigel,Rangel,Nigel.Rangel@businessdatastack.com,Sr. Analyst,2022-02-14,F,25,2684,3,474,2022
+6843,86183,Kamryn,Salazar,Kamryn.Salazar@businessdatastack.com,Analyst,2020-03-16,T,26,5121,2,473,2020
+6036,59720,Cecilia,Ortiz,Cecilia.Ortiz@businessdatastack.com,Director,2022-01-25,T,37,6990,6,476,2022
+5121,27741,Seamus,Watkins,Seamus.Watkins@businessdatastack.com,Sr. Analyst,2020-07-07,F,30,2684,3,474,2020
+2684,30174,Kaia,Wong,Kaia.Wong@businessdatastack.com,Manager,2022-07-01,F,16,9713,4,478,2022
+3062,12720,Mohamed,Parsons,Mohamed.Parsons@businessdatastack.com,Analyst,2020-04-04,F,21,8406,2,485,2020
+6990,78187,Naomi,Noble,Naomi.Noble@businessdatastack.com,Sr. Director,2021-02-08,T,24,,7,,2021
+63,29571,Tobias,Sandoval,Tobias.Sandoval@businessdatastack.com,Analyst,2020-02-18,F,23,8406,2,485,2020
+9713,1518,Kate,Harvey,Kate.Harvey@businessdatastack.com,Sr. Manager,2021-04-05,T,20,4891,5,496,2021
+3160,60733,Uriel,Mayer,Uriel.Mayer@businessdatastack.com,Sr. Director,2021-07-20,F,36,,7,,2021
+535,7796,Jagger,Hines,Jagger.Hines@businessdatastack.com,Sr. Manager,2020-02-23,F,21,4891,5,496,2020
+2685,42329,Colt,Dalton,Colt.Dalton@businessdatastack.com,Manager,2022-05-11,F,18,7218,4,487,2022
+4071,66829,Odin,Douglas,Odin.Douglas@businessdatastack.com,Analyst,2020-05-17,F,29,8406,2,485,2020
+8629,49466,Alisa,Brooks,Alisa.Brooks@businessdatastack.com,Analyst,2020-05-09,F,28,8406,2,485,2020
+3766,47081,Zackery,Ellis,Zackery.Ellis@businessdatastack.com,Manager,2021-12-21,F,17,7218,4,487,2021
+8406,42538,Kenyon,Ibarra,Kenyon.Ibarra@businessdatastack.com,Sr. Analyst,2020-01-22,F,37,9499,3,497,2020
+6158,70007,Jaycee,Shepard,Jaycee.Shepard@businessdatastack.com,Sr. Analyst,2020-10-20,T,27,9499,3,497,2020
+7218,95096,Jan,Mercer,Jan.Mercer@businessdatastack.com,Sr. Manager,2022-02-15,F,27,4891,5,496,2022
+7293,67566,Derek,Shannon,Derek.Shannon@businessdatastack.com,Sr. Analyst,2021-12-19,F,24,9499,3,497,2021
+9704,70693,Mariam,Mcdowell,Mariam.Mcdowell@businessdatastack.com,Analyst,2020-08-19,T,29,8744,2,490,2020
+8744,74646,Aliza,Wu,Aliza.Wu@businessdatastack.com,Sr. Analyst,2021-04-08,T,20,9499,3,497,2021
+6247,43329,Sheldon,Butler,Sheldon.Butler@businessdatastack.com,Sr. Analyst,2020-08-23,F,33,9499,3,497,2020
+4042,48526,Tyrese,Bright,Tyrese.Bright@businessdatastack.com,Analyst,2020-11-11,F,29,1389,2,494,2020
+4756,72605,Soren,Schmitt,Soren.Schmitt@businessdatastack.com,Sr. Director,2021-07-17,F,33,,7,,2021
+1389,27982,Addison,Gates,Addison.Gates@businessdatastack.com,Sr. Analyst,2022-02-12,T,16,9499,3,497,2022
+9834,5189,Ayaan,Pena,Ayaan.Pena@businessdatastack.com,Analyst,2020-09-05,T,32,2587,2,498,2020
+4891,18408,Liam,Ibarra,Liam.Ibarra@businessdatastack.com,Director,2021-10-25,T,35,6917,6,508,2021
+9499,36310,Leonidas,Vang,Leonidas.Vang@businessdatastack.com,Manager,2021-02-15,F,31,5913,4,501,2021
+2587,38768,Terry,Rogers,Terry.Rogers@businessdatastack.com,Sr. Analyst,2021-04-28,T,22,5304,3,505,2021
+1226,96694,Isaias,Humphrey,Isaias.Humphrey@businessdatastack.com,Analyst,2022-03-17,F,26,8111,2,500,2022
+8111,6914,Trent,Rivera,Trent.Rivera@businessdatastack.com,Sr. Analyst,2020-10-11,F,22,5304,3,505,2020
+5913,27974,Hailee,Aguirre,Hailee.Aguirre@businessdatastack.com,Sr. Manager,2022-06-14,F,25,5335,5,511,2022
+9995,13593,Tatum,Knox,Tatum.Knox@businessdatastack.com,Analyst,2021-03-27,T,21,3994,2,509,2021
+8216,88016,Jasmine,Griffin,Jasmine.Griffin@businessdatastack.com,Analyst,2022-09-26,T,34,3994,2,509,2022
+3588,76631,Eliza,Schroeder,Eliza.Schroeder@businessdatastack.com,Analyst,2021-12-02,F,30,3994,2,509,2021
+5304,34095,Beckham,Sullivan,Beckham.Sullivan@businessdatastack.com,Manager,2021-07-02,F,20,7595,4,514,2021
+2918,83488,Ernesto,Jarvis,Ernesto.Jarvis@businessdatastack.com,Analyst,2021-07-01,F,16,3994,2,509,2021
+8179,54886,Eddie,Glover,Eddie.Glover@businessdatastack.com,Manager,2022-06-08,F,35,7595,4,514,2022
+6917,60107,Makai,Ferguson,Makai.Ferguson@businessdatastack.com,Sr. Director,2021-09-26,F,24,,7,,2021
+3994,81102,Macie,Willis,Macie.Willis@businessdatastack.com,Sr. Analyst,2022-05-02,F,34,558,3,510,2022
+558,61760,Lola,Terrell,Lola.Terrell@businessdatastack.com,Manager,2020-02-10,F,31,7595,4,514,2020
+5335,11035,Janessa,Willis,Janessa.Willis@businessdatastack.com,Director,2021-09-09,F,31,9264,6,515,2021
+2115,85821,Jerome,Cannon,Jerome.Cannon@businessdatastack.com,Analyst,2021-03-17,F,35,2294,2,513,2021
+2294,29501,Brooke,Ortiz,Brooke.Ortiz@businessdatastack.com,Sr. Analyst,2021-07-06,F,32,3889,3,526,2021
+7595,81068,Gia,Blevins,Gia.Blevins@businessdatastack.com,Sr. Manager,2022-03-14,F,17,7173,5,521,2022
+9264,15613,Tia,Rowe,Tia.Rowe@businessdatastack.com,Sr. Director,2020-01-19,F,19,,7,,2020
+3690,60081,Zachariah,Holland,Zachariah.Holland@businessdatastack.com,Analyst,2022-01-18,F,17,2458,2,517,2022
+2458,79494,Kiley,Luna,Kiley.Luna@businessdatastack.com,Sr. Analyst,2022-07-14,T,30,3889,3,526,2022
+4426,71125,Hallie,Whitney,Hallie.Whitney@businessdatastack.com,Sr. Director,2022-04-20,F,18,,7,,2022
+7640,93704,Anabelle,Holland,Anabelle.Holland@businessdatastack.com,Sr. Director,2020-08-17,F,20,,7,,2020
+8767,83245,Danica,Oneill,Danica.Oneill@businessdatastack.com,Sr. Manager,2020-04-10,F,25,7173,5,521,2020
+7173,28751,Jovany,Mcdonald,Jovany.Mcdonald@businessdatastack.com,Director,2020-01-24,T,26,3442,6,522,2020
+3442,91480,Nayeli,Walter,Nayeli.Walter@businessdatastack.com,Sr. Director,2022-05-28,F,24,,7,,2022
+2809,90620,Kaylin,Haney,Kaylin.Haney@businessdatastack.com,Sr. Manager,2022-05-05,F,35,863,5,524,2022
+863,84995,Axel,Bird,Axel.Bird@businessdatastack.com,Director,2022-04-28,T,23,584,6,539,2022
+4890,75959,Greta,Ortega,Greta.Ortega@businessdatastack.com,Director,2021-10-13,F,34,584,6,539,2021
+3889,18037,Cristian,Flores,Cristian.Flores@businessdatastack.com,Manager,2020-10-28,F,34,1473,4,527,2020
+1473,76820,Eliza,Francis,Eliza.Francis@businessdatastack.com,Sr. Manager,2022-01-01,F,37,4109,5,538,2022
+7019,73436,Maggie,Parrish,Maggie.Parrish@businessdatastack.com,Sr. Analyst,2022-06-27,F,16,8243,3,529,2022
+8243,53435,Paris,Malone,Paris.Malone@businessdatastack.com,Manager,2022-02-09,T,35,7255,4,530,2022
+7255,30547,Luka,Hendricks,Luka.Hendricks@businessdatastack.com,Sr. Manager,2021-06-16,F,23,4109,5,538,2021
+6345,40849,Carissa,Weaver,Carissa.Weaver@businessdatastack.com,Sr. Analyst,2021-09-08,F,31,6243,3,534,2021
+6118,97531,Aubrie,Santiago,Aubrie.Santiago@businessdatastack.com,Sr. Analyst,2021-06-06,F,34,6243,3,534,2021
+9793,13572,Caden,Barrera,Caden.Barrera@businessdatastack.com,Sr. Manager,2020-05-27,T,30,4109,5,538,2020
+6243,15947,Arabella,Christensen,Arabella.Christensen@businessdatastack.com,Manager,2021-02-10,F,29,2085,4,536,2021
+3459,50240,Averie,Mullins,Averie.Mullins@businessdatastack.com,Analyst,2021-10-03,F,27,9888,2,537,2021
+2085,74293,Ava,Mccall,Ava.Mccall@businessdatastack.com,Sr. Manager,2020-02-07,F,26,4109,5,538,2020
+9888,38791,Mina,Castillo,Mina.Castillo@businessdatastack.com,Sr. Analyst,2020-09-06,F,36,2823,3,544,2020
+4109,21255,Lamont,Brewer,Lamont.Brewer@businessdatastack.com,Director,2022-08-21,F,32,584,6,539,2022
+584,62802,Payton,Fitzpatrick,Payton.Fitzpatrick@businessdatastack.com,Sr. Director,2020-05-09,F,37,,7,,2020
+1436,7002,Kane,Osborn,Kane.Osborn@businessdatastack.com,Sr. Director,2020-03-27,T,26,,7,,2020
+123,1845,Skyla,Matthews,Skyla.Matthews@businessdatastack.com,Director,2020-08-12,F,19,5161,6,549,2020
+28,89322,Livia,Finley,Livia.Finley@businessdatastack.com,Sr. Manager,2022-06-09,F,37,1198,5,545,2022
+5312,45373,Leticia,Morgan,Leticia.Morgan@businessdatastack.com,Analyst,2020-07-16,F,21,1073,2,546,2020
+2823,78902,Aden,Baker,Aden.Baker@businessdatastack.com,Manager,2022-09-21,T,21,148,4,559,2022
+1198,64550,Kara,Arias,Kara.Arias@businessdatastack.com,Director,2021-12-08,F,27,5161,6,549,2021
+1073,26268,Rachel,Acosta,Rachel.Acosta@businessdatastack.com,Sr. Analyst,2020-02-21,F,22,1240,3,548,2020
+1240,23631,Sterling,Underwood,Sterling.Underwood@businessdatastack.com,Sr. Analyst,2022-01-25,F,16,1240,3,548,2022
+1240,31631,Samson,Pittman,Samson.Pittman@businessdatastack.com,Manager,2022-05-02,F,16,148,4,559,2022
+5161,33390,Alanna,Gay,Alanna.Gay@businessdatastack.com,Sr. Director,2022-03-21,F,18,,7,,2022
+3314,99543,Keith,Pratt,Keith.Pratt@businessdatastack.com,Manager,2020-03-07,F,23,148,4,559,2020
+7128,53830,Zechariah,Campos,Zechariah.Campos@businessdatastack.com,Sr. Analyst,2020-08-06,F,22,6821,3,552,2020
+6821,98391,Areli,Owens,Areli.Owens@businessdatastack.com,Manager,2022-06-10,F,35,148,4,559,2022
+3267,28684,Caylee,Choi,Caylee.Choi@businessdatastack.com,Manager,2021-03-23,F,37,148,4,559,2021
+9861,17108,Elsa,Miranda,Elsa.Miranda@businessdatastack.com,Manager,2021-12-17,F,25,148,4,559,2021
+8014,48885,Soren,Wu,Soren.Wu@businessdatastack.com,Sr. Analyst,2020-11-27,T,37,7715,3,557,2020
+3174,55070,Olive,Schaefer,Olive.Schaefer@businessdatastack.com,Sr. Analyst,2021-06-14,F,29,7715,3,557,2021
+7715,76910,Keagan,Reese,Keagan.Reese@businessdatastack.com,Manager,2021-03-25,F,16,148,4,559,2021
+6984,79956,Walter,Herman,Walter.Herman@businessdatastack.com,Analyst,2021-11-27,T,21,7114,2,565,2021
+148,26692,Rayan,Mckay,Rayan.Mckay@businessdatastack.com,Sr. Manager,2022-06-08,F,26,3739,5,561,2022
+968,63664,Jasiah,Lowery,Jasiah.Lowery@businessdatastack.com,Sr. Manager,2022-07-12,T,32,3739,5,561,2022
+3739,35299,Wayne,Orozco,Wayne.Orozco@businessdatastack.com,Director,2020-03-01,F,24,5375,6,569,2020
+8335,94435,Brock,Paul,Brock.Paul@businessdatastack.com,Manager,2022-01-21,F,37,9214,4,567,2022
+5631,42321,Marin,Harrington,Marin.Harrington@businessdatastack.com,Analyst,2021-08-09,F,35,7114,2,565,2021
+3940,5494,Darius,Juarez,Darius.Juarez@businessdatastack.com,Director,2020-12-19,F,29,5375,6,569,2020
+7114,58299,Dean,Zuniga,Dean.Zuniga@businessdatastack.com,Sr. Analyst,2020-12-12,F,24,1014,3,570,2020
+1072,34437,Olivia,Clements,Olivia.Clements@businessdatastack.com,Analyst,2022-07-12,F,36,6174,2,587,2022
+9214,7909,Noelle,Mayer,Noelle.Mayer@businessdatastack.com,Sr. Manager,2021-03-06,F,25,3907,5,572,2021
+8619,12237,Zachery,Barrera,Zachery.Barrera@businessdatastack.com,Sr. Manager,2022-01-25,F,31,3907,5,572,2022
+5375,47615,Yurem,Lester,Yurem.Lester@businessdatastack.com,Sr. Director,2021-07-07,F,23,,7,,2021
+1014,28633,Nyla,Dean,Nyla.Dean@businessdatastack.com,Manager,2022-05-19,F,31,7765,4,573,2022
+2435,42615,Cole,Woodard,Cole.Woodard@businessdatastack.com,Manager,2020-11-04,F,26,7765,4,573,2020
+3907,32456,Alonzo,Buckley,Alonzo.Buckley@businessdatastack.com,Director,2020-04-10,F,35,9593,6,575,2020
+7765,16339,Julissa,Gamble,Julissa.Gamble@businessdatastack.com,Sr. Manager,2020-12-26,T,36,1579,5,574,2020
+1579,89329,Raiden,Abbott,Raiden.Abbott@businessdatastack.com,Director,2022-02-24,F,34,9593,6,575,2022
+9593,96053,Mackenzie,Myers,Mackenzie.Myers@businessdatastack.com,Sr. Director,2021-09-01,F,36,,7,,2021
+1457,80207,Timothy,Cain,Timothy.Cain@businessdatastack.com,Sr. Director,2022-01-07,F,30,,7,,2022
+1890,59281,Avery,Thornton,Avery.Thornton@businessdatastack.com,Manager,2022-04-20,F,22,4026,4,580,2022
+7069,69731,Yasmine,Juarez,Yasmine.Juarez@businessdatastack.com,Analyst,2020-06-08,T,33,6174,2,587,2020
+8569,31362,Lane,West,Lane.West@businessdatastack.com,Analyst,2020-10-09,F,32,6174,2,587,2020
+4026,50476,Damon,Shea,Damon.Shea@businessdatastack.com,Sr. Manager,2020-02-26,T,19,7644,5,588,2020
+7929,61231,Tessa,Reilly,Tessa.Reilly@businessdatastack.com,Manager,2020-03-27,T,17,3186,4,586,2020
+8065,15108,Daniela,Galvan,Daniela.Galvan@businessdatastack.com,Manager,2020-06-06,F,36,3186,4,586,2020
+7637,24332,Katelyn,Harrison,Katelyn.Harrison@businessdatastack.com,Analyst,2022-05-20,T,28,6174,2,587,2022
+591,24009,Sonny,Dawson,Sonny.Dawson@businessdatastack.com,Manager,2021-04-13,F,16,3186,4,586,2021
+4355,32512,Clarence,Guerra,Clarence.Guerra@businessdatastack.com,Sr. Director,2021-09-27,F,27,,7,,2021
+3186,6473,William,Wilkinson,William.Wilkinson@businessdatastack.com,Sr. Manager,2022-07-13,T,33,7644,5,588,2022
+6174,30160,Patrick,Mccullough,Patrick.Mccullough@businessdatastack.com,Sr. Analyst,2021-01-02,F,30,9526,3,593,2021
+7644,65276,Anna,Neal,Anna.Neal@businessdatastack.com,Director,2021-06-06,F,29,2444,6,592,2021
+750,85321,Dereon,Harris,Dereon.Harris@businessdatastack.com,Sr. Manager,2022-03-27,F,31,1657,5,590,2022
+1657,10226,Aiden,Calderon,Aiden.Calderon@businessdatastack.com,Director,2021-05-14,F,23,2444,6,592,2021
+2242,42163,Cornelius,Trevino,Cornelius.Trevino@businessdatastack.com,Director,2020-08-13,F,30,2444,6,592,2020
+2444,81666,Layla,Campbell,Layla.Campbell@businessdatastack.com,Sr. Director,2021-03-17,T,34,,7,,2021
+9526,71515,Hayley,Schaefer,Hayley.Schaefer@businessdatastack.com,Manager,2022-08-23,F,33,7019,4,619,2022
+5524,30173,Maia,Shah,Maia.Shah@businessdatastack.com,Manager,2022-07-21,F,36,7019,4,619,2022
+4333,13474,Paisley,Callahan,Paisley.Callahan@businessdatastack.com,Sr. Director,2022-05-13,F,25,,7,,2022
+6396,22593,Alex,Oneal,Alex.Oneal@businessdatastack.com,Sr. Director,2021-12-04,F,28,,7,,2021
+7254,92226,Armani,Solis,Armani.Solis@businessdatastack.com,Director,2021-03-20,T,29,8697,6,601,2021
+2339,11975,Mario,Yoder,Mario.Yoder@businessdatastack.com,Director,2020-04-14,F,35,8697,6,601,2020
+150,71551,Maurice,Kane,Maurice.Kane@businessdatastack.com,Analyst,2022-07-04,F,27,7205,2,607,2022
+2425,81768,Savion,Johns,Savion.Johns@businessdatastack.com,Manager,2020-10-02,F,24,7019,4,619,2020
+8697,90116,Dangelo,Levy,Dangelo.Levy@businessdatastack.com,Sr. Director,2022-06-28,F,37,,7,,2022
+7258,24743,Kameron,Russo,Kameron.Russo@businessdatastack.com,Manager,2022-08-25,F,20,7019,4,619,2022
+4214,82647,Lizbeth,Hebert,Lizbeth.Hebert@businessdatastack.com,Director,2021-01-20,F,23,9948,6,606,2021
+7687,75331,Marshall,Myers,Marshall.Myers@businessdatastack.com,Analyst,2021-08-22,F,16,7205,2,607,2021
+4927,69339,Serena,Parrish,Serena.Parrish@businessdatastack.com,Analyst,2021-08-06,T,20,7205,2,607,2021
+9948,82758,Genevieve,Bush,Genevieve.Bush@businessdatastack.com,Sr. Director,2022-08-09,F,26,,7,,2022
+7205,83485,Danica,Krause,Danica.Krause@businessdatastack.com,Sr. Analyst,2020-11-02,F,19,5649,3,625,2020
+9951,90724,Alexa,Henry,Alexa.Henry@businessdatastack.com,Analyst,2022-09-08,F,26,1257,2,629,2022
+6242,25990,Keaton,Potts,Keaton.Potts@businessdatastack.com,Director,2022-07-05,T,18,1132,6,610,2022
+1132,84485,Adalyn,Sloan,Adalyn.Sloan@businessdatastack.com,Sr. Director,2020-06-06,F,25,,7,,2020
+8919,56355,Arielle,Owens,Arielle.Owens@businessdatastack.com,Sr. Director,2021-06-23,F,30,,7,,2021
+3782,11430,Terrance,Daugherty,Terrance.Daugherty@businessdatastack.com,Director,2022-08-27,F,25,7169,6,618,2022
+3132,20821,Marcus,Stuart,Marcus.Stuart@businessdatastack.com,Director,2021-06-12,T,35,7169,6,618,2021
+1974,27478,Colby,Harris,Colby.Harris@businessdatastack.com,Director,2021-05-21,F,34,7169,6,618,2021
+8048,48080,Phoebe,Ferguson,Phoebe.Ferguson@businessdatastack.com,Analyst,2021-11-25,F,36,1257,2,629,2021
+7192,28387,Kasen,Silva,Kasen.Silva@businessdatastack.com,Analyst,2021-06-20,F,16,1257,2,629,2021
+640,42609,Samson,Nash,Samson.Nash@businessdatastack.com,Director,2021-05-19,T,17,7169,6,618,2021
+7169,92365,Jimmy,Thompson,Jimmy.Thompson@businessdatastack.com,Sr. Director,2022-01-26,T,31,,7,,2022
+7019,42811,Kason,Hebert,Kason.Hebert@businessdatastack.com,Sr. Manager,2020-10-10,F,16,9381,5,621,2020
+4522,75377,Augustus,Hunt,Augustus.Hunt@businessdatastack.com,Sr. Manager,2020-10-20,F,17,9381,5,621,2020
+9381,47232,Daniela,Jensen,Daniela.Jensen@businessdatastack.com,Director,2021-03-25,F,29,4786,6,634,2021
+1781,64381,Adriel,Mathews,Adriel.Mathews@businessdatastack.com,Director,2022-03-06,T,33,4786,6,634,2022
+3357,94125,Taylor,Navarro,Taylor.Navarro@businessdatastack.com,Sr. Manager,2020-11-14,T,23,8287,5,628,2020
+8304,61035,Emery,Graves,Emery.Graves@businessdatastack.com,Sr. Manager,2021-05-28,F,21,8287,5,628,2021
+5649,50429,Gavyn,Lynn,Gavyn.Lynn@businessdatastack.com,Manager,2021-02-02,F,30,8726,4,640,2021
+6262,68981,Isaias,Everett,Isaias.Everett@businessdatastack.com,Analyst,2020-07-14,F,16,1257,2,629,2020
+2449,52658,Milton,Hendricks,Milton.Hendricks@businessdatastack.com,Analyst,2021-01-09,T,20,1257,2,629,2021
+8287,90943,Frederick,Guzman,Frederick.Guzman@businessdatastack.com,Director,2021-07-15,F,24,4786,6,634,2021
+1257,63100,Amani,Hines,Amani.Hines@businessdatastack.com,Sr. Analyst,2021-01-11,F,25,255,3,641,2021
+8947,60872,Thomas,Rich,Thomas.Rich@businessdatastack.com,Sr. Analyst,2020-05-03,F,31,255,3,641,2020
+6934,97902,Abby,Walls,Abby.Walls@businessdatastack.com,Analyst,2020-11-15,T,18,8336,2,632,2020
+8336,28671,Chaim,Floyd,Chaim.Floyd@businessdatastack.com,Sr. Analyst,2020-12-25,F,18,255,3,641,2020
+1727,95315,Julia,Finley,Julia.Finley@businessdatastack.com,Sr. Analyst,2021-12-09,T,17,255,3,641,2021
+4786,79884,Eugene,Whitney,Eugene.Whitney@businessdatastack.com,Sr. Director,2022-06-24,F,36,,7,,2022
+2414,7546,Freddy,Hensley,Freddy.Hensley@businessdatastack.com,Sr. Analyst,2020-12-12,F,30,255,3,641,2020
+6198,11718,Anabella,Moody,Anabella.Moody@businessdatastack.com,Analyst,2020-09-27,F,32,7256,2,638,2020
+9007,53498,Chaz,Nash,Chaz.Nash@businessdatastack.com,Analyst,2021-05-24,T,23,7256,2,638,2021
+7256,70311,Sophie,Hughes,Sophie.Hughes@businessdatastack.com,Sr. Analyst,2020-08-28,T,27,255,3,641,2020
+9165,31101,Cael,Bullock,Cael.Bullock@businessdatastack.com,Sr. Analyst,2020-10-08,F,18,255,3,641,2020
+8726,38250,Marcelo,Travis,Marcelo.Travis@businessdatastack.com,Sr. Manager,2020-11-21,F,26,7430,5,646,2020
+255,52014,Lisa,Gutierrez,Lisa.Gutierrez@businessdatastack.com,Manager,2020-06-11,F,25,4903,4,658,2020
+7737,36835,Grace,Terry,Grace.Terry@businessdatastack.com,Sr. Director,2021-02-03,F,32,,7,,2021
+1441,40590,Jermaine,Everett,Jermaine.Everett@businessdatastack.com,Sr. Director,2020-01-05,F,29,,7,,2020
+4260,31423,Kaila,Joseph,Kaila.Joseph@businessdatastack.com,Analyst,2022-08-25,F,23,9554,2,648,2022
+3459,56564,Travis,Neal,Travis.Neal@businessdatastack.com,Sr. Director,2021-02-01,F,34,,7,,2021
+7430,31326,Octavio,Chan,Octavio.Chan@businessdatastack.com,Director,2022-07-10,F,32,7588,6,655,2022
+3022,59254,Dylan,Reid,Dylan.Reid@businessdatastack.com,Analyst,2021-03-18,F,31,9554,2,648,2021
+9554,3286,Nigel,Peterson,Nigel.Peterson@businessdatastack.com,Sr. Analyst,2020-07-03,F,18,5132,3,649,2020
+5132,45072,Yuliana,Ford,Yuliana.Ford@businessdatastack.com,Manager,2021-04-07,F,24,4903,4,658,2021
+4094,45708,Ean,Mcdonald,Ean.Mcdonald@businessdatastack.com,Analyst,2020-07-18,F,20,1129,2,657,2020
+3265,44641,Evelin,House,Evelin.House@businessdatastack.com,Manager,2022-03-26,F,21,4903,4,658,2022
+1785,47038,Jamie,Finley,Jamie.Finley@businessdatastack.com,Manager,2021-03-06,F,35,4903,4,658,2021
+2931,85695,Jaquan,Patterson,Jaquan.Patterson@businessdatastack.com,Manager,2022-01-07,F,23,4903,4,658,2022
+682,97887,Caroline,Robbins,Caroline.Robbins@businessdatastack.com,Director,2022-03-28,F,35,7588,6,655,2022
+7588,27295,Terrell,Glenn,Terrell.Glenn@businessdatastack.com,Sr. Director,2022-03-06,F,30,,7,,2022
+536,13883,Isis,Mccall,Isis.Mccall@businessdatastack.com,Analyst,2021-08-09,T,35,1129,2,657,2021
+1129,50507,Yadira,Harmon,Yadira.Harmon@businessdatastack.com,Sr. Analyst,2021-09-05,T,18,2640,3,662,2021
+4903,33956,Naomi,Gay,Naomi.Gay@businessdatastack.com,Sr. Manager,2021-09-06,T,34,5846,5,660,2021
+2751,38461,Alessandro,Parrish,Alessandro.Parrish@businessdatastack.com,Sr. Director,2022-01-15,F,17,,7,,2022
+5846,19079,Anabel,Stafford,Anabel.Stafford@businessdatastack.com,Director,2022-05-20,F,18,3957,6,665,2022
+605,73858,Jazmyn,Huang,Jazmyn.Huang@businessdatastack.com,Analyst,2021-01-10,T,31,9034,2,663,2021
+2640,48261,Fernando,Acosta,Fernando.Acosta@businessdatastack.com,Manager,2020-12-26,F,31,1753,4,667,2020
+9034,39298,Immanuel,Peterson,Immanuel.Peterson@businessdatastack.com,Sr. Analyst,2021-04-02,T,22,2269,3,664,2021
+2269,56282,Mikayla,Hernandez,Mikayla.Hernandez@businessdatastack.com,Manager,2020-05-09,F,34,1753,4,667,2020
+3957,71510,Tristin,Conley,Tristin.Conley@businessdatastack.com,Sr. Director,2021-09-18,F,37,,7,,2021
+5013,86675,Lilah,Hall,Lilah.Hall@businessdatastack.com,Sr. Director,2022-08-10,F,26,,7,,2022
+1753,82872,Maria,Adams,Maria.Adams@businessdatastack.com,Sr. Manager,2022-08-24,F,27,129,5,671,2022
+4582,73198,Marlon,Roberts,Marlon.Roberts@businessdatastack.com,Sr. Manager,2020-12-14,T,36,129,5,671,2020
+6561,94601,Jaden,Stone,Jaden.Stone@businessdatastack.com,Sr. Director,2021-08-14,T,36,,7,,2021
+987,67023,Halle,Wells,Halle.Wells@businessdatastack.com,Manager,2022-03-28,F,35,1851,4,682,2022
+129,69886,Myla,Jackson,Myla.Jackson@businessdatastack.com,Director,2022-09-15,F,25,2048,6,683,2022
+5645,84883,Ishaan,Thompson,Ishaan.Thompson@businessdatastack.com,Manager,2020-01-15,F,28,1851,4,682,2020
+8416,16607,Myah,Austin,Myah.Austin@businessdatastack.com,Analyst,2021-04-20,F,16,744,2,676,2021
+1930,15328,Cayden,Fry,Cayden.Fry@businessdatastack.com,Analyst,2020-04-02,T,21,744,2,676,2020
+6316,86936,Mariah,Spencer,Mariah.Spencer@businessdatastack.com,Director,2022-06-04,F,26,2048,6,683,2022
+744,31988,Greyson,Mann,Greyson.Mann@businessdatastack.com,Sr. Analyst,2022-08-11,F,25,2866,3,684,2022
+4721,93198,Gretchen,Mack,Gretchen.Mack@businessdatastack.com,Analyst,2020-05-15,F,36,9090,2,680,2020
+6134,63593,Paul,Price,Paul.Price@businessdatastack.com,Analyst,2020-08-06,F,20,9090,2,680,2020
+5836,31451,Sean,Hubbard,Sean.Hubbard@businessdatastack.com,Analyst,2022-09-08,F,29,9090,2,680,2022
+9090,73934,Mathew,Ferguson,Mathew.Ferguson@businessdatastack.com,Sr. Analyst,2022-09-18,F,16,2866,3,684,2022
+4309,33782,Leticia,Graves,Leticia.Graves@businessdatastack.com,Analyst,2022-02-09,T,25,6110,2,685,2022
+1851,69845,Chanel,Conner,Chanel.Conner@businessdatastack.com,Sr. Manager,2020-05-10,F,23,1012,5,693,2020
+2048,23688,Cynthia,Hunt,Cynthia.Hunt@businessdatastack.com,Sr. Director,2021-09-22,T,26,,7,,2021
+2866,76396,Billy,Mcgee,Billy.Mcgee@businessdatastack.com,Manager,2022-02-17,F,17,9508,4,686,2022
+6110,62508,Finley,Hinton,Finley.Hinton@businessdatastack.com,Sr. Analyst,2021-01-24,F,35,3510,3,691,2021
+9508,13594,Adyson,Rush,Adyson.Rush@businessdatastack.com,Sr. Manager,2020-08-24,T,22,1012,5,693,2020
+7685,7723,Calvin,Frazier,Calvin.Frazier@businessdatastack.com,Sr. Analyst,2022-06-11,F,17,3510,3,691,2022
+4473,32954,Giovanni,Barron,Giovanni.Barron@businessdatastack.com,Analyst,2020-11-04,F,24,8344,2,695,2020
+7851,95489,Haiden,Arellano,Haiden.Arellano@businessdatastack.com,Analyst,2022-01-14,F,26,8344,2,695,2022
+7721,48107,Calvin,Chase,Calvin.Chase@businessdatastack.com,Sr. Manager,2021-06-07,F,24,1012,5,693,2021
+3510,56330,Adrianna,Carpenter,Adrianna.Carpenter@businessdatastack.com,Manager,2022-04-14,F,26,5857,4,694,2022
+1878,41632,Zoie,Hancock,Zoie.Hancock@businessdatastack.com,Sr. Director,2021-02-28,F,33,,7,,2021
+1012,29150,Lillian,Chang,Lillian.Chang@businessdatastack.com,Director,2020-05-09,F,35,1297,6,696,2020
+5857,79016,Pranav,Fuller,Pranav.Fuller@businessdatastack.com,Sr. Manager,2021-12-24,F,26,5715,5,710,2021
+8344,56621,Lukas,Serrano,Lukas.Serrano@businessdatastack.com,Sr. Analyst,2021-06-17,F,17,3901,3,703,2021
+1297,99179,Miles,Woodward,Miles.Woodward@businessdatastack.com,Sr. Director,2022-02-23,T,35,,7,,2022
+2498,4624,Kash,Mcfarland,Kash.Mcfarland@businessdatastack.com,Sr. Manager,2020-11-23,F,26,5715,5,710,2020
+3480,88490,Valeria,Baker,Valeria.Baker@businessdatastack.com,Sr. Manager,2021-02-22,F,23,5715,5,710,2021
+6519,74147,Holden,Rivas,Holden.Rivas@businessdatastack.com,Analyst,2021-03-01,F,22,2181,2,704,2021
+5507,18370,Jovan,Hubbard,Jovan.Hubbard@businessdatastack.com,Sr. Manager,2021-12-01,T,35,5715,5,710,2021
+4483,52825,Chasity,Mack,Chasity.Mack@businessdatastack.com,Analyst,2022-07-20,F,35,2181,2,704,2022
+2900,27449,Kolten,Hudson,Kolten.Hudson@businessdatastack.com,Analyst,2020-10-12,T,17,2181,2,704,2020
+3901,96213,Aliana,Kemp,Aliana.Kemp@businessdatastack.com,Manager,2021-03-01,F,24,1814,4,709,2021
+2181,70643,Scott,Mayo,Scott.Mayo@businessdatastack.com,Sr. Analyst,2021-02-26,F,24,9633,3,714,2021
+2785,13212,Marvin,Beasley,Marvin.Beasley@businessdatastack.com,Analyst,2022-03-18,F,23,3154,2,706,2022
+3154,85898,Greta,Horn,Greta.Horn@businessdatastack.com,Sr. Analyst,2021-12-09,F,26,9633,3,714,2021
+6009,95703,Muhammad,Santana,Muhammad.Santana@businessdatastack.com,Sr. Analyst,2020-07-07,F,22,9633,3,714,2020
+4086,22060,Zoe,Christian,Zoe.Christian@businessdatastack.com,Analyst,2022-08-09,T,36,9003,2,712,2022
+1814,69346,Dayton,Tapia,Dayton.Tapia@businessdatastack.com,Sr. Manager,2020-04-14,F,37,5715,5,710,2020
+5715,7070,Ayla,Burke,Ayla.Burke@businessdatastack.com,Director,2022-08-26,F,22,8049,6,722,2022
+3141,88539,Julio,Sanders,Julio.Sanders@businessdatastack.com,Sr. Manager,2022-06-05,T,24,1200,5,729,2022
+9003,35817,Kaylyn,Porter,Kaylyn.Porter@businessdatastack.com,Sr. Analyst,2022-09-25,F,24,9633,3,714,2022
+5890,41939,Caiden,Travis,Caiden.Travis@businessdatastack.com,Analyst,2022-08-07,F,28,6995,2,717,2022
+9633,20572,Marcos,Blake,Marcos.Blake@businessdatastack.com,Manager,2020-03-26,F,36,1144,4,724,2020
+6534,71662,Brenda,Espinoza,Brenda.Espinoza@businessdatastack.com,Analyst,2020-05-02,F,19,6995,2,717,2020
+6873,99849,Jean,Navarro,Jean.Navarro@businessdatastack.com,Manager,2020-10-01,T,36,1144,4,724,2020
+6995,12362,Theodore,Lutz,Theodore.Lutz@businessdatastack.com,Sr. Analyst,2020-11-05,T,33,7305,3,720,2020
+9327,8282,Ellie,Peterson,Ellie.Peterson@businessdatastack.com,Analyst,2022-07-13,F,16,1412,2,719,2022
+1412,68131,Sofia,Horton,Sofia.Horton@businessdatastack.com,Sr. Analyst,2021-12-06,T,37,7305,3,720,2021
+7305,89113,Jacey,Goodwin,Jacey.Goodwin@businessdatastack.com,Manager,2020-04-07,F,32,1144,4,724,2020
+1171,6872,Eliana,Harrison,Eliana.Harrison@businessdatastack.com,Sr. Analyst,2021-04-16,F,17,9015,3,726,2021
+8049,96094,Dylan,Richmond,Dylan.Richmond@businessdatastack.com,Sr. Director,2021-10-06,T,25,,7,,2021
+1561,71157,Kellen,Richardson,Kellen.Richardson@businessdatastack.com,Analyst,2021-03-13,F,29,2109,2,735,2021
+1144,44948,Kareem,Greene,Kareem.Greene@businessdatastack.com,Sr. Manager,2022-09-11,F,19,1200,5,729,2022
+9263,85923,Case,Patton,Case.Patton@businessdatastack.com,Sr. Director,2022-08-05,F,31,,7,,2022
+9015,15115,Alfonso,Oconnor,Alfonso.Oconnor@businessdatastack.com,Manager,2020-04-23,F,19,5081,4,737,2020
+3227,7221,Lilah,Mckay,Lilah.Mckay@businessdatastack.com,Sr. Director,2021-05-24,T,20,,7,,2021
+7370,16201,Taniya,Kemp,Taniya.Kemp@businessdatastack.com,Sr. Director,2020-10-16,F,33,,7,,2020
+1200,56821,Alexis,Dixon,Alexis.Dixon@businessdatastack.com,Director,2020-12-27,F,31,6222,6,732,2020
+3897,43004,Madalyn,Campos,Madalyn.Campos@businessdatastack.com,Manager,2020-11-07,F,23,5081,4,737,2020
+8805,80604,Maxwell,Nunez,Maxwell.Nunez@businessdatastack.com,Director,2020-08-25,F,19,6222,6,732,2020
+6222,83084,Reina,Ware,Reina.Ware@businessdatastack.com,Sr. Director,2020-06-01,T,26,,7,,2020
+3892,64562,Zaiden,Morgan,Zaiden.Morgan@businessdatastack.com,Analyst,2020-12-25,F,29,2109,2,735,2020
+155,6668,Ivy,Hodge,Ivy.Hodge@businessdatastack.com,Analyst,2022-02-16,T,21,2109,2,735,2022
+2109,26475,Stella,Robertson,Stella.Robertson@businessdatastack.com,Sr. Analyst,2020-03-25,T,17,7084,3,748,2020
+5722,16599,Anika,Hickman,Anika.Hickman@businessdatastack.com,Sr. Analyst,2022-06-10,F,19,7084,3,748,2022
+5081,84844,Coby,Hester,Coby.Hester@businessdatastack.com,Sr. Manager,2020-04-26,T,25,9365,5,738,2020
+9365,51252,Marco,Carey,Marco.Carey@businessdatastack.com,Director,2020-12-04,F,23,6037,6,743,2020
+2026,1892,King,Durham,King.Durham@businessdatastack.com,Analyst,2022-09-11,F,27,4823,2,749,2022
+7391,37099,Giovanni,Cook,Giovanni.Cook@businessdatastack.com,Analyst,2021-04-26,F,20,4823,2,749,2021
+324,65090,Jan,Fleming,Jan.Fleming@businessdatastack.com,Analyst,2022-08-13,F,18,4823,2,749,2022
+8214,69750,Karla,James,Karla.James@businessdatastack.com,Director,2021-07-18,F,21,6037,6,743,2021
+6037,77176,Leo,Andrade,Leo.Andrade@businessdatastack.com,Sr. Director,2020-11-18,F,26,,7,,2020
+1880,49938,Matthew,Yates,Matthew.Yates@businessdatastack.com,Analyst,2021-03-08,F,35,4823,2,749,2021
+9396,97341,Savion,Petty,Savion.Petty@businessdatastack.com,Director,2020-12-06,T,24,146,6,746,2020
+146,50572,Yusuf,Fernandez,Yusuf.Fernandez@businessdatastack.com,Sr. Director,2021-05-25,F,35,,7,,2021
+2077,17501,Maverick,Oliver,Maverick.Oliver@businessdatastack.com,Sr. Manager,2021-07-03,F,18,6566,5,775,2021
+7084,69689,Zayne,Blanchard,Zayne.Blanchard@businessdatastack.com,Manager,2022-01-28,F,36,3025,4,754,2022
+4823,85422,Lisa,Choi,Lisa.Choi@businessdatastack.com,Sr. Analyst,2021-02-09,F,21,9999,3,750,2021
+9999,50473,Jagger,Hardin,Jagger.Hardin@businessdatastack.com,Manager,2022-08-05,F,34,3025,4,754,2022
+306,22535,Rosemary,Fuller,Rosemary.Fuller@businessdatastack.com,Sr. Analyst,2022-01-01,T,19,1023,3,756,2022
+7012,36611,Karson,Arroyo,Karson.Arroyo@businessdatastack.com,Sr. Analyst,2022-04-15,F,33,1023,3,756,2022
+6161,42523,Gaven,Nguyen,Gaven.Nguyen@businessdatastack.com,Sr. Analyst,2022-01-28,T,17,1023,3,756,2022
+3025,82115,Kenyon,Bass,Kenyon.Bass@businessdatastack.com,Sr. Manager,2022-04-25,F,26,6566,5,775,2022
+7933,69794,Adrienne,Mcknight,Adrienne.Mcknight@businessdatastack.com,Sr. Manager,2021-05-27,F,34,6566,5,775,2021
+1023,78039,Elisa,Wang,Elisa.Wang@businessdatastack.com,Manager,2022-08-10,F,24,3336,4,758,2022
+7788,87616,Dustin,Hines,Dustin.Hines@businessdatastack.com,Sr. Director,2022-09-18,F,19,,7,,2022
+3336,2516,Janelle,Rasmussen,Janelle.Rasmussen@businessdatastack.com,Sr. Manager,2020-08-02,T,30,6566,5,775,2020
+5701,84738,Tess,Nixon,Tess.Nixon@businessdatastack.com,Analyst,2020-10-10,F,23,2261,2,761,2020
+8057,72902,Konnor,Kelley,Konnor.Kelley@businessdatastack.com,Analyst,2020-06-09,F,22,2261,2,761,2020
+2261,21415,Josiah,Avery,Josiah.Avery@businessdatastack.com,Sr. Analyst,2020-04-20,F,25,169,3,766,2020
+3606,68892,Morgan,Hartman,Morgan.Hartman@businessdatastack.com,Analyst,2021-08-17,T,16,5872,2,765,2021
+2027,68594,Caleb,Powell,Caleb.Powell@businessdatastack.com,Analyst,2022-07-12,T,24,5872,2,765,2022
+2473,7345,Tucker,Tate,Tucker.Tate@businessdatastack.com,Analyst,2022-02-08,F,16,5872,2,765,2022
+5872,48251,Donovan,Weiss,Donovan.Weiss@businessdatastack.com,Sr. Analyst,2020-11-18,F,25,169,3,766,2020
+169,11741,Ayden,Boyer,Ayden.Boyer@businessdatastack.com,Manager,2022-01-28,F,21,6930,4,776,2022
+7667,64604,Felicity,Massey,Felicity.Massey@businessdatastack.com,Sr. Analyst,2020-12-19,F,37,854,3,771,2020
+504,85674,Braedon,Solis,Braedon.Solis@businessdatastack.com,Analyst,2020-01-07,F,32,2719,2,769,2020
+2719,87920,Roderick,Bates,Roderick.Bates@businessdatastack.com,Sr. Analyst,2021-02-05,T,36,854,3,771,2021
+4627,83748,Dane,Barr,Dane.Barr@businessdatastack.com,Sr. Director,2020-11-05,F,35,,7,,2020
+854,48754,Haylie,Huffman,Haylie.Huffman@businessdatastack.com,Manager,2020-07-20,F,24,6930,4,776,2020
+5959,4251,Diya,Solis,Diya.Solis@businessdatastack.com,Analyst,2020-12-09,F,26,1737,2,780,2020
+1783,41227,Mckinley,Joyce,Mckinley.Joyce@businessdatastack.com,Manager,2022-01-12,F,28,6930,4,776,2022
+7747,57980,Jordin,Faulkner,Jordin.Faulkner@businessdatastack.com,Analyst,2020-09-17,F,31,1737,2,780,2020
+6566,74806,Kristian,Hartman,Kristian.Hartman@businessdatastack.com,Director,2022-06-07,F,20,4346,6,794,2022
+6930,14158,Kristin,Garner,Kristin.Garner@businessdatastack.com,Sr. Manager,2022-08-14,F,35,6084,5,779,2022
+8656,68716,Bradyn,Summers,Bradyn.Summers@businessdatastack.com,Sr. Manager,2021-04-24,F,28,6084,5,779,2021
+6740,11593,Dominique,Lambert,Dominique.Lambert@businessdatastack.com,Manager,2020-01-27,T,23,1840,4,782,2020
+6084,57362,Carter,Ewing,Carter.Ewing@businessdatastack.com,Director,2022-07-18,F,27,4346,6,794,2022
+1737,58382,Valery,Pacheco,Valery.Pacheco@businessdatastack.com,Sr. Analyst,2021-07-21,F,30,1967,3,791,2021
+4486,27620,Cecelia,Butler,Cecelia.Butler@businessdatastack.com,Director,2021-01-20,F,33,4346,6,794,2021
+1840,9623,Eduardo,Salas,Eduardo.Salas@businessdatastack.com,Sr. Manager,2021-08-09,F,27,7948,5,786,2021
+1270,1547,Melissa,Phillips,Melissa.Phillips@businessdatastack.com,Sr. Manager,2020-09-13,F,33,7948,5,786,2020
+3787,90358,Rosa,Bauer,Rosa.Bauer@businessdatastack.com,Sr. Analyst,2021-08-04,T,37,1967,3,791,2021
+9503,25819,Cynthia,Dalton,Cynthia.Dalton@businessdatastack.com,Sr. Analyst,2020-01-28,F,20,1967,3,791,2020
+7948,48694,Alisha,Gray,Alisha.Gray@businessdatastack.com,Director,2021-10-13,F,34,4346,6,794,2021
+7328,91560,Madison,Morris,Madison.Morris@businessdatastack.com,Sr. Manager,2022-07-18,F,16,693,5,788,2022
+693,41765,Mateo,Frye,Mateo.Frye@businessdatastack.com,Director,2020-12-23,F,32,4346,6,794,2020
+4848,54479,Aisha,Schmitt,Aisha.Schmitt@businessdatastack.com,Director,2020-02-04,F,18,4346,6,794,2020
+63,17840,Bo,Weiss,Bo.Weiss@businessdatastack.com,Sr. Manager,2020-07-07,F,28,3845,5,797,2020
+1967,86671,Marc,Holmes,Marc.Holmes@businessdatastack.com,Manager,2020-09-27,T,21,5996,4,793,2020
+697,84832,Zander,Gentry,Zander.Gentry@businessdatastack.com,Manager,2022-02-18,F,33,5996,4,793,2022
+5996,70695,Phillip,Cobb,Phillip.Cobb@businessdatastack.com,Sr. Manager,2022-07-15,F,16,3845,5,797,2022
+4346,1362,Ireland,Bishop,Ireland.Bishop@businessdatastack.com,Sr. Director,2022-07-17,F,20,,7,,2022
+5663,93353,Nora,Beard,Nora.Beard@businessdatastack.com,Sr. Director,2021-08-09,F,23,,7,,2021
+487,18615,Skylar,Patel,Skylar.Patel@businessdatastack.com,Sr. Analyst,2021-12-21,F,28,2299,3,805,2021
+3845,36638,Jadyn,Ward,Jadyn.Ward@businessdatastack.com,Director,2020-06-12,F,20,4993,6,803,2020
+3822,42666,Izayah,Logan,Izayah.Logan@businessdatastack.com,Sr. Analyst,2022-06-01,T,28,2299,3,805,2022
+5167,81996,Ahmad,Mendoza,Ahmad.Mendoza@businessdatastack.com,Sr. Manager,2020-10-19,F,28,2593,5,801,2020
+2080,2233,Jimena,Murray,Jimena.Murray@businessdatastack.com,Sr. Manager,2022-08-07,F,26,2593,5,801,2022
+2593,5373,Taylor,Meyer,Taylor.Meyer@businessdatastack.com,Director,2022-06-24,F,17,4993,6,803,2022
+3806,36110,Madeleine,Lang,Madeleine.Lang@businessdatastack.com,Director,2022-07-25,F,18,4993,6,803,2022
+4993,92976,Kyan,Finley,Kyan.Finley@businessdatastack.com,Sr. Director,2020-02-07,F,24,,7,,2020
+4993,11522,Gracelyn,Novak,Gracelyn.Novak@businessdatastack.com,Sr. Director,2020-04-23,T,32,,7,,2020
+2299,79591,Edgar,Livingston,Edgar.Livingston@businessdatastack.com,Manager,2022-05-19,F,32,2279,4,806,2022
+2279,23549,Salma,Schaefer,Salma.Schaefer@businessdatastack.com,Sr. Manager,2021-02-12,F,35,9237,5,808,2021
+4648,31414,Jonah,Thornton,Jonah.Thornton@businessdatastack.com,Sr. Director,2022-01-19,F,24,,7,,2022
+9237,7059,Kenneth,Wolf,Kenneth.Wolf@businessdatastack.com,Director,2021-01-15,T,31,9708,6,812,2021
+9503,16319,Naima,Waters,Naima.Waters@businessdatastack.com,Sr. Manager,2021-11-16,F,19,1419,5,813,2021
+217,34873,Leslie,Lee,Leslie.Lee@businessdatastack.com,Manager,2022-05-14,F,20,2169,4,823,2022
+2921,70190,Reilly,Hopkins,Reilly.Hopkins@businessdatastack.com,Analyst,2021-11-14,F,32,2509,2,814,2021
+9708,94177,Uriel,Brandt,Uriel.Brandt@businessdatastack.com,Sr. Director,2021-12-26,F,25,,7,,2021
+1419,33120,Jadon,Kelley,Jadon.Kelley@businessdatastack.com,Director,2021-07-09,F,17,562,6,816,2021
+2509,86138,Rogelio,Nguyen,Rogelio.Nguyen@businessdatastack.com,Sr. Analyst,2022-09-19,F,36,9745,3,815,2022
+9745,49362,Deven,Bradford,Deven.Bradford@businessdatastack.com,Manager,2020-07-26,F,36,2169,4,823,2020
+562,73242,Cale,Chandler,Cale.Chandler@businessdatastack.com,Sr. Director,2020-08-05,F,36,,7,,2020
+6907,31984,Jaylen,Floyd,Jaylen.Floyd@businessdatastack.com,Sr. Analyst,2020-09-27,T,23,3969,3,825,2020
+8642,36190,Lilianna,Simmons,Lilianna.Simmons@businessdatastack.com,Analyst,2020-07-27,F,33,1378,2,820,2020
+6925,84017,Saul,Munoz,Saul.Munoz@businessdatastack.com,Analyst,2020-12-12,F,33,1378,2,820,2020
+1378,41094,August,Kemp,August.Kemp@businessdatastack.com,Sr. Analyst,2022-09-22,F,36,3969,3,825,2022
+7975,26493,Rylee,Dillon,Rylee.Dillon@businessdatastack.com,Sr. Analyst,2022-06-03,F,20,3969,3,825,2022
+1109,51367,Journey,Hendricks,Journey.Hendricks@businessdatastack.com,Director,2022-03-18,F,35,4403,6,828,2022
+2169,85366,Zackery,Ellison,Zackery.Ellison@businessdatastack.com,Sr. Manager,2021-04-07,F,22,3697,5,830,2021
+3157,22077,Amirah,Berg,Amirah.Berg@businessdatastack.com,Sr. Analyst,2021-04-02,F,23,3969,3,825,2021
+3969,85937,Jairo,Murray,Jairo.Murray@businessdatastack.com,Manager,2021-09-14,T,26,2364,4,832,2021
+8403,55959,Hugh,Fritz,Hugh.Fritz@businessdatastack.com,Manager,2022-07-24,F,24,2364,4,832,2022
+8441,22967,Emery,Gray,Emery.Gray@businessdatastack.com,Analyst,2020-09-03,F,19,4503,2,836,2020
+4403,42208,Autumn,Howe,Autumn.Howe@businessdatastack.com,Sr. Director,2022-01-06,F,30,,7,,2022
+6502,33845,Araceli,Gay,Araceli.Gay@businessdatastack.com,Sr. Director,2020-01-27,F,33,,7,,2020
+3697,54042,Zack,Mcclure,Zack.Mcclure@businessdatastack.com,Director,2022-02-12,F,23,9474,6,831,2022
+9474,8273,Andrew,Mcclain,Andrew.Mcclain@businessdatastack.com,Sr. Director,2020-03-16,F,29,,7,,2020
+2364,7908,Liana,Petersen,Liana.Petersen@businessdatastack.com,Sr. Manager,2022-08-09,F,20,9883,5,851,2022
+4378,62027,Luis,Moody,Luis.Moody@businessdatastack.com,Sr. Director,2021-12-25,F,16,,7,,2021
+5868,48636,Karma,Bartlett,Karma.Bartlett@businessdatastack.com,Sr. Director,2021-05-28,F,27,,7,,2021
+3437,499,Emmy,Watkins,Emmy.Watkins@businessdatastack.com,Analyst,2021-10-06,T,35,4503,2,836,2021
+4503,45679,Melody,Camacho,Melody.Camacho@businessdatastack.com,Sr. Analyst,2021-05-27,F,29,4473,3,850,2021
+2331,23380,Dominik,Vasquez,Dominik.Vasquez@businessdatastack.com,Sr. Manager,2022-06-06,F,29,9883,5,851,2022
+6892,40544,Tyson,Brady,Tyson.Brady@businessdatastack.com,Sr. Director,2020-05-05,F,19,,7,,2020
+819,81127,Keon,Terrell,Keon.Terrell@businessdatastack.com,Sr. Manager,2020-02-26,F,27,9883,5,851,2020
+3133,98096,Rodrigo,Cannon,Rodrigo.Cannon@businessdatastack.com,Sr. Manager,2021-12-26,F,23,9883,5,851,2021
+1398,25949,London,Giles,London.Giles@businessdatastack.com,Analyst,2020-10-27,F,32,4732,2,843,2020
+5466,58867,Caroline,Franklin,Caroline.Franklin@businessdatastack.com,Sr. Director,2022-08-19,T,17,,7,,2022
+4732,89834,Emerson,Burns,Emerson.Burns@businessdatastack.com,Sr. Analyst,2020-08-11,F,20,4473,3,850,2020
+3844,22961,Erick,Nolan,Erick.Nolan@businessdatastack.com,Sr. Director,2021-09-15,T,36,,7,,2021
+6796,18468,Colin,Black,Colin.Black@businessdatastack.com,Sr. Analyst,2020-09-04,T,21,4473,3,850,2020
+1195,74273,Urijah,Duncan,Urijah.Duncan@businessdatastack.com,Analyst,2020-08-06,F,37,7311,2,853,2020
+4159,74671,Irene,Murphy,Irene.Murphy@businessdatastack.com,Analyst,2022-04-25,F,25,7311,2,853,2022
+4562,38268,Jade,Oneill,Jade.Oneill@businessdatastack.com,Sr. Manager,2020-02-19,F,24,9883,5,851,2020
+933,51912,Mohammed,Flowers,Mohammed.Flowers@businessdatastack.com,Analyst,2021-07-07,F,35,7311,2,853,2021
+4473,84192,Tyshawn,Saunders,Tyshawn.Saunders@businessdatastack.com,Manager,2021-08-11,F,16,8596,4,862,2021
+9883,23043,Noemi,Mcclure,Noemi.Mcclure@businessdatastack.com,Director,2022-08-24,F,32,7733,6,874,2022
+1577,43832,Vivian,Parker,Vivian.Parker@businessdatastack.com,Analyst,2021-06-21,T,25,7311,2,853,2021
+7311,10503,Alfred,Mcknight,Alfred.Mcknight@businessdatastack.com,Sr. Analyst,2021-08-27,F,33,5273,3,858,2021
+1876,6429,Giancarlo,Dodson,Giancarlo.Dodson@businessdatastack.com,Sr. Analyst,2020-03-25,F,34,5273,3,858,2020
+8267,74022,Regan,Myers,Regan.Myers@businessdatastack.com,Sr. Analyst,2022-07-06,F,29,5273,3,858,2022
+5759,32079,Ashanti,Bryan,Ashanti.Bryan@businessdatastack.com,Analyst,2020-07-26,F,37,5800,2,869,2020
+259,60690,Roderick,Cummings,Roderick.Cummings@businessdatastack.com,Analyst,2022-09-18,T,30,5800,2,869,2022
+5273,19868,Dangelo,Holden,Dangelo.Holden@businessdatastack.com,Manager,2020-04-02,F,30,8596,4,862,2020
+3547,30099,Alannah,Logan,Alannah.Logan@businessdatastack.com,Analyst,2022-02-23,F,37,5800,2,869,2022
+7857,78782,Ashleigh,Choi,Ashleigh.Choi@businessdatastack.com,Analyst,2022-02-17,F,27,5800,2,869,2022
+3563,51172,Alejandro,Singleton,Alejandro.Singleton@businessdatastack.com,Analyst,2022-01-07,F,22,5800,2,869,2022
+8596,99068,Landyn,Gallagher,Landyn.Gallagher@businessdatastack.com,Sr. Manager,2022-03-18,F,18,6341,5,872,2022
+6406,66814,Jaxson,Reilly,Jaxson.Reilly@businessdatastack.com,Analyst,2022-04-26,F,30,5800,2,869,2022
+8965,12536,Shyla,Casey,Shyla.Casey@businessdatastack.com,Manager,2020-02-04,F,31,4635,4,865,2020
+4635,23829,Maximo,Hartman,Maximo.Hartman@businessdatastack.com,Sr. Manager,2020-10-27,F,29,6341,5,872,2020
+10,50249,Frida,Garza,Frida.Garza@businessdatastack.com,Analyst,2021-01-14,F,36,5800,2,869,2021
+8422,63685,Patience,King,Patience.King@businessdatastack.com,Analyst,2022-01-21,F,16,5800,2,869,2022
+7814,87964,Savanah,Sloan,Savanah.Sloan@businessdatastack.com,Sr. Manager,2021-09-02,F,19,6341,5,872,2021
+5800,1978,Jayda,Maddox,Jayda.Maddox@businessdatastack.com,Sr. Analyst,2021-11-11,F,22,2847,3,871,2021
+1547,73881,Samantha,Lawrence,Samantha.Lawrence@businessdatastack.com,Sr. Analyst,2021-09-21,T,27,2847,3,871,2021
+2847,56548,Jonas,Mcneil,Jonas.Mcneil@businessdatastack.com,Manager,2022-04-09,F,30,30,4,878,2022
+6341,44735,Yasmine,Sellers,Yasmine.Sellers@businessdatastack.com,Director,2022-08-28,F,33,7733,6,874,2022
+7812,9066,Terrell,Meyer,Terrell.Meyer@businessdatastack.com,Manager,2020-08-15,F,18,30,4,878,2020
+7733,90026,Lilian,Banks,Lilian.Banks@businessdatastack.com,Sr. Director,2022-03-02,F,26,,7,,2022
+8281,71821,Lola,Horton,Lola.Horton@businessdatastack.com,Director,2020-08-27,T,32,6307,6,880,2020
+9762,56577,Ashlynn,Day,Ashlynn.Day@businessdatastack.com,Analyst,2021-03-16,F,32,7101,2,888,2021
+5680,86971,Justice,Graham,Justice.Graham@businessdatastack.com,Analyst,2021-04-05,T,19,7101,2,888,2021
+30,82442,Belen,Cole,Belen.Cole@businessdatastack.com,Sr. Manager,2021-08-22,F,22,2027,5,890,2021
+3882,48836,Gregory,Welch,Gregory.Welch@businessdatastack.com,Analyst,2021-04-03,T,25,7101,2,888,2021
+6307,66888,Alondra,Yates,Alondra.Yates@businessdatastack.com,Sr. Director,2020-07-20,F,29,,7,,2020
+4366,60737,Marshall,Schmitt,Marshall.Schmitt@businessdatastack.com,Manager,2020-05-03,F,17,6035,4,884,2020
+7801,26401,Blake,Harmon,Blake.Harmon@businessdatastack.com,Manager,2022-02-17,F,22,6035,4,884,2022
+907,46103,Jasiah,Gaines,Jasiah.Gaines@businessdatastack.com,Manager,2021-11-24,F,30,6035,4,884,2021
+6035,3488,Anna,Fleming,Anna.Fleming@businessdatastack.com,Sr. Manager,2020-01-21,F,21,2027,5,890,2020
+5869,2053,Riya,Li,Riya.Li@businessdatastack.com,Manager,2020-04-03,T,24,8912,4,886,2020
+8912,75928,Janet,Jennings,Janet.Jennings@businessdatastack.com,Sr. Manager,2021-05-13,F,21,2027,5,890,2021
+3087,58369,Nash,Hull,Nash.Hull@businessdatastack.com,Sr. Director,2020-01-14,F,21,,7,,2020
+7101,14211,Isabela,Ashley,Isabela.Ashley@businessdatastack.com,Sr. Analyst,2021-05-15,F,35,174,3,896,2021
+8061,40735,Bentley,Valencia,Bentley.Valencia@businessdatastack.com,Sr. Director,2022-05-23,F,24,,7,,2022
+2027,31224,Tristin,Rollins,Tristin.Rollins@businessdatastack.com,Director,2022-09-22,F,32,3665,6,894,2022
+1181,91179,Nancy,Rodgers,Nancy.Rodgers@businessdatastack.com,Analyst,2022-01-15,F,37,754,2,898,2022
+6420,77601,Kenya,Arroyo,Kenya.Arroyo@businessdatastack.com,Director,2021-07-28,F,24,3665,6,894,2021
+3286,45998,Willie,Trujillo,Willie.Trujillo@businessdatastack.com,Sr. Manager,2020-09-16,F,26,8978,5,906,2020
+3665,81936,Zoe,Hubbard,Zoe.Hubbard@businessdatastack.com,Sr. Director,2020-01-16,F,20,,7,,2020
+4203,98022,Cameron,Harrison,Cameron.Harrison@businessdatastack.com,Analyst,2021-06-26,F,17,754,2,898,2021
+174,47218,Messiah,Johns,Messiah.Johns@businessdatastack.com,Manager,2022-04-18,F,32,2326,4,897,2022
+2326,82969,Cristofer,Mosley,Cristofer.Mosley@businessdatastack.com,Sr. Manager,2020-11-09,F,18,8978,5,906,2020
+754,42354,Payton,Mosley,Payton.Mosley@businessdatastack.com,Sr. Analyst,2022-01-06,F,36,4554,3,900,2022
+708,53373,Albert,Shepard,Albert.Shepard@businessdatastack.com,Sr. Director,2022-07-19,F,19,,7,,2022
+4554,50090,Hunter,Obrien,Hunter.Obrien@businessdatastack.com,Manager,2022-05-13,F,25,2747,4,911,2022
+4603,44469,Clark,Andersen,Clark.Andersen@businessdatastack.com,Sr. Director,2021-08-01,F,28,,7,,2021
+7050,37444,Dexter,Manning,Dexter.Manning@businessdatastack.com,Analyst,2022-02-05,F,25,6397,2,905,2022
+125,88870,Xavier,Wilkinson,Xavier.Wilkinson@businessdatastack.com,Analyst,2020-03-24,F,23,6397,2,905,2020
+7548,5746,Anika,Beltran,Anika.Beltran@businessdatastack.com,Sr. Director,2020-01-11,F,23,,7,,2020
+6397,77058,Aron,Young,Aron.Young@businessdatastack.com,Sr. Analyst,2021-10-09,F,26,7991,3,909,2021
+8978,89848,Azul,Fuller,Azul.Fuller@businessdatastack.com,Director,2021-05-25,F,21,4950,6,912,2021
+5222,29369,Aron,Spence,Aron.Spence@businessdatastack.com,Director,2020-04-04,T,17,4950,6,912,2020
+1052,15687,Maximillian,Cunningham,Maximillian.Cunningham@businessdatastack.com,Sr. Analyst,2020-11-06,T,21,7991,3,909,2020
+7991,58109,Madyson,Whitaker,Madyson.Whitaker@businessdatastack.com,Manager,2020-03-26,F,18,2747,4,911,2020
+4353,79430,Anderson,Delacruz,Anderson.Delacruz@businessdatastack.com,Sr. Analyst,2020-07-07,F,20,8255,3,923,2020
+2747,74195,Aria,Goodman,Aria.Goodman@businessdatastack.com,Sr. Manager,2022-09-08,F,22,3702,5,915,2022
+4950,48382,Keshawn,Pittman,Keshawn.Pittman@businessdatastack.com,Sr. Director,2020-07-10,F,24,,7,,2020
+149,76187,Gillian,Brown,Gillian.Brown@businessdatastack.com,Sr. Analyst,2020-07-03,F,21,8255,3,923,2020
+6167,28145,Sammy,Diaz,Sammy.Diaz@businessdatastack.com,Sr. Analyst,2021-05-13,F,18,8255,3,923,2021
+3702,75444,Triston,Stewart,Triston.Stewart@businessdatastack.com,Director,2022-01-11,T,17,3528,6,924,2022
+1266,96846,Gerald,Snyder,Gerald.Snyder@businessdatastack.com,Sr. Analyst,2021-06-22,F,30,8255,3,923,2021
+8965,27074,Sylvia,Bailey,Sylvia.Bailey@businessdatastack.com,Sr. Manager,2021-10-02,T,31,9469,5,932,2021
+8240,66260,Sophia,Santana,Sophia.Santana@businessdatastack.com,Sr. Analyst,2021-09-26,F,35,8255,3,923,2021
+7475,16607,Kathy,Valentine,Kathy.Valentine@businessdatastack.com,Sr. Analyst,2022-01-03,T,16,8255,3,923,2022
+2835,63100,Maren,Hartman,Maren.Hartman@businessdatastack.com,Analyst,2020-09-02,F,21,6677,2,925,2020
+6798,92622,Amira,Huber,Amira.Huber@businessdatastack.com,Sr. Manager,2022-06-01,F,21,9469,5,932,2022
+4916,27353,Alani,Simon,Alani.Simon@businessdatastack.com,Analyst,2020-11-16,F,20,6677,2,925,2020
+8255,73881,Autumn,Andersen,Autumn.Andersen@businessdatastack.com,Manager,2021-10-26,F,34,4927,4,935,2021
+3528,46427,Jack,Moss,Jack.Moss@businessdatastack.com,Sr. Director,2021-03-10,F,22,,7,,2021
+6677,78530,Abel,Cook,Abel.Cook@businessdatastack.com,Sr. Analyst,2020-11-09,F,17,1894,3,945,2020
+594,1486,Rodney,Malone,Rodney.Malone@businessdatastack.com,Sr. Director,2021-06-14,F,33,,7,,2021
+9384,742,Patrick,Bush,Patrick.Bush@businessdatastack.com,Analyst,2021-05-21,F,28,9502,2,929,2021
+5241,34755,Felicity,Adams,Felicity.Adams@businessdatastack.com,Analyst,2022-03-13,F,22,9502,2,929,2022
+9502,34389,Jade,Beard,Jade.Beard@businessdatastack.com,Sr. Analyst,2021-10-15,F,20,1894,3,945,2021
+5351,82264,Jefferson,Anderson,Jefferson.Anderson@businessdatastack.com,Analyst,2022-03-02,F,29,9987,2,933,2022
+1325,35878,Chaz,Lopez,Chaz.Lopez@businessdatastack.com,Analyst,2022-02-26,F,22,9987,2,933,2022
+9469,47429,Danny,Mcclure,Danny.Mcclure@businessdatastack.com,Director,2022-09-08,T,33,4307,6,934,2022
+9987,9381,Dexter,Savage,Dexter.Savage@businessdatastack.com,Sr. Analyst,2022-01-18,F,30,1894,3,945,2022
+4307,42920,Teresa,Murray,Teresa.Murray@businessdatastack.com,Sr. Director,2021-11-08,F,21,,7,,2021
+4927,54973,Rubi,Obrien,Rubi.Obrien@businessdatastack.com,Sr. Manager,2022-09-10,T,37,3123,5,939,2022
+1153,87029,Naomi,Bryant,Naomi.Bryant@businessdatastack.com,Sr. Director,2020-06-20,F,29,,7,,2020
+3686,87296,Aiden,Holder,Aiden.Holder@businessdatastack.com,Sr. Director,2021-06-02,F,35,,7,,2021
+2220,9680,Michaela,Sellers,Michaela.Sellers@businessdatastack.com,Sr. Director,2020-01-03,F,16,,7,,2020
+3123,43998,Jon,Spears,Jon.Spears@businessdatastack.com,Director,2022-04-13,F,31,664,6,942,2022
+8771,14876,Dylan,Kerr,Dylan.Kerr@businessdatastack.com,Sr. Manager,2022-01-25,F,29,2760,5,941,2022
+2760,16064,Kailee,Chen,Kailee.Chen@businessdatastack.com,Director,2020-12-16,F,23,664,6,942,2020
+664,92802,Quinn,Petty,Quinn.Petty@businessdatastack.com,Sr. Director,2022-05-12,F,30,,7,,2022
+9264,74972,Kane,Flores,Kane.Flores@businessdatastack.com,Sr. Manager,2022-05-18,F,19,2256,5,954,2022
+7380,75685,Shyla,Sosa,Shyla.Sosa@businessdatastack.com,Sr. Manager,2021-12-08,F,25,2256,5,954,2021
+1894,3700,Pablo,Choi,Pablo.Choi@businessdatastack.com,Manager,2020-07-09,F,26,1224,4,958,2020
+1321,92766,Ahmad,Fleming,Ahmad.Fleming@businessdatastack.com,Analyst,2022-08-09,F,20,3920,2,947,2022
+3920,62297,Olive,Mooney,Olive.Mooney@businessdatastack.com,Sr. Analyst,2022-02-21,F,35,5192,3,964,2022
+2602,57820,Madilynn,Hayden,Madilynn.Hayden@businessdatastack.com,Analyst,2021-09-20,F,16,1323,2,950,2021
+7071,26092,Xander,Liu,Xander.Liu@businessdatastack.com,Sr. Director,2020-05-18,T,20,,7,,2020
+1323,26411,Thalia,Carr,Thalia.Carr@businessdatastack.com,Sr. Analyst,2022-07-24,T,28,5192,3,964,2022
+6039,3820,Jakobe,Roach,Jakobe.Roach@businessdatastack.com,Analyst,2020-05-21,F,35,5931,2,955,2020
+2771,5019,Jaylin,Yang,Jaylin.Yang@businessdatastack.com,Sr. Director,2021-03-22,T,23,,7,,2021
+7140,81195,Jaylee,Cardenas,Jaylee.Cardenas@businessdatastack.com,Sr. Director,2021-09-14,T,29,,7,,2021
+2256,96979,Giovanna,Norman,Giovanna.Norman@businessdatastack.com,Director,2021-04-08,F,20,480,6,962,2021
+5931,7709,Kaia,Shea,Kaia.Shea@businessdatastack.com,Sr. Analyst,2022-01-10,F,21,5192,3,964,2022
+3094,56153,Immanuel,Durham,Immanuel.Durham@businessdatastack.com,Analyst,2020-04-24,F,35,9333,2,985,2020
+8381,96592,Presley,Lang,Presley.Lang@businessdatastack.com,Director,2021-04-22,F,17,480,6,962,2021
+1224,25197,Taniyah,Chandler,Taniyah.Chandler@businessdatastack.com,Sr. Manager,2021-04-10,T,32,9873,5,961,2021
+8804,74369,Jasmine,Gamble,Jasmine.Gamble@businessdatastack.com,Analyst,2022-04-02,F,20,9333,2,985,2022
+5070,80794,Philip,Love,Philip.Love@businessdatastack.com,Sr. Manager,2022-02-19,T,35,9873,5,961,2022
+9873,26856,Jimena,Shaw,Jimena.Shaw@businessdatastack.com,Director,2020-05-28,F,26,480,6,962,2020
+480,33240,Anderson,Church,Anderson.Church@businessdatastack.com,Sr. Director,2021-05-28,F,16,,7,,2021
+2635,99887,Aarav,Lucas,Aarav.Lucas@businessdatastack.com,Sr. Director,2021-08-06,F,19,,7,,2021
+5192,94424,Rene,Wade,Rene.Wade@businessdatastack.com,Manager,2022-02-28,F,33,2909,4,969,2022
+6528,33496,Isabel,Lynn,Isabel.Lynn@businessdatastack.com,Director,2022-08-01,T,23,9060,6,966,2022
+9060,45064,Jamarion,Hart,Jamarion.Hart@businessdatastack.com,Sr. Director,2020-11-11,T,34,,7,,2020
+7604,23595,Zariah,Oneal,Zariah.Oneal@businessdatastack.com,Analyst,2021-05-12,F,26,9333,2,985,2021
+2927,37507,Oswaldo,Richard,Oswaldo.Richard@businessdatastack.com,Analyst,2021-06-10,F,36,9333,2,985,2021
+2909,64982,Sophia,Pace,Sophia.Pace@businessdatastack.com,Sr. Manager,2021-12-03,T,20,1508,5,976,2021
+8038,75153,Trevor,Mcclure,Trevor.Mcclure@businessdatastack.com,Sr. Director,2020-01-24,F,35,,7,,2020
+6282,84367,Abagail,Becker,Abagail.Becker@businessdatastack.com,Sr. Director,2021-06-05,T,32,,7,,2021
+2207,57544,Halle,Riley,Halle.Riley@businessdatastack.com,Manager,2020-08-25,F,32,3314,4,973,2020
+3314,14587,Giana,Riggs,Giana.Riggs@businessdatastack.com,Sr. Manager,2022-07-01,F,19,1508,5,976,2022
+2366,54988,Amari,Ward,Amari.Ward@businessdatastack.com,Manager,2020-06-01,F,19,4782,4,978,2020
+2950,680,Tess,Glass,Tess.Glass@businessdatastack.com,Analyst,2021-03-18,F,31,9333,2,985,2021
+1508,88779,Maxim,Koch,Maxim.Koch@businessdatastack.com,Director,2021-10-12,F,30,7133,6,988,2021
+6258,96498,Pierce,Mejia,Pierce.Mejia@businessdatastack.com,Director,2021-09-16,T,33,7133,6,988,2021
+4782,71345,Anabelle,Cruz,Anabelle.Cruz@businessdatastack.com,Sr. Manager,2022-01-09,T,20,6327,5,981,2022
+7990,81324,Trent,Marks,Trent.Marks@businessdatastack.com,Manager,2021-09-07,T,22,4077,4,982,2021
+9072,64871,Matilda,Duke,Matilda.Duke@businessdatastack.com,Analyst,2022-02-21,F,37,9333,2,985,2022
+6327,11271,James,Garrison,James.Garrison@businessdatastack.com,Director,2020-06-18,F,29,7133,6,988,2020
+4077,39759,Emilia,Terrell,Emilia.Terrell@businessdatastack.com,Sr. Manager,2021-09-13,T,29,5252,5,995,2021
+8344,63619,Harper,Powell,Harper.Powell@businessdatastack.com,Manager,2022-05-28,T,19,9488,4,986,2022
+7206,58113,Elizabeth,Cline,Elizabeth.Cline@businessdatastack.com,Analyst,2020-09-04,F,34,9333,2,985,2020
+9333,90762,Emmy,Lewis,Emmy.Lewis@businessdatastack.com,Sr. Analyst,2021-06-12,F,16,934,3,989,2021
+9488,66375,Helen,Brock,Helen.Brock@businessdatastack.com,Sr. Manager,2022-08-05,F,31,5252,5,995,2022
+5024,15521,Dayana,Murray,Dayana.Murray@businessdatastack.com,Sr. Manager,2021-10-07,F,24,5252,5,995,2021
+7133,73364,Alexia,Hale,Alexia.Hale@businessdatastack.com,Sr. Director,2021-08-27,F,30,,7,,2021
+934,46836,Haylie,Daniel,Haylie.Daniel@businessdatastack.com,Manager,2022-05-01,F,35,,4,,2022
+7492,54228,Harper,Cameron,Harper.Cameron@businessdatastack.com,Analyst,2022-03-11,F,19,,2,,2022
+9086,36451,Kaitlin,Bowen,Kaitlin.Bowen@businessdatastack.com,Analyst,2021-11-03,F,24,,2,,2021
+3445,64681,Israel,Hamilton,Israel.Hamilton@businessdatastack.com,Sr. Director,2020-08-24,F,20,,7,,2020
+5240,84108,Willow,Robinson,Willow.Robinson@businessdatastack.com,Analyst,2022-06-16,T,33,,2,,2022
+882,66284,Enzo,Austin,Enzo.Austin@businessdatastack.com,Analyst,2022-02-02,T,32,,2,,2022
+5252,15481,Erica,Petersen,Erica.Petersen@businessdatastack.com,Director,2021-07-27,F,37,6739,6,999,2021
+6898,12751,Ellis,Kaiser,Ellis.Kaiser@businessdatastack.com,Director,2022-09-10,F,27,6739,6,999,2022
+7706,60462,Ingrid,Farrell,Ingrid.Farrell@businessdatastack.com,Analyst,2020-04-07,T,29,,2,,2020
+5442,59210,Declan,Schwartz,Declan.Schwartz@businessdatastack.com,Manager,2022-04-15,T,18,,4,,2022
+6739,27509,Kimberly,Ortega,Kimberly.Ortega@businessdatastack.com,Sr. Director,2021-05-14,F,31,,7,,2021
+8634,89169,Teagan,Beard,Teagan.Beard@businessdatastack.com,Analyst,2020-01-08,T,23,,2,,2020
+4124,1180,Lillie,Valencia,Lillie.Valencia@businessdatastack.com,Manager,2021-10-09,F,25,,4,,2021

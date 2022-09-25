@@ -1,0 +1,153 @@
+﻿id,Description
+BILL:A,Bill : Open
+BILL:B,Bill : Paid In Full
+BILL:C,Bill : Cancelled
+BILL:D,Bill : Pending Approval
+BILL:E,Bill : Rejected
+BILLCRED:Y,Bill Credit : Undefined
+BILLPMT:V,Bill Payment : Voided
+BILLPMT:Y,Bill Payment : Undefined
+BINTRNFR:Y,Bin Transfer : Undefined
+BINWKSHT:Y,Bin Putaway Worksheet : Undefined
+BUILD:Y,Assembly Build : Undefined
+CASHSALE:A,Cash Sale : Unapproved Payment
+CASHSALE:B,Cash Sale : Not Deposited
+CASHSALE:C,Cash Sale : Deposited
+CHECK:V,Check : Voided
+CHECK:Z,Check : Online Bill Pay Pending Accounting Approval
+CHK:V,Check : Voided
+CHK:Y,Check : Undefined
+COMMISSN:A,Commission : Pending Payment
+COMMISSN:O,Commission : Overpaid
+COMMISSN:P,Commission : Pending Accounting Approval
+COMMISSN:R,Commission : Rejected by Accounting
+COMMISSN:X,Commission : Paid in Full
+CREDMEM:B,Credit Memo : Fully Applied
+CUSTCHRG:A,Statement Charge : Open
+CUSTCHRG:B,Statement Charge : Paid In Full
+CUSTCRED:A,Credit Memo : Open
+CUSTCRED:B,Credit Memo : Fully Applied
+CUSTDEP:A,Customer Deposit : Not Deposited
+CUSTDEP:B,Customer Deposit : Deposited
+CUSTDEP:C,Customer Deposit : Fully Applied
+CUSTINVC:A,Invoice : Open
+CUSTINVC:B,Invoice : Paid In Full
+CUSTPYMT:A,Payment : Unapproved Payment
+CUSTPYMT:B,Payment : Not Deposited
+CUSTPYMT:C,Payment : Deposited
+CUSTRFND:V,Customer Refund : Voided
+DEP:Y,Deposit : Undefined
+ESTIMATE:A,Quote : Open
+ESTIMATE:B,Quote : Processed
+ESTIMATE:C,Quote : Closed
+ESTIMATE:V,Quote : Voided
+ESTIMATE:X,Quote : Expired
+EXPREPT:A,Expense Report : In Progress
+EXPREPT:B,Expense Report : Pending Supervisor Approval
+EXPREPT:C,Expense Report : Pending Accounting Approval
+EXPREPT:D,Expense Report : Rejected by Supervisor
+EXPREPT:E,Expense Report : Rejected by Accounting
+EXPREPT:F,Expense Report : Approved by Accounting
+EXPREPT:G,Expense Report : Approved (Overridden) by Accounting
+EXPREPT:H,Expense Report : Rejected (Overridden) by Accounting
+EXPREPT:I,Expense Report : Paid In Full
+GENJRNL:B,Journal : Approved for Posting
+INV ADJT:Y,Inventory Adjustment : Undefined
+INV TRFR:Y,Inventory Transfer : Undefined
+INV:A,Invoice : Open
+INV:B,Invoice : Paid In Full
+INV:D,Invoice : Pending Approval
+INVREVAL:Y,Inventory Cost Revaluation : Undefined
+ITEM RCP:Y,Item Receipt : Undefined
+ITEMSHIP:A,Item Fulfillment : Picked
+ITEMSHIP:B,Item Fulfillment : Packed
+ITEMSHIP:C,Item Fulfillment : Shipped
+JOURNAL:A,Journal : Pending Approval
+JOURNAL:B,Journal : Approved for Posting
+LIAPYMT:V,Payroll Liability Check : Voided
+OPPRTNTY:A,Opportunity : In Progress
+OPPRTNTY:B,Opportunity : Issued Estimate
+OPPRTNTY:C,Opportunity : Closed – Won
+OPPRTNTY:D,Opportunity : Closed – Lost
+PAYCHECK:A,Paycheck : Undefined
+PAYCHECK:C,Paycheck : Pending Tax Calculation
+PAYCHECK:D,Paycheck : Pending Commitment
+PAYCHECK:F,Paycheck : Committed
+PAYCHECK:P,Paycheck : Preview
+PAYCHECK:R,Paycheck : Reversed
+PMT:C,Payment : Deposited
+PURCHORD:A,Purchase Order : Pending Supervisor Approval
+PURCHORD:B,Purchase Order : Pending Receipt
+PURCHORD:C,Purchase Order : Rejected by Supervisor
+PURCHORD:D,Purchase Order : Partially Received
+PURCHORD:E,Purchase Order : Pending Billing/Partially Received
+PURCHORD:F,Purchase Order : Pending Bill
+PURCHORD:G,Purchase Order : Fully Billed
+PURCHORD:H,Purchase Order : Closed
+PURCHREQ:B,Requisition : Pending Order
+PURCHREQ:E,Requisition : Fully Ordered
+PURCHREQ:F,Requisition : Partially Received
+PURCHREQ:H,Requisition : Closed
+REVAL:Y,Currency Revaluation : Undefined
+RTNAUTH:A,Return Authorization : Pending Approval
+RTNAUTH:B,Return Authorization : Pending Receipt
+RTNAUTH:C,Return Authorization : Cancelled
+RTNAUTH:D,Return Authorization : Partially Received
+RTNAUTH:E,Return Authorization : Pending Refund/Partially Received
+RTNAUTH:F,Return Authorization : Pending Refund
+RTNAUTH:G,Return Authorization : Refunded
+RTNAUTH:H,Return Authorization : Closed
+SALESORD:A,Sales Order : Pending Approval
+SALESORD:B,Sales Order : Pending Fulfillment
+SALESORD:C,Sales Order : Cancelled
+SALESORD:D,Sales Order : Partially Fulfilled
+SalesOrd:E,Sales Order : Pending Billing/Partially Fulfilled
+SALESORD:F,Sales Order : Pending Billing
+SALESORD:G,Sales Order : Billed
+SALESORD:H,Sales Order : Closed
+TAXLIAB:V,Tax Liability Cheque : Voided
+TAXPYMT:V,Sales Tax Payment : Voided
+TAXPYMT:Z,Sales Tax Payment : Online Bill Pay Pending Accounting Approval
+TEGPYBL:E,Tegata Payable : Endorsed
+TEGPYBL:I,Tegata Payable : Issued
+TEGPYBL:P,Tegata Payable : Paid
+TEGRCVBL:C,Tegata Receivables : Collected
+TEGRCVBL:D,Tegata Receivables : Discounted
+TEGRCVBL:E,Tegata Receivables : Endorsed
+TEGRCVBL:H,Tegata Receivables : Holding
+TRANSFR:Y,Transfer : Undefined
+TRNFRORD:A,Transfer Order : Pending Approval
+TRNFRORD:B,Transfer Order : Pending Fulfillment
+TRNFRORD:C,Transfer Order : Rejected
+TRNFRORD:D,Transfer Order : Partially Fulfilled
+TRNFRORD:E,Transfer Order : Pending Receipt/Partially Fulfilled
+TRNFRORD:F,Transfer Order : Pending Receipt
+TRNFRORD:G,Transfer Order : Received
+TRNFRORD:H,Transfer Order : Closed
+UNBUILD:Y,Assembly Unbuild : Undefined
+VENDAUTH:A,Vendor Return Authorization : Pending Approval
+VENDAUTH:B,Vendor Return Authorization : Pending Return
+VENDAUTH:C,Vendor Return Authorization : Cancelled
+VENDAUTH:D,Vendor Return Authorization : Partially Returned
+VENDAUTH:E,Vendor Return Authorization : Pending Credit/Partially Returned
+VENDAUTH:F,Vendor Return Authorization : Pending Credit
+VENDAUTH:G,Vendor Return Authorization : Credited
+VENDAUTH:H,Vendor Return Authorization : Closed
+VENDBILL:A,Bill : Open
+VENDBILL:B,Bill : Paid In Full
+VENDPYMT:V,Bill Payment : Voided
+VENDPYMT:Z,Bill Payment : Online Bill Pay Pending Accounting Approval
+VPREP:B,Vendor Prepayment : Paid
+VPREP:E,Vendor Prepayment : Partially Applied
+VPREP:F,Vendor Prepayment : Fully Applied
+VPREP:V,Vendor Prepayment : Voided
+VPREPAPP:Y,Vendor Prepayment Application : Undefined
+WOCLOSE:Y,Work Order Close : Undefined
+WOCOMPL:Y,Work Order Completion : Undefined
+WOISSUE:Y,Work Order Issue : Undefined
+WORKORD:A,Work Order : Planned
+WORKORD:B,Work Order : Released
+WORKORD:C,Work Order : Cancelled
+WORKORD:D,Work Order : In Process
+WORKORD:G,Work Order : Built
+WORKORD:H,Work Order : Closed
