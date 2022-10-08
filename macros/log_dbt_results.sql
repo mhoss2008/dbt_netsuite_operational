@@ -1,3 +1,4 @@
+-- Purpose: at the end of a dbt run, store all created tables and views in a table
 -- used as part of workflow to store table meta data in a snowflake tabled
 -- sourced from https://medium.com/@oravidov/dbt-observability-101-how-to-monitor-dbt-run-and-test-results-f7e5f270d6b6
 
@@ -33,8 +34,7 @@
                             '{{ parsed_result_dict.get('resource_type') }}',
                             '{{ parsed_result_dict.get('status') }}',
                             {{ parsed_result_dict.get('execution_time') }},
-                            {{ parsed_result_dict.get('rows_affected') }},
-                            
+                            {{ parsed_result_dict.get('rows_affected') }}
                         ) {{- "," if not loop.last else "" -}}
                     {%- endfor -%}
             {%- endset -%}

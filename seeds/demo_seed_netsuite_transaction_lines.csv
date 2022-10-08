@@ -1,4 +1,4 @@
-﻿Transaction,Transaction_Type,Status,department,EXPENSEACCOUNT,ITEM,QUANTITY,QUANTITYSHIPRECV,QUANTITYBILLED,RATE,rateamount ,netamount ,expectedshipdate ,expectedreceiptdate ,MEMO ,mainline,UNIQUEKEY ,kitmemberof,delete_random_number,,,
+Transaction,Transaction_Type,Status,department,EXPENSEACCOUNT,ITEM,QUANTITY,QUANTITYSHIPRECV,QUANTITYBILLED,RATE,rateamount,netamount,expectedshipdate,expectedreceiptdate,MEMO,mainline,UNIQUEKEY,kitmemberof,delete_random_number,,,
 1236466,PurchOrd,,11,407,329,10,10,10,13,13,130,2021-11-02,2021-11-07,,,242242,,55,,,
 1236485,PurchOrd,,11,449,620,51,51,51,8,8,408,2020-04-21,2020-04-26,,,242243,,79,,,
 1236531,PurchOrd,,35,569,312,31,31,31,1,1,31,2021-11-19,2021-11-24,,,242244,,32,,,

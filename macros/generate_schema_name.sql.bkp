@@ -1,3 +1,7 @@
+{#
+# Purpose: Modify schema naming to remove default_schema from begining of schema name
+#}
+
 {% macro generate_schema_name(custom_schema_name, node) -%}
 
 
@@ -12,9 +16,9 @@
     {%- else -%}
 
         {#old code#}
-        {#{{ default_schema }}_{{ custom_schema_name | trim }}#}
+        {{ default_schema }}_{{ custom_schema_name | trim }}
 
-        {{ custom_schema_name | trim }}
+        {#{{ custom_schema_name | trim }}#}
 
 
     {%- endif -%}

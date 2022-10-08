@@ -1,4 +1,4 @@
-﻿id,externalid,firstname,lastname,email,title,lastmodifieddate,isinactive,department,supervisor,DELETE_RandomColumn,DELETE_SupervisorRow,DELETE_RandYear
+id,externalid,firstname,lastname,email,title,lastmodifieddate,isinactive,department,supervisor,DELETE_RandomColumn,DELETE_SupervisorRow,DELETE_RandYear
 9394,48441,Deacon,Rivas,Deacon.Rivas@businessdatastack.com,Director,2021-09-26,F,22,367,6,4,2021
 2683,30781,Zaiden,Lynch,Zaiden.Lynch@businessdatastack.com,Analyst,2022-06-15,F,19,8643,2,8,2022
 367,90607,Logan,Compton,Logan.Compton@businessdatastack.com,Sr. Director,2021-10-16,F,28,,7,,2021

@@ -1,3 +1,4 @@
+-- Purpose: at the end of a dbt run, store all created tables and views in a table
 -- used as part of workflow to store table meta data in a snowflake tabled
 -- sourced from https://medium.com/@oravidov/dbt-observability-101-how-to-monitor-dbt-run-and-test-results-f7e5f270d6b6
 
@@ -11,7 +12,6 @@
         {% set run_result_dict = run_result.to_dict() %}
         -- Get the underlying dbt graph node that was executed
         {% set node = run_result_dict.get('node') %}
-        {% do log("Node Metadata: " ~ node, info=True) %}
         {% set rows_affected = run_result_dict.get('adapter_response', {}).get('rows_affected', 0) %}
         {%- if not rows_affected -%}
             {% set rows_affected = 0 %}
