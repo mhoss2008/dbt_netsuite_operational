@@ -1,8 +1,8 @@
 with ITEM as (
-    select * from {{ref('raw2_netsuite_items') }}
+    select * from {{ref('raw_netsuite_items') }}
 ), 
 UOM_STOCKUNIT as (
-    select * from {{ref('raw2_netsuite_uom') }}
+    select * from {{ref('raw_netsuite_uom') }}
 ), 
 
 renamed as (
