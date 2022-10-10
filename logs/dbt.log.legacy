@@ -30625,3 +30625,1249 @@ There are 1 unused configuration paths:
 2022-10-10 05:01:54.744547 (Thread-510): handling status request
 2022-10-10 05:01:54.745012 (Thread-510): 05:01:54  Sending event: {'category': 'dbt', 'action': 'rpc_request', 'label': '68776726-190a-46dc-a4df-44ca4414331f', 'context': [<snowplow_tracker.self_describing_json.SelfDescribingJson object at 0x7fd72c1f37c0>]}
 2022-10-10 05:01:54.746266 (Thread-510): sending response (<Response 28527 bytes [200 OK]>) to 10.0.10.11
+2022-10-10 05:01:58.110986 (Thread-511): 05:01:58  Partial parsing enabled: 0 files deleted, 1 files added, 0 files changed.
+2022-10-10 05:01:58.111425 (Thread-511): 05:01:58  Partial parsing: added file: my_new_project://seeds/demo_seed_netsuite_transactions2.csv
+2022-10-10 05:01:58.153093 (Thread-511): 05:01:58  [WARNING]: Configuration paths exist in your dbt_project.yml file which do not apply to any resources.
+There are 1 unused configuration paths:
+- models.dbt_netsuite_operational.production
+
+2022-10-10 05:01:58.159692 (Thread-511): 05:01:58  Sending event: {'category': 'dbt', 'action': 'load_project', 'label': '68776726-190a-46dc-a4df-44ca4414331f', 'context': [<snowplow_tracker.self_describing_json.SelfDescribingJson object at 0x7fd71b389eb0>]}
+2022-10-10 05:01:58.824382 (Thread-512): handling status request
+2022-10-10 05:01:58.824806 (Thread-512): 05:01:58  Sending event: {'category': 'dbt', 'action': 'rpc_request', 'label': '68776726-190a-46dc-a4df-44ca4414331f', 'context': [<snowplow_tracker.self_describing_json.SelfDescribingJson object at 0x7fd72c9c16d0>]}
+2022-10-10 05:01:58.825305 (Thread-512): sending response (<Response 1765 bytes [200 OK]>) to 10.0.10.11
+2022-10-10 05:01:58.887089 (Thread-513): handling status request
+2022-10-10 05:01:58.887541 (Thread-513): 05:01:58  Sending event: {'category': 'dbt', 'action': 'rpc_request', 'label': '68776726-190a-46dc-a4df-44ca4414331f', 'context': [<snowplow_tracker.self_describing_json.SelfDescribingJson object at 0x7fd71b3b80d0>]}
+2022-10-10 05:01:58.888039 (Thread-513): sending response (<Response 1765 bytes [200 OK]>) to 10.0.10.11
+2022-10-10 05:02:11.405283 (Thread-514): handling status request
+2022-10-10 05:02:11.405702 (Thread-514): 05:02:11  Sending event: {'category': 'dbt', 'action': 'rpc_request', 'label': '68776726-190a-46dc-a4df-44ca4414331f', 'context': [<snowplow_tracker.self_describing_json.SelfDescribingJson object at 0x7fd7906b03a0>]}
+2022-10-10 05:02:11.406212 (Thread-514): sending response (<Response 1765 bytes [200 OK]>) to 10.0.10.11
+2022-10-10 05:02:11.691151 (Thread-515): handling status request
+2022-10-10 05:02:11.691585 (Thread-515): 05:02:11  Sending event: {'category': 'dbt', 'action': 'rpc_request', 'label': '68776726-190a-46dc-a4df-44ca4414331f', 'context': [<snowplow_tracker.self_describing_json.SelfDescribingJson object at 0x7fd791bb30a0>]}
+2022-10-10 05:02:11.692088 (Thread-515): sending response (<Response 1765 bytes [200 OK]>) to 10.0.10.11
+2022-10-10 05:02:11.703783 (Thread-516): handling cli_args request
+2022-10-10 05:02:11.704056 (Thread-516): 05:02:11  Sending event: {'category': 'dbt', 'action': 'rpc_request', 'label': '68776726-190a-46dc-a4df-44ca4414331f', 'context': [<snowplow_tracker.self_describing_json.SelfDescribingJson object at 0x7fd791bb3e20>]}
+2022-10-10 05:02:14.230379 (Thread-516): sending response (<Response 140 bytes [200 OK]>) to 10.0.10.11
+2022-10-10 05:02:14.326510 (MainThread): 05:02:14  Unable to do partial parsing because config vars, config profile, or config target have changed
+2022-10-10 05:02:14.326942 (MainThread): 05:02:14  Sending event: {'category': 'dbt', 'action': 'partial_parser', 'label': '4897b679-bd9b-4a18-bbac-3d04ccd9992d', 'context': [<snowplow_tracker.self_describing_json.SelfDescribingJson object at 0x7f138ac13a00>]}
+2022-10-10 05:02:14.403314 (MainThread): 05:02:14  Parsing macros/log_dbt_results.sql
+2022-10-10 05:02:14.409495 (MainThread): 05:02:14  Parsing macros/parse_dbt_results.sql
+2022-10-10 05:02:14.413340 (MainThread): 05:02:14  Parsing macros/query_tag.sql
+2022-10-10 05:02:14.414918 (MainThread): 05:02:14  Parsing macros/adapters.sql
+2022-10-10 05:02:14.456890 (MainThread): 05:02:14  Parsing macros/catalog.sql
+2022-10-10 05:02:14.458687 (MainThread): 05:02:14  Parsing macros/utils/right.sql
+2022-10-10 05:02:14.459366 (MainThread): 05:02:14  Parsing macros/utils/safe_cast.sql
+2022-10-10 05:02:14.459881 (MainThread): 05:02:14  Parsing macros/utils/bool_or.sql
+2022-10-10 05:02:14.460352 (MainThread): 05:02:14  Parsing macros/utils/escape_single_quotes.sql
+2022-10-10 05:02:14.460884 (MainThread): 05:02:14  Parsing macros/materializations/table.sql
+2022-10-10 05:02:14.464655 (MainThread): 05:02:14  Parsing macros/materializations/seed.sql
+2022-10-10 05:02:14.470009 (MainThread): 05:02:14  Parsing macros/materializations/incremental.sql
+2022-10-10 05:02:14.479235 (MainThread): 05:02:14  Parsing macros/materializations/merge.sql
+2022-10-10 05:02:14.483056 (MainThread): 05:02:14  Parsing macros/materializations/snapshot.sql
+2022-10-10 05:02:14.484020 (MainThread): 05:02:14  Parsing macros/materializations/view.sql
+2022-10-10 05:02:14.485386 (MainThread): 05:02:14  Parsing macros/adapters/metadata.sql
+2022-10-10 05:02:14.492570 (MainThread): 05:02:14  Parsing macros/adapters/columns.sql
+2022-10-10 05:02:14.502406 (MainThread): 05:02:14  Parsing macros/adapters/freshness.sql
+2022-10-10 05:02:14.530366 (Thread-517): handling poll request
+2022-10-10 05:02:14.530800 (Thread-517): 05:02:14  Sending event: {'category': 'dbt', 'action': 'rpc_request', 'label': '68776726-190a-46dc-a4df-44ca4414331f', 'context': [<snowplow_tracker.self_describing_json.SelfDescribingJson object at 0x7fd72c9d8940>]}
+2022-10-10 05:02:14.531871 (Thread-517): sending response (<Response 6303 bytes [200 OK]>) to 10.0.10.11
+2022-10-10 05:02:14.505405 (MainThread): 05:02:14  Parsing macros/adapters/persist_docs.sql
+2022-10-10 05:02:14.509832 (MainThread): 05:02:14  Parsing macros/adapters/apply_grants.sql
+2022-10-10 05:02:14.523787 (MainThread): 05:02:14  Parsing macros/adapters/relation.sql
+2022-10-10 05:02:14.538433 (MainThread): 05:02:14  Parsing macros/adapters/schema.sql
+2022-10-10 05:02:14.540726 (MainThread): 05:02:14  Parsing macros/adapters/indexes.sql
+2022-10-10 05:02:14.543363 (MainThread): 05:02:14  Parsing macros/get_custom_name/get_custom_schema.sql
+2022-10-10 05:02:14.545890 (MainThread): 05:02:14  Parsing macros/get_custom_name/get_custom_alias.sql
+2022-10-10 05:02:14.547333 (MainThread): 05:02:14  Parsing macros/get_custom_name/get_custom_database.sql
+2022-10-10 05:02:14.548893 (MainThread): 05:02:14  Parsing macros/utils/literal.sql
+2022-10-10 05:02:14.549877 (MainThread): 05:02:14  Parsing macros/utils/data_types.sql
+2022-10-10 05:02:14.555898 (MainThread): 05:02:14  Parsing macros/utils/replace.sql
+2022-10-10 05:02:14.557160 (MainThread): 05:02:14  Parsing macros/utils/right.sql
+2022-10-10 05:02:14.558230 (MainThread): 05:02:14  Parsing macros/utils/split_part.sql
+2022-10-10 05:02:14.560402 (MainThread): 05:02:14  Parsing macros/utils/safe_cast.sql
+2022-10-10 05:02:14.561482 (MainThread): 05:02:14  Parsing macros/utils/cast_bool_to_text.sql
+2022-10-10 05:02:14.562501 (MainThread): 05:02:14  Parsing macros/utils/any_value.sql
+2022-10-10 05:02:14.563596 (MainThread): 05:02:14  Parsing macros/utils/bool_or.sql
+2022-10-10 05:02:14.564573 (MainThread): 05:02:14  Parsing macros/utils/date_trunc.sql
+2022-10-10 05:02:14.565688 (MainThread): 05:02:14  Parsing macros/utils/hash.sql
+2022-10-10 05:02:14.566738 (MainThread): 05:02:14  Parsing macros/utils/datediff.sql
+2022-10-10 05:02:14.568003 (MainThread): 05:02:14  Parsing macros/utils/dateadd.sql
+2022-10-10 05:02:14.569297 (MainThread): 05:02:14  Parsing macros/utils/last_day.sql
+2022-10-10 05:02:14.571161 (MainThread): 05:02:14  Parsing macros/utils/except.sql
+2022-10-10 05:02:14.572012 (MainThread): 05:02:14  Parsing macros/utils/position.sql
+2022-10-10 05:02:14.573133 (MainThread): 05:02:14  Parsing macros/utils/length.sql
+2022-10-10 05:02:14.574048 (MainThread): 05:02:14  Parsing macros/utils/concat.sql
+2022-10-10 05:02:14.575594 (MainThread): 05:02:14  Parsing macros/utils/escape_single_quotes.sql
+2022-10-10 05:02:14.576684 (MainThread): 05:02:14  Parsing macros/utils/listagg.sql
+2022-10-10 05:02:14.578875 (MainThread): 05:02:14  Parsing macros/utils/intersect.sql
+2022-10-10 05:02:14.579751 (MainThread): 05:02:14  Parsing macros/etc/datetime.sql
+2022-10-10 05:02:14.588242 (MainThread): 05:02:14  Parsing macros/etc/statement.sql
+2022-10-10 05:02:14.592705 (MainThread): 05:02:14  Parsing macros/generic_test_sql/unique.sql
+2022-10-10 05:02:14.593391 (MainThread): 05:02:14  Parsing macros/generic_test_sql/not_null.sql
+2022-10-10 05:02:14.594167 (MainThread): 05:02:14  Parsing macros/generic_test_sql/accepted_values.sql
+2022-10-10 05:02:14.595528 (MainThread): 05:02:14  Parsing macros/generic_test_sql/relationships.sql
+2022-10-10 05:02:14.596500 (MainThread): 05:02:14  Parsing macros/materializations/configs.sql
+2022-10-10 05:02:14.598738 (MainThread): 05:02:14  Parsing macros/materializations/hooks.sql
+2022-10-10 05:02:14.602628 (MainThread): 05:02:14  Parsing macros/materializations/models/table/table.sql
+2022-10-10 05:02:14.608156 (MainThread): 05:02:14  Parsing macros/materializations/models/table/create_table_as.sql
+2022-10-10 05:02:14.610925 (MainThread): 05:02:14  Parsing macros/materializations/models/view/create_or_replace_view.sql
+2022-10-10 05:02:14.614325 (MainThread): 05:02:14  Parsing macros/materializations/models/view/helpers.sql
+2022-10-10 05:02:14.615622 (MainThread): 05:02:14  Parsing macros/materializations/models/view/create_view_as.sql
+2022-10-10 05:02:14.617974 (MainThread): 05:02:14  Parsing macros/materializations/models/view/view.sql
+2022-10-10 05:02:14.623270 (MainThread): 05:02:14  Parsing macros/materializations/models/incremental/incremental.sql
+2022-10-10 05:02:14.632583 (MainThread): 05:02:14  Parsing macros/materializations/models/incremental/on_schema_change.sql
+2022-10-10 05:02:14.647411 (MainThread): 05:02:14  Parsing macros/materializations/models/incremental/is_incremental.sql
+2022-10-10 05:02:14.648921 (MainThread): 05:02:14  Parsing macros/materializations/models/incremental/merge.sql
+2022-10-10 05:02:14.664855 (MainThread): 05:02:14  Parsing macros/materializations/models/incremental/column_helpers.sql
+2022-10-10 05:02:14.669307 (MainThread): 05:02:14  Parsing macros/materializations/seeds/helpers.sql
+2022-10-10 05:02:14.687194 (MainThread): 05:02:14  Parsing macros/materializations/seeds/seed.sql
+2022-10-10 05:02:14.694024 (MainThread): 05:02:14  Parsing macros/materializations/tests/helpers.sql
+2022-10-10 05:02:14.695770 (MainThread): 05:02:14  Parsing macros/materializations/tests/test.sql
+2022-10-10 05:02:14.700229 (MainThread): 05:02:14  Parsing macros/materializations/tests/where_subquery.sql
+2022-10-10 05:02:14.701984 (MainThread): 05:02:14  Parsing macros/materializations/snapshots/helpers.sql
+2022-10-10 05:02:14.715040 (MainThread): 05:02:14  Parsing macros/materializations/snapshots/strategies.sql
+2022-10-10 05:02:14.731731 (MainThread): 05:02:14  Parsing macros/materializations/snapshots/snapshot_merge.sql
+2022-10-10 05:02:14.733357 (MainThread): 05:02:14  Parsing macros/materializations/snapshots/snapshot.sql
+2022-10-10 05:02:14.744929 (MainThread): 05:02:14  Parsing tests/generic/builtin.sql
+2022-10-10 05:02:14.995354 (MainThread): 05:02:14  1699: static parser successfully parsed raw/netsuite/raw_netsuite_transactions.sql
+2022-10-10 05:02:15.006599 (MainThread): 05:02:15  1699: static parser successfully parsed raw/netsuite/raw_netsuite_uom.sql
+2022-10-10 05:02:15.008820 (MainThread): 05:02:15  1699: static parser successfully parsed raw/netsuite/raw_netsuite_entity.sql
+2022-10-10 05:02:15.010732 (MainThread): 05:02:15  1699: static parser successfully parsed raw/netsuite/raw_netsuite_employees.sql
+2022-10-10 05:02:15.012769 (MainThread): 05:02:15  1699: static parser successfully parsed raw/netsuite/raw_netsuite_nexttransactionlink.sql
+2022-10-10 05:02:15.014583 (MainThread): 05:02:15  1699: static parser successfully parsed raw/netsuite/raw_netsuite_departments.sql
+2022-10-10 05:02:15.016507 (MainThread): 05:02:15  1699: static parser successfully parsed raw/netsuite/raw_netsuite_transaction_lines.sql
+2022-10-10 05:02:15.018600 (MainThread): 05:02:15  1699: static parser successfully parsed admin/dbt_results.sql
+2022-10-10 05:02:15.021076 (MainThread): 05:02:15  1699: static parser successfully parsed staging/netsuite/stg_netsuite_transactions.sql
+2022-10-10 05:02:15.023194 (MainThread): 05:02:15  1699: static parser successfully parsed staging/netsuite/stg_netsuite_departments.sql
+2022-10-10 05:02:15.025192 (MainThread): 05:02:15  1699: static parser successfully parsed staging/netsuite/stg_netsuite_lasttranlink.sql
+2022-10-10 05:02:15.027599 (MainThread): 05:02:15  1699: static parser successfully parsed staging/netsuite/stg_netsuite_employees.sql
+2022-10-10 05:02:15.029590 (MainThread): 05:02:15  1699: static parser successfully parsed staging/netsuite/stg_netsuite_nexttranlink.sql
+2022-10-10 05:02:15.135278 (MainThread): 05:02:15  [WARNING]: Configuration paths exist in your dbt_project.yml file which do not apply to any resources.
+There are 1 unused configuration paths:
+- models.dbt_netsuite_operational.production
+
+2022-10-10 05:02:15.140392 (MainThread): 05:02:15  Sending event: {'category': 'dbt', 'action': 'load_project', 'label': '4897b679-bd9b-4a18-bbac-3d04ccd9992d', 'context': [<snowplow_tracker.self_describing_json.SelfDescribingJson object at 0x7f138aac9910>]}
+2022-10-10 05:02:15.173367 (MainThread): 05:02:15  Sending event: {'category': 'dbt', 'action': 'resource_counts', 'label': '4897b679-bd9b-4a18-bbac-3d04ccd9992d', 'context': [<snowplow_tracker.self_describing_json.SelfDescribingJson object at 0x7f138abc6370>]}
+2022-10-10 05:02:15.173616 (MainThread): 05:02:15  Found 13 models, 0 tests, 0 snapshots, 0 analyses, 270 macros, 1 operation, 15 seed files, 0 sources, 0 exposures, 0 metrics
+2022-10-10 05:02:15.173709 (MainThread): 05:02:15  Sending event: {'category': 'dbt', 'action': 'runnable_timing', 'label': '4897b679-bd9b-4a18-bbac-3d04ccd9992d', 'context': [<snowplow_tracker.self_describing_json.SelfDescribingJson object at 0x7f138ac35fa0>]}
+2022-10-10 05:02:15.175524 (MainThread): 05:02:15  
+2022-10-10 05:02:15.175807 (MainThread): 05:02:15  Acquiring new snowflake connection "master"
+2022-10-10 05:02:15.177292 (ThreadPoolExecutor-0_0): 05:02:15  Acquiring new snowflake connection "list_PC_DBT_DB"
+2022-10-10 05:02:15.189279 (ThreadPoolExecutor-0_0): 05:02:15  Using snowflake connection "list_PC_DBT_DB"
+2022-10-10 05:02:15.189379 (ThreadPoolExecutor-0_0): 05:02:15  On list_PC_DBT_DB: /* {"app": "dbt", "dbt_version": "1.2.2", "profile_name": "user", "target_name": "default", "connection_name": "list_PC_DBT_DB"} */
+show terse schemas in database PC_DBT_DB
+    limit 10000
+2022-10-10 05:02:15.189460 (ThreadPoolExecutor-0_0): 05:02:15  Opening a new connection, currently in state init
+2022-10-10 05:02:15.808011 (Thread-518): handling poll request
+2022-10-10 05:02:15.808504 (Thread-518): 05:02:15  Sending event: {'category': 'dbt', 'action': 'rpc_request', 'label': '68776726-190a-46dc-a4df-44ca4414331f', 'context': [<snowplow_tracker.self_describing_json.SelfDescribingJson object at 0x7fd72c9c8d00>]}
+2022-10-10 05:02:15.810333 (Thread-518): sending response (<Response 26119 bytes [200 OK]>) to 10.0.10.11
+2022-10-10 05:02:16.122544 (ThreadPoolExecutor-0_0): 05:02:16  SQL status: SUCCESS 5 in 0.93 seconds
+2022-10-10 05:02:16.124601 (ThreadPoolExecutor-0_0): 05:02:16  On list_PC_DBT_DB: Close
+2022-10-10 05:02:16.308895 (ThreadPoolExecutor-1_0): 05:02:16  Acquiring new snowflake connection "list_PC_DBT_DB_dbt_mhoss2008"
+2022-10-10 05:02:16.316796 (ThreadPoolExecutor-1_0): 05:02:16  Using snowflake connection "list_PC_DBT_DB_dbt_mhoss2008"
+2022-10-10 05:02:16.316935 (ThreadPoolExecutor-1_0): 05:02:16  On list_PC_DBT_DB_dbt_mhoss2008: /* {"app": "dbt", "dbt_version": "1.2.2", "profile_name": "user", "target_name": "default", "connection_name": "list_PC_DBT_DB_dbt_mhoss2008"} */
+show terse objects in PC_DBT_DB.dbt_mhoss2008
+2022-10-10 05:02:16.317033 (ThreadPoolExecutor-1_0): 05:02:16  Opening a new connection, currently in state closed
+2022-10-10 05:02:17.072525 (ThreadPoolExecutor-1_0): 05:02:17  SQL status: SUCCESS 29 in 0.76 seconds
+2022-10-10 05:02:17.074713 (ThreadPoolExecutor-1_0): 05:02:17  On list_PC_DBT_DB_dbt_mhoss2008: Close
+2022-10-10 05:02:17.104457 (Thread-519): handling poll request
+2022-10-10 05:02:17.104852 (Thread-519): 05:02:17  Sending event: {'category': 'dbt', 'action': 'rpc_request', 'label': '68776726-190a-46dc-a4df-44ca4414331f', 'context': [<snowplow_tracker.self_describing_json.SelfDescribingJson object at 0x7fd72c9c8b20>]}
+2022-10-10 05:02:17.105396 (Thread-519): sending response (<Response 2974 bytes [200 OK]>) to 10.0.10.11
+2022-10-10 05:02:17.254934 (MainThread): 05:02:17  Sending event: {'category': 'dbt', 'action': 'runnable_timing', 'label': '4897b679-bd9b-4a18-bbac-3d04ccd9992d', 'context': [<snowplow_tracker.self_describing_json.SelfDescribingJson object at 0x7f1388286e80>]}
+2022-10-10 05:02:17.255555 (MainThread): 05:02:17  Concurrency: 4 threads (target='default')
+2022-10-10 05:02:17.255692 (MainThread): 05:02:17  
+2022-10-10 05:02:17.258313 (Thread-1): 05:02:17  Began running node seed.my_new_project.demo_seed_address_list
+2022-10-10 05:02:17.258628 (Thread-1): 05:02:17  1 of 15 START seed file dbt_mhoss2008.demo_seed_address_list ................... [RUN]
+2022-10-10 05:02:17.259016 (Thread-2): 05:02:17  Began running node seed.my_new_project.demo_seed_chart_of_accounts
+2022-10-10 05:02:17.259275 (Thread-2): 05:02:17  2 of 15 START seed file dbt_mhoss2008.demo_seed_chart_of_accounts .............. [RUN]
+2022-10-10 05:02:17.259564 (Thread-2): 05:02:17  Acquiring new snowflake connection "seed.my_new_project.demo_seed_chart_of_accounts"
+2022-10-10 05:02:17.259666 (Thread-2): 05:02:17  Began compiling node seed.my_new_project.demo_seed_chart_of_accounts
+2022-10-10 05:02:17.259782 (Thread-2): 05:02:17  finished collecting timing info
+2022-10-10 05:02:17.259898 (Thread-2): 05:02:17  Began executing node seed.my_new_project.demo_seed_chart_of_accounts
+2022-10-10 05:02:17.264128 (Thread-3): 05:02:17  Began running node seed.my_new_project.demo_seed_netsuite_departments
+2022-10-10 05:02:17.264359 (Thread-3): 05:02:17  3 of 15 START seed file dbt_mhoss2008.demo_seed_netsuite_departments ........... [RUN]
+2022-10-10 05:02:17.264614 (Thread-3): 05:02:17  Acquiring new snowflake connection "seed.my_new_project.demo_seed_netsuite_departments"
+2022-10-10 05:02:17.264705 (Thread-3): 05:02:17  Began compiling node seed.my_new_project.demo_seed_netsuite_departments
+2022-10-10 05:02:17.264788 (Thread-3): 05:02:17  finished collecting timing info
+2022-10-10 05:02:17.264884 (Thread-3): 05:02:17  Began executing node seed.my_new_project.demo_seed_netsuite_departments
+2022-10-10 05:02:17.272952 (Thread-2): 05:02:17  Using snowflake connection "seed.my_new_project.demo_seed_chart_of_accounts"
+2022-10-10 05:02:17.273050 (Thread-2): 05:02:17  On seed.my_new_project.demo_seed_chart_of_accounts: /* {"app": "dbt", "dbt_version": "1.2.2", "profile_name": "user", "target_name": "default", "node_id": "seed.my_new_project.demo_seed_chart_of_accounts"} */
+show parameters like 'query_tag' in session
+2022-10-10 05:02:17.273134 (Thread-2): 05:02:17  Opening a new connection, currently in state init
+2022-10-10 05:02:17.274193 (Thread-3): 05:02:17  Using snowflake connection "seed.my_new_project.demo_seed_netsuite_departments"
+2022-10-10 05:02:17.274288 (Thread-3): 05:02:17  On seed.my_new_project.demo_seed_netsuite_departments: /* {"app": "dbt", "dbt_version": "1.2.2", "profile_name": "user", "target_name": "default", "node_id": "seed.my_new_project.demo_seed_netsuite_departments"} */
+show parameters like 'query_tag' in session
+2022-10-10 05:02:17.274366 (Thread-3): 05:02:17  Opening a new connection, currently in state init
+2022-10-10 05:02:17.275308 (Thread-1): 05:02:17  Acquiring new snowflake connection "seed.my_new_project.demo_seed_address_list"
+2022-10-10 05:02:17.275432 (Thread-1): 05:02:17  Began compiling node seed.my_new_project.demo_seed_address_list
+2022-10-10 05:02:17.275523 (Thread-1): 05:02:17  finished collecting timing info
+2022-10-10 05:02:17.275632 (Thread-1): 05:02:17  Began executing node seed.my_new_project.demo_seed_address_list
+2022-10-10 05:02:17.277273 (Thread-1): 05:02:17  Using snowflake connection "seed.my_new_project.demo_seed_address_list"
+2022-10-10 05:02:17.277373 (Thread-1): 05:02:17  On seed.my_new_project.demo_seed_address_list: /* {"app": "dbt", "dbt_version": "1.2.2", "profile_name": "user", "target_name": "default", "node_id": "seed.my_new_project.demo_seed_address_list"} */
+show parameters like 'query_tag' in session
+2022-10-10 05:02:17.277454 (Thread-1): 05:02:17  Opening a new connection, currently in state closed
+2022-10-10 05:02:17.278251 (Thread-4): 05:02:17  Began running node seed.my_new_project.demo_seed_netsuite_employees
+2022-10-10 05:02:17.278455 (Thread-4): 05:02:17  4 of 15 START seed file dbt_mhoss2008.demo_seed_netsuite_employees ............. [RUN]
+2022-10-10 05:02:17.278696 (Thread-4): 05:02:17  Acquiring new snowflake connection "seed.my_new_project.demo_seed_netsuite_employees"
+2022-10-10 05:02:17.278784 (Thread-4): 05:02:17  Began compiling node seed.my_new_project.demo_seed_netsuite_employees
+2022-10-10 05:02:17.278865 (Thread-4): 05:02:17  finished collecting timing info
+2022-10-10 05:02:17.278958 (Thread-4): 05:02:17  Began executing node seed.my_new_project.demo_seed_netsuite_employees
+2022-10-10 05:02:17.280727 (Thread-4): 05:02:17  Using snowflake connection "seed.my_new_project.demo_seed_netsuite_employees"
+2022-10-10 05:02:17.280824 (Thread-4): 05:02:17  On seed.my_new_project.demo_seed_netsuite_employees: /* {"app": "dbt", "dbt_version": "1.2.2", "profile_name": "user", "target_name": "default", "node_id": "seed.my_new_project.demo_seed_netsuite_employees"} */
+show parameters like 'query_tag' in session
+2022-10-10 05:02:17.280903 (Thread-4): 05:02:17  Opening a new connection, currently in state init
+2022-10-10 05:02:18.289105 (Thread-3): 05:02:18  SQL status: SUCCESS 1 in 1.01 seconds
+2022-10-10 05:02:18.290248 (Thread-3): 05:02:18  Setting query_tag to 'demo_seed_netsuite_departments'. Will reset to '' after materialization.
+2022-10-10 05:02:18.290708 (Thread-3): 05:02:18  Using snowflake connection "seed.my_new_project.demo_seed_netsuite_departments"
+2022-10-10 05:02:18.290799 (Thread-3): 05:02:18  On seed.my_new_project.demo_seed_netsuite_departments: /* {"app": "dbt", "dbt_version": "1.2.2", "profile_name": "user", "target_name": "default", "node_id": "seed.my_new_project.demo_seed_netsuite_departments"} */
+alter session set query_tag = 'demo_seed_netsuite_departments'
+2022-10-10 05:02:18.304373 (Thread-4): 05:02:18  SQL status: SUCCESS 1 in 1.02 seconds
+2022-10-10 05:02:18.305338 (Thread-4): 05:02:18  Setting query_tag to 'demo_seed_netsuite_employees'. Will reset to '' after materialization.
+2022-10-10 05:02:18.305734 (Thread-4): 05:02:18  Using snowflake connection "seed.my_new_project.demo_seed_netsuite_employees"
+2022-10-10 05:02:18.305821 (Thread-4): 05:02:18  On seed.my_new_project.demo_seed_netsuite_employees: /* {"app": "dbt", "dbt_version": "1.2.2", "profile_name": "user", "target_name": "default", "node_id": "seed.my_new_project.demo_seed_netsuite_employees"} */
+alter session set query_tag = 'demo_seed_netsuite_employees'
+2022-10-10 05:02:18.307678 (Thread-2): 05:02:18  SQL status: SUCCESS 1 in 1.03 seconds
+2022-10-10 05:02:18.308668 (Thread-2): 05:02:18  Setting query_tag to 'demo_seed_chart_of_accounts'. Will reset to '' after materialization.
+2022-10-10 05:02:18.309046 (Thread-2): 05:02:18  Using snowflake connection "seed.my_new_project.demo_seed_chart_of_accounts"
+2022-10-10 05:02:18.309139 (Thread-2): 05:02:18  On seed.my_new_project.demo_seed_chart_of_accounts: /* {"app": "dbt", "dbt_version": "1.2.2", "profile_name": "user", "target_name": "default", "node_id": "seed.my_new_project.demo_seed_chart_of_accounts"} */
+alter session set query_tag = 'demo_seed_chart_of_accounts'
+2022-10-10 05:02:18.319617 (Thread-1): 05:02:18  SQL status: SUCCESS 1 in 1.04 seconds
+2022-10-10 05:02:18.320586 (Thread-1): 05:02:18  Setting query_tag to 'demo_seed_address_list'. Will reset to '' after materialization.
+2022-10-10 05:02:18.320954 (Thread-1): 05:02:18  Using snowflake connection "seed.my_new_project.demo_seed_address_list"
+2022-10-10 05:02:18.321042 (Thread-1): 05:02:18  On seed.my_new_project.demo_seed_address_list: /* {"app": "dbt", "dbt_version": "1.2.2", "profile_name": "user", "target_name": "default", "node_id": "seed.my_new_project.demo_seed_address_list"} */
+alter session set query_tag = 'demo_seed_address_list'
+2022-10-10 05:02:18.401415 (Thread-520): handling poll request
+2022-10-10 05:02:18.401771 (Thread-520): 05:02:18  Sending event: {'category': 'dbt', 'action': 'rpc_request', 'label': '68776726-190a-46dc-a4df-44ca4414331f', 'context': [<snowplow_tracker.self_describing_json.SelfDescribingJson object at 0x7fd7197b7cd0>]}
+2022-10-10 05:02:18.402854 (Thread-520): sending response (<Response 24845 bytes [200 OK]>) to 10.0.10.11
+2022-10-10 05:02:18.403034 (Thread-3): 05:02:18  SQL status: SUCCESS 1 in 0.11 seconds
+2022-10-10 05:02:18.419774 (Thread-2): 05:02:18  SQL status: SUCCESS 1 in 0.11 seconds
+2022-10-10 05:02:18.422598 (Thread-4): 05:02:18  SQL status: SUCCESS 1 in 0.12 seconds
+2022-10-10 05:02:18.457807 (Thread-2): 05:02:18  Using snowflake connection "seed.my_new_project.demo_seed_chart_of_accounts"
+2022-10-10 05:02:18.457927 (Thread-2): 05:02:18  On seed.my_new_project.demo_seed_chart_of_accounts: /* {"app": "dbt", "dbt_version": "1.2.2", "profile_name": "user", "target_name": "default", "node_id": "seed.my_new_project.demo_seed_chart_of_accounts"} */
+BEGIN
+2022-10-10 05:02:18.481197 (Thread-3): 05:02:18  Using snowflake connection "seed.my_new_project.demo_seed_netsuite_departments"
+2022-10-10 05:02:18.481315 (Thread-3): 05:02:18  On seed.my_new_project.demo_seed_netsuite_departments: /* {"app": "dbt", "dbt_version": "1.2.2", "profile_name": "user", "target_name": "default", "node_id": "seed.my_new_project.demo_seed_netsuite_departments"} */
+BEGIN
+2022-10-10 05:02:18.487057 (Thread-1): 05:02:18  SQL status: SUCCESS 1 in 0.17 seconds
+2022-10-10 05:02:18.527418 (Thread-4): 05:02:18  Using snowflake connection "seed.my_new_project.demo_seed_netsuite_employees"
+2022-10-10 05:02:18.527549 (Thread-4): 05:02:18  On seed.my_new_project.demo_seed_netsuite_employees: /* {"app": "dbt", "dbt_version": "1.2.2", "profile_name": "user", "target_name": "default", "node_id": "seed.my_new_project.demo_seed_netsuite_employees"} */
+BEGIN
+2022-10-10 05:02:18.534174 (Thread-1): 05:02:18  Using snowflake connection "seed.my_new_project.demo_seed_address_list"
+2022-10-10 05:02:18.534282 (Thread-1): 05:02:18  On seed.my_new_project.demo_seed_address_list: /* {"app": "dbt", "dbt_version": "1.2.2", "profile_name": "user", "target_name": "default", "node_id": "seed.my_new_project.demo_seed_address_list"} */
+BEGIN
+2022-10-10 05:02:18.624234 (Thread-3): 05:02:18  SQL status: SUCCESS 1 in 0.14 seconds
+2022-10-10 05:02:18.624437 (Thread-3): 05:02:18  Using snowflake connection "seed.my_new_project.demo_seed_netsuite_departments"
+2022-10-10 05:02:18.624517 (Thread-3): 05:02:18  On seed.my_new_project.demo_seed_netsuite_departments: /* {"app": "dbt", "dbt_version": "1.2.2", "profile_name": "user", "target_name": "default", "node_id": "seed.my_new_project.demo_seed_netsuite_departments"} */
+truncate table "PC_DBT_DB"."DBT_MHOSS2008"."DEMO_SEED_NETSUITE_DEPARTMENTS"
+  ;
+2022-10-10 05:02:18.626351 (Thread-2): 05:02:18  SQL status: SUCCESS 1 in 0.17 seconds
+2022-10-10 05:02:18.626503 (Thread-2): 05:02:18  Using snowflake connection "seed.my_new_project.demo_seed_chart_of_accounts"
+2022-10-10 05:02:18.626581 (Thread-2): 05:02:18  On seed.my_new_project.demo_seed_chart_of_accounts: /* {"app": "dbt", "dbt_version": "1.2.2", "profile_name": "user", "target_name": "default", "node_id": "seed.my_new_project.demo_seed_chart_of_accounts"} */
+truncate table "PC_DBT_DB"."DBT_MHOSS2008"."DEMO_SEED_CHART_OF_ACCOUNTS"
+  ;
+2022-10-10 05:02:18.657230 (Thread-4): 05:02:18  SQL status: SUCCESS 1 in 0.13 seconds
+2022-10-10 05:02:18.657387 (Thread-4): 05:02:18  Using snowflake connection "seed.my_new_project.demo_seed_netsuite_employees"
+2022-10-10 05:02:18.657468 (Thread-4): 05:02:18  On seed.my_new_project.demo_seed_netsuite_employees: /* {"app": "dbt", "dbt_version": "1.2.2", "profile_name": "user", "target_name": "default", "node_id": "seed.my_new_project.demo_seed_netsuite_employees"} */
+truncate table "PC_DBT_DB"."DBT_MHOSS2008"."DEMO_SEED_NETSUITE_EMPLOYEES"
+  ;
+2022-10-10 05:02:18.659499 (Thread-1): 05:02:18  SQL status: SUCCESS 1 in 0.13 seconds
+2022-10-10 05:02:18.659643 (Thread-1): 05:02:18  Using snowflake connection "seed.my_new_project.demo_seed_address_list"
+2022-10-10 05:02:18.659724 (Thread-1): 05:02:18  On seed.my_new_project.demo_seed_address_list: /* {"app": "dbt", "dbt_version": "1.2.2", "profile_name": "user", "target_name": "default", "node_id": "seed.my_new_project.demo_seed_address_list"} */
+truncate table "PC_DBT_DB"."DBT_MHOSS2008"."DEMO_SEED_ADDRESS_LIST"
+  ;
+2022-10-10 05:02:18.927541 (Thread-4): 05:02:18  SQL status: SUCCESS 1 in 0.27 seconds
+2022-10-10 05:02:18.927816 (Thread-4): 05:02:18  Using snowflake connection "seed.my_new_project.demo_seed_netsuite_employees"
+2022-10-10 05:02:18.927912 (Thread-4): 05:02:18  On seed.my_new_project.demo_seed_netsuite_employees: /* {"app": "dbt", "dbt_version": "1.2.2", "profile_name": "user", "target_name": "default", "node_id": "seed.my_new_project.demo_seed_netsuite_employees"} */
+COMMIT
+2022-10-10 05:02:18.937592 (Thread-3): 05:02:18  SQL status: SUCCESS 1 in 0.31 seconds
+2022-10-10 05:02:18.937773 (Thread-3): 05:02:18  Using snowflake connection "seed.my_new_project.demo_seed_netsuite_departments"
+2022-10-10 05:02:18.937854 (Thread-3): 05:02:18  On seed.my_new_project.demo_seed_netsuite_departments: /* {"app": "dbt", "dbt_version": "1.2.2", "profile_name": "user", "target_name": "default", "node_id": "seed.my_new_project.demo_seed_netsuite_departments"} */
+COMMIT
+2022-10-10 05:02:18.987151 (Thread-2): 05:02:18  SQL status: SUCCESS 1 in 0.36 seconds
+2022-10-10 05:02:18.987366 (Thread-2): 05:02:18  Using snowflake connection "seed.my_new_project.demo_seed_chart_of_accounts"
+2022-10-10 05:02:18.987449 (Thread-2): 05:02:18  On seed.my_new_project.demo_seed_chart_of_accounts: /* {"app": "dbt", "dbt_version": "1.2.2", "profile_name": "user", "target_name": "default", "node_id": "seed.my_new_project.demo_seed_chart_of_accounts"} */
+COMMIT
+2022-10-10 05:02:19.098420 (Thread-1): 05:02:19  SQL status: SUCCESS 1 in 0.44 seconds
+2022-10-10 05:02:19.098676 (Thread-1): 05:02:19  Using snowflake connection "seed.my_new_project.demo_seed_address_list"
+2022-10-10 05:02:19.098765 (Thread-1): 05:02:19  On seed.my_new_project.demo_seed_address_list: /* {"app": "dbt", "dbt_version": "1.2.2", "profile_name": "user", "target_name": "default", "node_id": "seed.my_new_project.demo_seed_address_list"} */
+COMMIT
+2022-10-10 05:02:19.199808 (Thread-3): 05:02:19  SQL status: SUCCESS 1 in 0.26 seconds
+2022-10-10 05:02:19.216095 (Thread-4): 05:02:19  SQL status: SUCCESS 1 in 0.29 seconds
+2022-10-10 05:02:19.224480 (Thread-3): 05:02:19  Using snowflake connection "seed.my_new_project.demo_seed_netsuite_departments"
+2022-10-10 05:02:19.224601 (Thread-3): 05:02:19  On seed.my_new_project.demo_seed_netsuite_departments: /* {"app": "dbt", "dbt_version": "1.2.2", "profile_name": "user", "target_name": "default", "node_id": "seed.my_new_project.demo_seed_netsuite_departments"} */
+BEGIN
+2022-10-10 05:02:19.252618 (Thread-2): 05:02:19  SQL status: SUCCESS 1 in 0.27 seconds
+2022-10-10 05:02:19.254103 (Thread-2): 05:02:19  Using snowflake connection "seed.my_new_project.demo_seed_chart_of_accounts"
+2022-10-10 05:02:19.254205 (Thread-2): 05:02:19  On seed.my_new_project.demo_seed_chart_of_accounts: /* {"app": "dbt", "dbt_version": "1.2.2", "profile_name": "user", "target_name": "default", "node_id": "seed.my_new_project.demo_seed_chart_of_accounts"} */
+BEGIN
+2022-10-10 05:02:19.264602 (Thread-4): 05:02:19  Using snowflake connection "seed.my_new_project.demo_seed_netsuite_employees"
+2022-10-10 05:02:19.264710 (Thread-4): 05:02:19  On seed.my_new_project.demo_seed_netsuite_employees: /* {"app": "dbt", "dbt_version": "1.2.2", "profile_name": "user", "target_name": "default", "node_id": "seed.my_new_project.demo_seed_netsuite_employees"} */
+BEGIN
+2022-10-10 05:02:19.354791 (Thread-3): 05:02:19  SQL status: SUCCESS 1 in 0.13 seconds
+2022-10-10 05:02:19.357038 (Thread-3): 05:02:19  Using snowflake connection "seed.my_new_project.demo_seed_netsuite_departments"
+2022-10-10 05:02:19.357172 (Thread-3): 05:02:19  On seed.my_new_project.demo_seed_netsuite_departments: /* {"app": "dbt", "dbt_version": "1.2.2", "profile_name": "user", "target_name": "default", "node_id": "seed.my_new_project.demo_seed_netsuite_departments"} */
+insert into PC_DBT_DB.dbt_mhoss2008.demo_seed_netsuite_departments (ID, FULLNAME, ISINACTIVE, NAME, PARENT, LASTMODIFIEDDATE, _FIVETRAN_DELETED, _FIVETRAN_SYNCED) values
+            (%s,%s,%s,%s,%s,%s,%s,%s),(%s,%s,%s,%s,%s,%s,%s,%s),(%s,%s,%s,%s,%s,%s,%s,%s),(%s,%s,%s,%s,%s,%s,%s,%s),(%s,%s,%s,%s,%s,%s,%s,%s),(%s,%s,%s,%s,%s,%s,%s,%s),(%s,%s,%s,%s,%...
+2022-10-10 05:02:19.361260 (Thread-1): 05:02:19  SQL status: SUCCESS 1 in 0.26 seconds
+2022-10-10 05:02:19.372684 (Thread-1): 05:02:19  Using snowflake connection "seed.my_new_project.demo_seed_address_list"
+2022-10-10 05:02:19.372793 (Thread-1): 05:02:19  On seed.my_new_project.demo_seed_address_list: /* {"app": "dbt", "dbt_version": "1.2.2", "profile_name": "user", "target_name": "default", "node_id": "seed.my_new_project.demo_seed_address_list"} */
+BEGIN
+2022-10-10 05:02:19.382254 (Thread-4): 05:02:19  SQL status: SUCCESS 1 in 0.12 seconds
+2022-10-10 05:02:19.398411 (Thread-2): 05:02:19  SQL status: SUCCESS 1 in 0.14 seconds
+2022-10-10 05:02:19.398927 (Thread-2): 05:02:19  Using snowflake connection "seed.my_new_project.demo_seed_chart_of_accounts"
+2022-10-10 05:02:19.399012 (Thread-2): 05:02:19  On seed.my_new_project.demo_seed_chart_of_accounts: /* {"app": "dbt", "dbt_version": "1.2.2", "profile_name": "user", "target_name": "default", "node_id": "seed.my_new_project.demo_seed_chart_of_accounts"} */
+insert into PC_DBT_DB.dbt_mhoss2008.demo_seed_chart_of_accounts (id, ACCTNUMBER, ACCOUNTSEARCHDISPLAYNAMECOPY, ACCOUNTSEARCHDISPLAYNAME) values
+            (%s,%s,%s,%s),(%s,%s,%s,%s),(%s,%s,%s,%s),(%s,%s,%s,%s),(%s,%s,%s,%s),(%s,%s,%s,%s),(%s,%s,%s,%s),(%s,%s,%s,%s),(%s,%s,%s,%s),(%s,%s,%s,%s),(%s,%s,%s,%s),(%s,%s,%s,%s)...
+2022-10-10 05:02:19.505995 (Thread-1): 05:02:19  SQL status: SUCCESS 1 in 0.13 seconds
+2022-10-10 05:02:19.532446 (Thread-1): 05:02:19  Using snowflake connection "seed.my_new_project.demo_seed_address_list"
+2022-10-10 05:02:19.532607 (Thread-1): 05:02:19  On seed.my_new_project.demo_seed_address_list: /* {"app": "dbt", "dbt_version": "1.2.2", "profile_name": "user", "target_name": "default", "node_id": "seed.my_new_project.demo_seed_address_list"} */
+insert into PC_DBT_DB.dbt_mhoss2008.demo_seed_address_list (id, addr1, city, State, zip, country) values
+            (%s,%s,%s,%s,%s,%s),(%s,%s,%s,%s,%s,%s),(%s,%s,%s,%s,%s,%s),(%s,%s,%s,%s,%s,%s),(%s,%s,%s,%s,%s,%s),(%s,%s,%s,%s,%s,%s),(%s,%s,%s,%s,%s,%s),(%s,%s,%s,%s,%s,%s),(%s,%s,%s,%s,%s,%s),(%s,%s,%s,%s,%s,%s),(%s,%s,%s,%s,%s,%s),(%s,%s,%s,%s,%s,%s),(%s...
+2022-10-10 05:02:19.550519 (Thread-4): 05:02:19  Using snowflake connection "seed.my_new_project.demo_seed_netsuite_employees"
+2022-10-10 05:02:19.550647 (Thread-4): 05:02:19  On seed.my_new_project.demo_seed_netsuite_employees: /* {"app": "dbt", "dbt_version": "1.2.2", "profile_name": "user", "target_name": "default", "node_id": "seed.my_new_project.demo_seed_netsuite_employees"} */
+insert into PC_DBT_DB.dbt_mhoss2008.demo_seed_netsuite_employees (id, externalid, firstname, lastname, email, title, lastmodifieddate, isinactive, department, supervisor, DELETE_RandomColumn, DELETE_SupervisorRow, DELETE_RandYear) values
+            (%s,%s,%s,%s,%s,%s,%s,%s,%s,%s,%s,%s,%s),(%s,%s,%s,%s,%s,%s,%s,%s,%s,%s,%s,%s,%s),(%s,%s,%s,%s,%s,%s,%s,...
+2022-10-10 05:02:19.684620 (Thread-521): handling poll request
+2022-10-10 05:02:19.684994 (Thread-521): 05:02:19  Sending event: {'category': 'dbt', 'action': 'rpc_request', 'label': '68776726-190a-46dc-a4df-44ca4414331f', 'context': [<snowplow_tracker.self_describing_json.SelfDescribingJson object at 0x7fd72c8de520>]}
+2022-10-10 05:02:19.686171 (Thread-521): sending response (<Response 27857 bytes [200 OK]>) to 10.0.10.11
+2022-10-10 05:02:20.233023 (Thread-2): 05:02:20  SQL status: SUCCESS 12 in 0.83 seconds
+2022-10-10 05:02:20.233307 (Thread-2): 05:02:20  Using snowflake connection "seed.my_new_project.demo_seed_chart_of_accounts"
+2022-10-10 05:02:20.233398 (Thread-2): 05:02:20  On seed.my_new_project.demo_seed_chart_of_accounts: /* {"app": "dbt", "dbt_version": "1.2.2", "profile_name": "user", "target_name": "default", "node_id": "seed.my_new_project.demo_seed_chart_of_accounts"} */
+COMMIT
+2022-10-10 05:02:20.271709 (Thread-3): 05:02:20  SQL status: SUCCESS 27 in 0.91 seconds
+2022-10-10 05:02:20.271964 (Thread-3): 05:02:20  Using snowflake connection "seed.my_new_project.demo_seed_netsuite_departments"
+2022-10-10 05:02:20.272049 (Thread-3): 05:02:20  On seed.my_new_project.demo_seed_netsuite_departments: /* {"app": "dbt", "dbt_version": "1.2.2", "profile_name": "user", "target_name": "default", "node_id": "seed.my_new_project.demo_seed_netsuite_departments"} */
+COMMIT
+2022-10-10 05:02:20.300389 (Thread-1): 05:02:20  SQL status: SUCCESS 500 in 0.77 seconds
+2022-10-10 05:02:20.300639 (Thread-1): 05:02:20  Using snowflake connection "seed.my_new_project.demo_seed_address_list"
+2022-10-10 05:02:20.300732 (Thread-1): 05:02:20  On seed.my_new_project.demo_seed_address_list: /* {"app": "dbt", "dbt_version": "1.2.2", "profile_name": "user", "target_name": "default", "node_id": "seed.my_new_project.demo_seed_address_list"} */
+COMMIT
+2022-10-10 05:02:20.361059 (Thread-4): 05:02:20  SQL status: SUCCESS 1000 in 0.81 seconds
+2022-10-10 05:02:20.361439 (Thread-4): 05:02:20  Using snowflake connection "seed.my_new_project.demo_seed_netsuite_employees"
+2022-10-10 05:02:20.361544 (Thread-4): 05:02:20  On seed.my_new_project.demo_seed_netsuite_employees: /* {"app": "dbt", "dbt_version": "1.2.2", "profile_name": "user", "target_name": "default", "node_id": "seed.my_new_project.demo_seed_netsuite_employees"} */
+COMMIT
+2022-10-10 05:02:20.501842 (Thread-2): 05:02:20  SQL status: SUCCESS 1 in 0.27 seconds
+2022-10-10 05:02:20.507984 (Thread-2): 05:02:20  Writing runtime SQL for node "seed.my_new_project.demo_seed_chart_of_accounts"
+2022-10-10 05:02:20.542878 (Thread-2): 05:02:20  finished collecting timing info
+2022-10-10 05:02:20.543045 (Thread-2): 05:02:20  On seed.my_new_project.demo_seed_chart_of_accounts: Close
+2022-10-10 05:02:20.545726 (Thread-3): 05:02:20  SQL status: SUCCESS 1 in 0.27 seconds
+2022-10-10 05:02:20.546146 (Thread-3): 05:02:20  Writing runtime SQL for node "seed.my_new_project.demo_seed_netsuite_departments"
+2022-10-10 05:02:20.560570 (Thread-3): 05:02:20  finished collecting timing info
+2022-10-10 05:02:20.560717 (Thread-3): 05:02:20  On seed.my_new_project.demo_seed_netsuite_departments: Close
+2022-10-10 05:02:20.570920 (Thread-1): 05:02:20  SQL status: SUCCESS 1 in 0.27 seconds
+2022-10-10 05:02:20.571441 (Thread-1): 05:02:20  Writing runtime SQL for node "seed.my_new_project.demo_seed_address_list"
+2022-10-10 05:02:20.599763 (Thread-4): 05:02:20  SQL status: SUCCESS 1 in 0.24 seconds
+2022-10-10 05:02:20.600426 (Thread-4): 05:02:20  Writing runtime SQL for node "seed.my_new_project.demo_seed_netsuite_employees"
+2022-10-10 05:02:20.602116 (Thread-1): 05:02:20  finished collecting timing info
+2022-10-10 05:02:20.602260 (Thread-1): 05:02:20  On seed.my_new_project.demo_seed_address_list: Close
+2022-10-10 05:02:20.635320 (Thread-4): 05:02:20  finished collecting timing info
+2022-10-10 05:02:20.635484 (Thread-4): 05:02:20  On seed.my_new_project.demo_seed_netsuite_employees: Close
+2022-10-10 05:02:20.719684 (Thread-2): 05:02:20  Sending event: {'category': 'dbt', 'action': 'run_model', 'label': '4897b679-bd9b-4a18-bbac-3d04ccd9992d', 'context': [<snowplow_tracker.self_describing_json.SelfDescribingJson object at 0x7f1340673f70>]}
+2022-10-10 05:02:20.719985 (Thread-2): 05:02:20  2 of 15 OK loaded seed file dbt_mhoss2008.demo_seed_chart_of_accounts .......... [INSERT 12 in 3.46s]
+2022-10-10 05:02:20.720288 (Thread-2): 05:02:20  Finished running node seed.my_new_project.demo_seed_chart_of_accounts
+2022-10-10 05:02:20.720515 (Thread-2): 05:02:20  Began running node seed.my_new_project.demo_seed_netsuite_entity
+2022-10-10 05:02:20.720742 (Thread-2): 05:02:20  5 of 15 START seed file dbt_mhoss2008.demo_seed_netsuite_entity ................ [RUN]
+2022-10-10 05:02:20.720990 (Thread-2): 05:02:20  Acquiring new snowflake connection "seed.my_new_project.demo_seed_netsuite_entity"
+2022-10-10 05:02:20.721086 (Thread-2): 05:02:20  Began compiling node seed.my_new_project.demo_seed_netsuite_entity
+2022-10-10 05:02:20.721171 (Thread-2): 05:02:20  finished collecting timing info
+2022-10-10 05:02:20.721269 (Thread-2): 05:02:20  Began executing node seed.my_new_project.demo_seed_netsuite_entity
+2022-10-10 05:02:20.725219 (Thread-2): 05:02:20  Using snowflake connection "seed.my_new_project.demo_seed_netsuite_entity"
+2022-10-10 05:02:20.725324 (Thread-2): 05:02:20  On seed.my_new_project.demo_seed_netsuite_entity: /* {"app": "dbt", "dbt_version": "1.2.2", "profile_name": "user", "target_name": "default", "node_id": "seed.my_new_project.demo_seed_netsuite_entity"} */
+show parameters like 'query_tag' in session
+2022-10-10 05:02:20.725407 (Thread-2): 05:02:20  Opening a new connection, currently in state closed
+2022-10-10 05:02:20.730460 (Thread-3): 05:02:20  Sending event: {'category': 'dbt', 'action': 'run_model', 'label': '4897b679-bd9b-4a18-bbac-3d04ccd9992d', 'context': [<snowplow_tracker.self_describing_json.SelfDescribingJson object at 0x7f1343338a30>]}
+2022-10-10 05:02:20.730691 (Thread-3): 05:02:20  3 of 15 OK loaded seed file dbt_mhoss2008.demo_seed_netsuite_departments ....... [INSERT 27 in 3.47s]
+2022-10-10 05:02:20.730865 (Thread-3): 05:02:20  Finished running node seed.my_new_project.demo_seed_netsuite_departments
+2022-10-10 05:02:20.730999 (Thread-3): 05:02:20  Began running node seed.my_new_project.demo_seed_netsuite_items
+2022-10-10 05:02:20.731209 (Thread-3): 05:02:20  6 of 15 START seed file dbt_mhoss2008.demo_seed_netsuite_items ................. [RUN]
+2022-10-10 05:02:20.731432 (Thread-3): 05:02:20  Acquiring new snowflake connection "seed.my_new_project.demo_seed_netsuite_items"
+2022-10-10 05:02:20.731524 (Thread-3): 05:02:20  Began compiling node seed.my_new_project.demo_seed_netsuite_items
+2022-10-10 05:02:20.731609 (Thread-3): 05:02:20  finished collecting timing info
+2022-10-10 05:02:20.731706 (Thread-3): 05:02:20  Began executing node seed.my_new_project.demo_seed_netsuite_items
+2022-10-10 05:02:20.798130 (Thread-3): 05:02:20  Using snowflake connection "seed.my_new_project.demo_seed_netsuite_items"
+2022-10-10 05:02:20.798258 (Thread-3): 05:02:20  On seed.my_new_project.demo_seed_netsuite_items: /* {"app": "dbt", "dbt_version": "1.2.2", "profile_name": "user", "target_name": "default", "node_id": "seed.my_new_project.demo_seed_netsuite_items"} */
+show parameters like 'query_tag' in session
+2022-10-10 05:02:20.798339 (Thread-3): 05:02:20  Opening a new connection, currently in state closed
+2022-10-10 05:02:20.802317 (Thread-1): 05:02:20  Sending event: {'category': 'dbt', 'action': 'run_model', 'label': '4897b679-bd9b-4a18-bbac-3d04ccd9992d', 'context': [<snowplow_tracker.self_describing_json.SelfDescribingJson object at 0x7f13433a8070>]}
+2022-10-10 05:02:20.802590 (Thread-1): 05:02:20  1 of 15 OK loaded seed file dbt_mhoss2008.demo_seed_address_list ............... [INSERT 500 in 3.54s]
+2022-10-10 05:02:20.802786 (Thread-1): 05:02:20  Finished running node seed.my_new_project.demo_seed_address_list
+2022-10-10 05:02:20.802928 (Thread-1): 05:02:20  Began running node seed.my_new_project.demo_seed_netsuite_nexttransactionlink
+2022-10-10 05:02:20.803137 (Thread-1): 05:02:20  7 of 15 START seed file dbt_mhoss2008.demo_seed_netsuite_nexttransactionlink ... [RUN]
+2022-10-10 05:02:20.803404 (Thread-1): 05:02:20  Acquiring new snowflake connection "seed.my_new_project.demo_seed_netsuite_nexttransactionlink"
+2022-10-10 05:02:20.803500 (Thread-1): 05:02:20  Began compiling node seed.my_new_project.demo_seed_netsuite_nexttransactionlink
+2022-10-10 05:02:20.803589 (Thread-1): 05:02:20  finished collecting timing info
+2022-10-10 05:02:20.803697 (Thread-1): 05:02:20  Began executing node seed.my_new_project.demo_seed_netsuite_nexttransactionlink
+2022-10-10 05:02:20.805437 (Thread-1): 05:02:20  Using snowflake connection "seed.my_new_project.demo_seed_netsuite_nexttransactionlink"
+2022-10-10 05:02:20.805539 (Thread-1): 05:02:20  On seed.my_new_project.demo_seed_netsuite_nexttransactionlink: /* {"app": "dbt", "dbt_version": "1.2.2", "profile_name": "user", "target_name": "default", "node_id": "seed.my_new_project.demo_seed_netsuite_nexttransactionlink"} */
+show parameters like 'query_tag' in session
+2022-10-10 05:02:20.805619 (Thread-1): 05:02:20  Opening a new connection, currently in state closed
+2022-10-10 05:02:20.809729 (Thread-4): 05:02:20  Sending event: {'category': 'dbt', 'action': 'run_model', 'label': '4897b679-bd9b-4a18-bbac-3d04ccd9992d', 'context': [<snowplow_tracker.self_describing_json.SelfDescribingJson object at 0x7f13433b3490>]}
+2022-10-10 05:02:20.809966 (Thread-4): 05:02:20  4 of 15 OK loaded seed file dbt_mhoss2008.demo_seed_netsuite_employees ......... [INSERT 1000 in 3.53s]
+2022-10-10 05:02:20.810137 (Thread-4): 05:02:20  Finished running node seed.my_new_project.demo_seed_netsuite_employees
+2022-10-10 05:02:20.810270 (Thread-4): 05:02:20  Began running node seed.my_new_project.demo_seed_netsuite_transaction_lines
+2022-10-10 05:02:20.810448 (Thread-4): 05:02:20  8 of 15 START seed file dbt_mhoss2008.demo_seed_netsuite_transaction_lines ..... [RUN]
+2022-10-10 05:02:20.810665 (Thread-4): 05:02:20  Acquiring new snowflake connection "seed.my_new_project.demo_seed_netsuite_transaction_lines"
+2022-10-10 05:02:20.810755 (Thread-4): 05:02:20  Began compiling node seed.my_new_project.demo_seed_netsuite_transaction_lines
+2022-10-10 05:02:20.810837 (Thread-4): 05:02:20  finished collecting timing info
+2022-10-10 05:02:20.810931 (Thread-4): 05:02:20  Began executing node seed.my_new_project.demo_seed_netsuite_transaction_lines
+2022-10-10 05:02:20.812591 (Thread-4): 05:02:20  Using snowflake connection "seed.my_new_project.demo_seed_netsuite_transaction_lines"
+2022-10-10 05:02:20.812689 (Thread-4): 05:02:20  On seed.my_new_project.demo_seed_netsuite_transaction_lines: /* {"app": "dbt", "dbt_version": "1.2.2", "profile_name": "user", "target_name": "default", "node_id": "seed.my_new_project.demo_seed_netsuite_transaction_lines"} */
+show parameters like 'query_tag' in session
+2022-10-10 05:02:20.812766 (Thread-4): 05:02:20  Opening a new connection, currently in state closed
+2022-10-10 05:02:20.963702 (Thread-522): handling poll request
+2022-10-10 05:02:20.964087 (Thread-522): 05:02:20  Sending event: {'category': 'dbt', 'action': 'rpc_request', 'label': '68776726-190a-46dc-a4df-44ca4414331f', 'context': [<snowplow_tracker.self_describing_json.SelfDescribingJson object at 0x7fd72c891370>]}
+2022-10-10 05:02:20.965617 (Thread-522): sending response (<Response 34349 bytes [200 OK]>) to 10.0.10.11
+2022-10-10 05:02:21.451184 (Thread-2): 05:02:21  SQL status: SUCCESS 1 in 0.73 seconds
+2022-10-10 05:02:21.452329 (Thread-2): 05:02:21  Setting query_tag to 'demo_seed_netsuite_entity'. Will reset to '' after materialization.
+2022-10-10 05:02:21.452793 (Thread-2): 05:02:21  Using snowflake connection "seed.my_new_project.demo_seed_netsuite_entity"
+2022-10-10 05:02:21.452890 (Thread-2): 05:02:21  On seed.my_new_project.demo_seed_netsuite_entity: /* {"app": "dbt", "dbt_version": "1.2.2", "profile_name": "user", "target_name": "default", "node_id": "seed.my_new_project.demo_seed_netsuite_entity"} */
+alter session set query_tag = 'demo_seed_netsuite_entity'
+2022-10-10 05:02:21.565740 (Thread-2): 05:02:21  SQL status: SUCCESS 1 in 0.11 seconds
+2022-10-10 05:02:21.590200 (Thread-2): 05:02:21  Using snowflake connection "seed.my_new_project.demo_seed_netsuite_entity"
+2022-10-10 05:02:21.590318 (Thread-2): 05:02:21  On seed.my_new_project.demo_seed_netsuite_entity: /* {"app": "dbt", "dbt_version": "1.2.2", "profile_name": "user", "target_name": "default", "node_id": "seed.my_new_project.demo_seed_netsuite_entity"} */
+BEGIN
+2022-10-10 05:02:21.720289 (Thread-2): 05:02:21  SQL status: SUCCESS 1 in 0.13 seconds
+2022-10-10 05:02:21.720503 (Thread-2): 05:02:21  Using snowflake connection "seed.my_new_project.demo_seed_netsuite_entity"
+2022-10-10 05:02:21.720584 (Thread-2): 05:02:21  On seed.my_new_project.demo_seed_netsuite_entity: /* {"app": "dbt", "dbt_version": "1.2.2", "profile_name": "user", "target_name": "default", "node_id": "seed.my_new_project.demo_seed_netsuite_entity"} */
+truncate table "PC_DBT_DB"."DBT_MHOSS2008"."DEMO_SEED_NETSUITE_ENTITY"
+  ;
+2022-10-10 05:02:21.794384 (Thread-3): 05:02:21  SQL status: SUCCESS 1 in 1.0 seconds
+2022-10-10 05:02:21.795547 (Thread-3): 05:02:21  Setting query_tag to 'demo_seed_netsuite_items'. Will reset to '' after materialization.
+2022-10-10 05:02:21.796002 (Thread-3): 05:02:21  Using snowflake connection "seed.my_new_project.demo_seed_netsuite_items"
+2022-10-10 05:02:21.796100 (Thread-3): 05:02:21  On seed.my_new_project.demo_seed_netsuite_items: /* {"app": "dbt", "dbt_version": "1.2.2", "profile_name": "user", "target_name": "default", "node_id": "seed.my_new_project.demo_seed_netsuite_items"} */
+alter session set query_tag = 'demo_seed_netsuite_items'
+2022-10-10 05:02:21.813426 (Thread-4): 05:02:21  SQL status: SUCCESS 1 in 1.0 seconds
+2022-10-10 05:02:21.814410 (Thread-4): 05:02:21  Setting query_tag to 'demo_seed_netsuite_transaction_lines'. Will reset to '' after materialization.
+2022-10-10 05:02:21.814812 (Thread-4): 05:02:21  Using snowflake connection "seed.my_new_project.demo_seed_netsuite_transaction_lines"
+2022-10-10 05:02:21.814901 (Thread-4): 05:02:21  On seed.my_new_project.demo_seed_netsuite_transaction_lines: /* {"app": "dbt", "dbt_version": "1.2.2", "profile_name": "user", "target_name": "default", "node_id": "seed.my_new_project.demo_seed_netsuite_transaction_lines"} */
+alter session set query_tag = 'demo_seed_netsuite_transaction_lines'
+2022-10-10 05:02:21.827194 (Thread-1): 05:02:21  SQL status: SUCCESS 1 in 1.02 seconds
+2022-10-10 05:02:21.828201 (Thread-1): 05:02:21  Setting query_tag to 'demo_seed_netsuite_nexttransactionlink'. Will reset to '' after materialization.
+2022-10-10 05:02:21.828608 (Thread-1): 05:02:21  Using snowflake connection "seed.my_new_project.demo_seed_netsuite_nexttransactionlink"
+2022-10-10 05:02:21.828696 (Thread-1): 05:02:21  On seed.my_new_project.demo_seed_netsuite_nexttransactionlink: /* {"app": "dbt", "dbt_version": "1.2.2", "profile_name": "user", "target_name": "default", "node_id": "seed.my_new_project.demo_seed_netsuite_nexttransactionlink"} */
+alter session set query_tag = 'demo_seed_netsuite_nexttransactionlink'
+2022-10-10 05:02:21.911265 (Thread-3): 05:02:21  SQL status: SUCCESS 1 in 0.11 seconds
+2022-10-10 05:02:21.933650 (Thread-4): 05:02:21  SQL status: SUCCESS 1 in 0.12 seconds
+2022-10-10 05:02:21.937950 (Thread-3): 05:02:21  Using snowflake connection "seed.my_new_project.demo_seed_netsuite_items"
+2022-10-10 05:02:21.938064 (Thread-3): 05:02:21  On seed.my_new_project.demo_seed_netsuite_items: /* {"app": "dbt", "dbt_version": "1.2.2", "profile_name": "user", "target_name": "default", "node_id": "seed.my_new_project.demo_seed_netsuite_items"} */
+BEGIN
+2022-10-10 05:02:21.940034 (Thread-1): 05:02:21  SQL status: SUCCESS 1 in 0.11 seconds
+2022-10-10 05:02:22.093037 (Thread-3): 05:02:22  SQL status: SUCCESS 1 in 0.15 seconds
+2022-10-10 05:02:22.093248 (Thread-3): 05:02:22  Using snowflake connection "seed.my_new_project.demo_seed_netsuite_items"
+2022-10-10 05:02:22.093332 (Thread-3): 05:02:22  On seed.my_new_project.demo_seed_netsuite_items: /* {"app": "dbt", "dbt_version": "1.2.2", "profile_name": "user", "target_name": "default", "node_id": "seed.my_new_project.demo_seed_netsuite_items"} */
+truncate table "PC_DBT_DB"."DBT_MHOSS2008"."DEMO_SEED_NETSUITE_ITEMS"
+  ;
+2022-10-10 05:02:22.104482 (Thread-2): 05:02:22  SQL status: SUCCESS 1 in 0.38 seconds
+2022-10-10 05:02:22.104671 (Thread-2): 05:02:22  Using snowflake connection "seed.my_new_project.demo_seed_netsuite_entity"
+2022-10-10 05:02:22.104750 (Thread-2): 05:02:22  On seed.my_new_project.demo_seed_netsuite_entity: /* {"app": "dbt", "dbt_version": "1.2.2", "profile_name": "user", "target_name": "default", "node_id": "seed.my_new_project.demo_seed_netsuite_entity"} */
+COMMIT
+2022-10-10 05:02:22.243765 (Thread-523): handling poll request
+2022-10-10 05:02:22.244204 (Thread-523): 05:02:22  Sending event: {'category': 'dbt', 'action': 'rpc_request', 'label': '68776726-190a-46dc-a4df-44ca4414331f', 'context': [<snowplow_tracker.self_describing_json.SelfDescribingJson object at 0x7fd72c891e50>]}
+2022-10-10 05:02:22.245053 (Thread-523): sending response (<Response 14720 bytes [200 OK]>) to 10.0.10.11
+2022-10-10 05:02:22.474638 (Thread-2): 05:02:22  SQL status: SUCCESS 1 in 0.37 seconds
+2022-10-10 05:02:22.497024 (Thread-2): 05:02:22  Using snowflake connection "seed.my_new_project.demo_seed_netsuite_entity"
+2022-10-10 05:02:22.497154 (Thread-2): 05:02:22  On seed.my_new_project.demo_seed_netsuite_entity: /* {"app": "dbt", "dbt_version": "1.2.2", "profile_name": "user", "target_name": "default", "node_id": "seed.my_new_project.demo_seed_netsuite_entity"} */
+BEGIN
+2022-10-10 05:02:22.525376 (Thread-3): 05:02:22  SQL status: SUCCESS 1 in 0.43 seconds
+2022-10-10 05:02:22.525598 (Thread-3): 05:02:22  Using snowflake connection "seed.my_new_project.demo_seed_netsuite_items"
+2022-10-10 05:02:22.525685 (Thread-3): 05:02:22  On seed.my_new_project.demo_seed_netsuite_items: /* {"app": "dbt", "dbt_version": "1.2.2", "profile_name": "user", "target_name": "default", "node_id": "seed.my_new_project.demo_seed_netsuite_items"} */
+COMMIT
+2022-10-10 05:02:22.594768 (Thread-4): 05:02:22  Using snowflake connection "seed.my_new_project.demo_seed_netsuite_transaction_lines"
+2022-10-10 05:02:22.594926 (Thread-4): 05:02:22  On seed.my_new_project.demo_seed_netsuite_transaction_lines: /* {"app": "dbt", "dbt_version": "1.2.2", "profile_name": "user", "target_name": "default", "node_id": "seed.my_new_project.demo_seed_netsuite_transaction_lines"} */
+BEGIN
+2022-10-10 05:02:22.662270 (Thread-2): 05:02:22  SQL status: SUCCESS 1 in 0.16 seconds
+2022-10-10 05:02:22.699770 (Thread-2): 05:02:22  Using snowflake connection "seed.my_new_project.demo_seed_netsuite_entity"
+2022-10-10 05:02:22.699913 (Thread-2): 05:02:22  On seed.my_new_project.demo_seed_netsuite_entity: /* {"app": "dbt", "dbt_version": "1.2.2", "profile_name": "user", "target_name": "default", "node_id": "seed.my_new_project.demo_seed_netsuite_entity"} */
+insert into PC_DBT_DB.dbt_mhoss2008.demo_seed_netsuite_entity (id, entityid, email, DEFAULTSHIPPINGADDRESS, e, f, g) values
+            (%s,%s,%s,%s,%s,%s,%s),(%s,%s,%s,%s,%s,%s,%s),(%s,%s,%s,%s,%s,%s,%s),(%s,%s,%s,%s,%s,%s,%s),(%s,%s,%s,%s,%s,%s,%s),(%s,%s,%s,%s,%s,%s,%s),(%s,%s,%s,%s,%s,%s,%s),(%s,%s,%s,%s,%s,%s,%s),(%s,%s,%s,%s,%s,%s,%s),(%s,%s,%s,%s,%...
+2022-10-10 05:02:22.775418 (Thread-4): 05:02:22  SQL status: SUCCESS 1 in 0.18 seconds
+2022-10-10 05:02:22.775623 (Thread-4): 05:02:22  Using snowflake connection "seed.my_new_project.demo_seed_netsuite_transaction_lines"
+2022-10-10 05:02:22.775709 (Thread-4): 05:02:22  On seed.my_new_project.demo_seed_netsuite_transaction_lines: /* {"app": "dbt", "dbt_version": "1.2.2", "profile_name": "user", "target_name": "default", "node_id": "seed.my_new_project.demo_seed_netsuite_transaction_lines"} */
+truncate table "PC_DBT_DB"."DBT_MHOSS2008"."DEMO_SEED_NETSUITE_TRANSACTION_LINES"
+  ;
+2022-10-10 05:02:22.808830 (Thread-3): 05:02:22  SQL status: SUCCESS 1 in 0.28 seconds
+2022-10-10 05:02:22.839191 (Thread-3): 05:02:22  Using snowflake connection "seed.my_new_project.demo_seed_netsuite_items"
+2022-10-10 05:02:22.839330 (Thread-3): 05:02:22  On seed.my_new_project.demo_seed_netsuite_items: /* {"app": "dbt", "dbt_version": "1.2.2", "profile_name": "user", "target_name": "default", "node_id": "seed.my_new_project.demo_seed_netsuite_items"} */
+BEGIN
+2022-10-10 05:02:23.007452 (Thread-3): 05:02:23  SQL status: SUCCESS 1 in 0.17 seconds
+2022-10-10 05:02:23.071997 (Thread-3): 05:02:23  Using snowflake connection "seed.my_new_project.demo_seed_netsuite_items"
+2022-10-10 05:02:23.072211 (Thread-3): 05:02:23  On seed.my_new_project.demo_seed_netsuite_items: /* {"app": "dbt", "dbt_version": "1.2.2", "profile_name": "user", "target_name": "default", "node_id": "seed.my_new_project.demo_seed_netsuite_items"} */
+insert into PC_DBT_DB.dbt_mhoss2008.demo_seed_netsuite_items (ID, FULLNAME, DISPLAYNAME, Cost, DELETE_randitem) values
+            (%s,%s,%s,%s,%s),(%s,%s,%s,%s,%s),(%s,%s,%s,%s,%s),(%s,%s,%s,%s,%s),(%s,%s,%s,%s,%s),(%s,%s,%s,%s,%s),(%s,%s,%s,%s,%s),(%s,%s,%s,%s,%s),(%s,%s,%s,%s,%s),(%s,%s,%s,%s,%s),(%s,%s,%s,%s,%s),(%s,%s,%s,%s,%s),(%s,%s,%s,%s,%s),(%s,%s...
+2022-10-10 05:02:23.192334 (Thread-4): 05:02:23  SQL status: SUCCESS 1 in 0.42 seconds
+2022-10-10 05:02:23.192591 (Thread-4): 05:02:23  Using snowflake connection "seed.my_new_project.demo_seed_netsuite_transaction_lines"
+2022-10-10 05:02:23.192677 (Thread-4): 05:02:23  On seed.my_new_project.demo_seed_netsuite_transaction_lines: /* {"app": "dbt", "dbt_version": "1.2.2", "profile_name": "user", "target_name": "default", "node_id": "seed.my_new_project.demo_seed_netsuite_transaction_lines"} */
+COMMIT
+2022-10-10 05:02:23.331967 (Thread-2): 05:02:23  SQL status: SUCCESS 500 in 0.63 seconds
+2022-10-10 05:02:23.332312 (Thread-2): 05:02:23  Using snowflake connection "seed.my_new_project.demo_seed_netsuite_entity"
+2022-10-10 05:02:23.332430 (Thread-2): 05:02:23  On seed.my_new_project.demo_seed_netsuite_entity: /* {"app": "dbt", "dbt_version": "1.2.2", "profile_name": "user", "target_name": "default", "node_id": "seed.my_new_project.demo_seed_netsuite_entity"} */
+COMMIT
+2022-10-10 05:02:23.341784 (Thread-1): 05:02:23  Using snowflake connection "seed.my_new_project.demo_seed_netsuite_nexttransactionlink"
+2022-10-10 05:02:23.341900 (Thread-1): 05:02:23  On seed.my_new_project.demo_seed_netsuite_nexttransactionlink: /* {"app": "dbt", "dbt_version": "1.2.2", "profile_name": "user", "target_name": "default", "node_id": "seed.my_new_project.demo_seed_netsuite_nexttransactionlink"} */
+BEGIN
+2022-10-10 05:02:23.461300 (Thread-1): 05:02:23  SQL status: SUCCESS 1 in 0.12 seconds
+2022-10-10 05:02:23.461510 (Thread-1): 05:02:23  Using snowflake connection "seed.my_new_project.demo_seed_netsuite_nexttransactionlink"
+2022-10-10 05:02:23.461591 (Thread-1): 05:02:23  On seed.my_new_project.demo_seed_netsuite_nexttransactionlink: /* {"app": "dbt", "dbt_version": "1.2.2", "profile_name": "user", "target_name": "default", "node_id": "seed.my_new_project.demo_seed_netsuite_nexttransactionlink"} */
+truncate table "PC_DBT_DB"."DBT_MHOSS2008"."DEMO_SEED_NETSUITE_NEXTTRANSACTIONLINK"
+  ;
+2022-10-10 05:02:23.477202 (Thread-4): 05:02:23  SQL status: SUCCESS 1 in 0.28 seconds
+2022-10-10 05:02:23.525263 (Thread-524): handling poll request
+2022-10-10 05:02:23.525615 (Thread-524): 05:02:23  Sending event: {'category': 'dbt', 'action': 'rpc_request', 'label': '68776726-190a-46dc-a4df-44ca4414331f', 'context': [<snowplow_tracker.self_describing_json.SelfDescribingJson object at 0x7fd71937abe0>]}
+2022-10-10 05:02:23.526404 (Thread-524): sending response (<Response 15268 bytes [200 OK]>) to 10.0.10.11
+2022-10-10 05:02:23.604336 (Thread-2): 05:02:23  SQL status: SUCCESS 1 in 0.27 seconds
+2022-10-10 05:02:23.604967 (Thread-2): 05:02:23  Writing runtime SQL for node "seed.my_new_project.demo_seed_netsuite_entity"
+2022-10-10 05:02:23.652799 (Thread-4): 05:02:23  Using snowflake connection "seed.my_new_project.demo_seed_netsuite_transaction_lines"
+2022-10-10 05:02:23.652947 (Thread-4): 05:02:23  On seed.my_new_project.demo_seed_netsuite_transaction_lines: /* {"app": "dbt", "dbt_version": "1.2.2", "profile_name": "user", "target_name": "default", "node_id": "seed.my_new_project.demo_seed_netsuite_transaction_lines"} */
+BEGIN
+2022-10-10 05:02:23.658224 (Thread-2): 05:02:23  finished collecting timing info
+2022-10-10 05:02:23.658395 (Thread-2): 05:02:23  On seed.my_new_project.demo_seed_netsuite_entity: Close
+2022-10-10 05:02:23.719317 (Thread-3): 05:02:23  SQL status: SUCCESS 781 in 0.65 seconds
+2022-10-10 05:02:23.719638 (Thread-3): 05:02:23  Using snowflake connection "seed.my_new_project.demo_seed_netsuite_items"
+2022-10-10 05:02:23.719741 (Thread-3): 05:02:23  On seed.my_new_project.demo_seed_netsuite_items: /* {"app": "dbt", "dbt_version": "1.2.2", "profile_name": "user", "target_name": "default", "node_id": "seed.my_new_project.demo_seed_netsuite_items"} */
+COMMIT
+2022-10-10 05:02:23.780861 (Thread-4): 05:02:23  SQL status: SUCCESS 1 in 0.13 seconds
+2022-10-10 05:02:23.829294 (Thread-1): 05:02:23  SQL status: SUCCESS 1 in 0.37 seconds
+2022-10-10 05:02:23.829535 (Thread-1): 05:02:23  Using snowflake connection "seed.my_new_project.demo_seed_netsuite_nexttransactionlink"
+2022-10-10 05:02:23.829618 (Thread-1): 05:02:23  On seed.my_new_project.demo_seed_netsuite_nexttransactionlink: /* {"app": "dbt", "dbt_version": "1.2.2", "profile_name": "user", "target_name": "default", "node_id": "seed.my_new_project.demo_seed_netsuite_nexttransactionlink"} */
+COMMIT
+2022-10-10 05:02:23.852894 (Thread-2): 05:02:23  Sending event: {'category': 'dbt', 'action': 'run_model', 'label': '4897b679-bd9b-4a18-bbac-3d04ccd9992d', 'context': [<snowplow_tracker.self_describing_json.SelfDescribingJson object at 0x7f13433a8910>]}
+2022-10-10 05:02:23.873672 (Thread-2): 05:02:23  5 of 15 OK loaded seed file dbt_mhoss2008.demo_seed_netsuite_entity ............ [INSERT 500 in 3.13s]
+2022-10-10 05:02:23.873946 (Thread-2): 05:02:23  Finished running node seed.my_new_project.demo_seed_netsuite_entity
+2022-10-10 05:02:23.874102 (Thread-2): 05:02:23  Began running node seed.my_new_project.demo_seed_netsuite_transactions
+2022-10-10 05:02:23.874329 (Thread-2): 05:02:23  9 of 15 START seed file dbt_mhoss2008.demo_seed_netsuite_transactions .......... [RUN]
+2022-10-10 05:02:23.874609 (Thread-2): 05:02:23  Acquiring new snowflake connection "seed.my_new_project.demo_seed_netsuite_transactions"
+2022-10-10 05:02:23.874705 (Thread-2): 05:02:23  Began compiling node seed.my_new_project.demo_seed_netsuite_transactions
+2022-10-10 05:02:23.874792 (Thread-2): 05:02:23  finished collecting timing info
+2022-10-10 05:02:23.874891 (Thread-2): 05:02:23  Began executing node seed.my_new_project.demo_seed_netsuite_transactions
+2022-10-10 05:02:23.877777 (Thread-2): 05:02:23  Using snowflake connection "seed.my_new_project.demo_seed_netsuite_transactions"
+2022-10-10 05:02:23.877882 (Thread-2): 05:02:23  On seed.my_new_project.demo_seed_netsuite_transactions: /* {"app": "dbt", "dbt_version": "1.2.2", "profile_name": "user", "target_name": "default", "node_id": "seed.my_new_project.demo_seed_netsuite_transactions"} */
+show parameters like 'query_tag' in session
+2022-10-10 05:02:23.877966 (Thread-2): 05:02:23  Opening a new connection, currently in state closed
+2022-10-10 05:02:23.983825 (Thread-3): 05:02:23  SQL status: SUCCESS 1 in 0.26 seconds
+2022-10-10 05:02:23.984548 (Thread-3): 05:02:23  Writing runtime SQL for node "seed.my_new_project.demo_seed_netsuite_items"
+2022-10-10 05:02:24.043379 (Thread-3): 05:02:24  finished collecting timing info
+2022-10-10 05:02:24.043580 (Thread-3): 05:02:24  On seed.my_new_project.demo_seed_netsuite_items: Close
+2022-10-10 05:02:24.113055 (Thread-1): 05:02:24  SQL status: SUCCESS 1 in 0.28 seconds
+2022-10-10 05:02:24.370302 (Thread-3): 05:02:24  Sending event: {'category': 'dbt', 'action': 'run_model', 'label': '4897b679-bd9b-4a18-bbac-3d04ccd9992d', 'context': [<snowplow_tracker.self_describing_json.SelfDescribingJson object at 0x7f138ab32580>]}
+2022-10-10 05:02:24.375801 (Thread-3): 05:02:24  6 of 15 OK loaded seed file dbt_mhoss2008.demo_seed_netsuite_items ............. [INSERT 781 in 3.64s]
+2022-10-10 05:02:24.376038 (Thread-3): 05:02:24  Finished running node seed.my_new_project.demo_seed_netsuite_items
+2022-10-10 05:02:24.376212 (Thread-3): 05:02:24  Began running node seed.my_new_project.demo_seed_netsuite_transactions2
+2022-10-10 05:02:24.376453 (Thread-3): 05:02:24  10 of 15 START seed file dbt_mhoss2008.demo_seed_netsuite_transactions2 ........ [RUN]
+2022-10-10 05:02:24.376719 (Thread-3): 05:02:24  Acquiring new snowflake connection "seed.my_new_project.demo_seed_netsuite_transactions2"
+2022-10-10 05:02:24.376813 (Thread-3): 05:02:24  Began compiling node seed.my_new_project.demo_seed_netsuite_transactions2
+2022-10-10 05:02:24.376901 (Thread-3): 05:02:24  finished collecting timing info
+2022-10-10 05:02:24.376998 (Thread-3): 05:02:24  Began executing node seed.my_new_project.demo_seed_netsuite_transactions2
+2022-10-10 05:02:24.380630 (Thread-3): 05:02:24  Using snowflake connection "seed.my_new_project.demo_seed_netsuite_transactions2"
+2022-10-10 05:02:24.390879 (Thread-3): 05:02:24  On seed.my_new_project.demo_seed_netsuite_transactions2: /* {"app": "dbt", "dbt_version": "1.2.2", "profile_name": "user", "target_name": "default", "node_id": "seed.my_new_project.demo_seed_netsuite_transactions2"} */
+show parameters like 'query_tag' in session
+2022-10-10 05:02:24.390969 (Thread-3): 05:02:24  Opening a new connection, currently in state closed
+2022-10-10 05:02:24.400865 (Thread-1): 05:02:24  Using snowflake connection "seed.my_new_project.demo_seed_netsuite_nexttransactionlink"
+2022-10-10 05:02:24.400970 (Thread-1): 05:02:24  On seed.my_new_project.demo_seed_netsuite_nexttransactionlink: /* {"app": "dbt", "dbt_version": "1.2.2", "profile_name": "user", "target_name": "default", "node_id": "seed.my_new_project.demo_seed_netsuite_nexttransactionlink"} */
+BEGIN
+2022-10-10 05:02:24.578694 (Thread-1): 05:02:24  SQL status: SUCCESS 1 in 0.18 seconds
+2022-10-10 05:02:24.820492 (Thread-525): handling poll request
+2022-10-10 05:02:24.820895 (Thread-525): 05:02:24  Sending event: {'category': 'dbt', 'action': 'rpc_request', 'label': '68776726-190a-46dc-a4df-44ca4414331f', 'context': [<snowplow_tracker.self_describing_json.SelfDescribingJson object at 0x7fd72c811e50>]}
+2022-10-10 05:02:24.821880 (Thread-525): sending response (<Response 20427 bytes [200 OK]>) to 10.0.10.11
+2022-10-10 05:02:26.089330 (Thread-526): handling poll request
+2022-10-10 05:02:26.089738 (Thread-526): 05:02:26  Sending event: {'category': 'dbt', 'action': 'rpc_request', 'label': '68776726-190a-46dc-a4df-44ca4414331f', 'context': [<snowplow_tracker.self_describing_json.SelfDescribingJson object at 0x7fd72c811f40>]}
+2022-10-10 05:02:26.090229 (Thread-526): sending response (<Response 289 bytes [200 OK]>) to 10.0.10.11
+2022-10-10 05:02:26.136738 (Thread-1): 05:02:26  Using snowflake connection "seed.my_new_project.demo_seed_netsuite_nexttransactionlink"
+2022-10-10 05:02:26.136926 (Thread-1): 05:02:26  On seed.my_new_project.demo_seed_netsuite_nexttransactionlink: /* {"app": "dbt", "dbt_version": "1.2.2", "profile_name": "user", "target_name": "default", "node_id": "seed.my_new_project.demo_seed_netsuite_nexttransactionlink"} */
+insert into PC_DBT_DB.dbt_mhoss2008.demo_seed_netsuite_nexttransactionlink (nextdoc, previousdoc, _FIVETRAN_DELETED) values
+            (%s,%s,%s),(%s,%s,%s),(%s,%s,%s),(%s,%s,%s),(%s,%s,%s),(%s,%s,%s),(%s,%s,%s),(%s,%s,%s),(%s,%s,%s),(%s,%s,%s),(%s,%s,%s),(%s,%s,%s),(%s,%s,%s),(%s,%s,%s),(%s,%s,%s),(%s,%s,%s),(%s,%s,%s),(%s,%s,%s),(%s,%s,%s)...
+2022-10-10 05:02:27.369591 (Thread-527): handling poll request
+2022-10-10 05:02:27.370007 (Thread-527): 05:02:27  Sending event: {'category': 'dbt', 'action': 'rpc_request', 'label': '68776726-190a-46dc-a4df-44ca4414331f', 'context': [<snowplow_tracker.self_describing_json.SelfDescribingJson object at 0x7fd72c82d1f0>]}
+2022-10-10 05:02:27.370534 (Thread-527): sending response (<Response 1629 bytes [200 OK]>) to 10.0.10.11
+2022-10-10 05:02:27.505983 (Thread-2): 05:02:27  SQL status: SUCCESS 1 in 3.63 seconds
+2022-10-10 05:02:27.507151 (Thread-2): 05:02:27  Setting query_tag to 'demo_seed_netsuite_transactions'. Will reset to '' after materialization.
+2022-10-10 05:02:27.507640 (Thread-2): 05:02:27  Using snowflake connection "seed.my_new_project.demo_seed_netsuite_transactions"
+2022-10-10 05:02:27.507738 (Thread-2): 05:02:27  On seed.my_new_project.demo_seed_netsuite_transactions: /* {"app": "dbt", "dbt_version": "1.2.2", "profile_name": "user", "target_name": "default", "node_id": "seed.my_new_project.demo_seed_netsuite_transactions"} */
+alter session set query_tag = 'demo_seed_netsuite_transactions'
+2022-10-10 05:02:27.691063 (Thread-4): 05:02:27  Using snowflake connection "seed.my_new_project.demo_seed_netsuite_transaction_lines"
+2022-10-10 05:02:27.691259 (Thread-4): 05:02:27  On seed.my_new_project.demo_seed_netsuite_transaction_lines: /* {"app": "dbt", "dbt_version": "1.2.2", "profile_name": "user", "target_name": "default", "node_id": "seed.my_new_project.demo_seed_netsuite_transaction_lines"} */
+insert into PC_DBT_DB.dbt_mhoss2008.demo_seed_netsuite_transaction_lines (Transaction, Transaction_Type, Status, department, EXPENSEACCOUNT, ITEM, QUANTITY, QUANTITYSHIPRECV, QUANTITYBILLED, RATE, rateamount, netamount, expectedshipdate, expectedreceiptdate, MEMO, mainline, UNIQUEKEY, kitmemberof, delete_random_number, t, u, v) values
+         ...
+2022-10-10 05:02:27.706530 (Thread-2): 05:02:27  SQL status: SUCCESS 1 in 0.2 seconds
+2022-10-10 05:02:27.776338 (Thread-1): 05:02:27  SQL status: SUCCESS 10000 in 1.64 seconds
+2022-10-10 05:02:27.776903 (Thread-1): 05:02:27  Using snowflake connection "seed.my_new_project.demo_seed_netsuite_nexttransactionlink"
+2022-10-10 05:02:27.777035 (Thread-1): 05:02:27  On seed.my_new_project.demo_seed_netsuite_nexttransactionlink: /* {"app": "dbt", "dbt_version": "1.2.2", "profile_name": "user", "target_name": "default", "node_id": "seed.my_new_project.demo_seed_netsuite_nexttransactionlink"} */
+COMMIT
+2022-10-10 05:02:27.865497 (Thread-3): 05:02:27  SQL status: SUCCESS 1 in 3.47 seconds
+2022-10-10 05:02:27.866584 (Thread-3): 05:02:27  Setting query_tag to 'demo_seed_netsuite_transactions2'. Will reset to '' after materialization.
+2022-10-10 05:02:27.867011 (Thread-3): 05:02:27  Using snowflake connection "seed.my_new_project.demo_seed_netsuite_transactions2"
+2022-10-10 05:02:27.867102 (Thread-3): 05:02:27  On seed.my_new_project.demo_seed_netsuite_transactions2: /* {"app": "dbt", "dbt_version": "1.2.2", "profile_name": "user", "target_name": "default", "node_id": "seed.my_new_project.demo_seed_netsuite_transactions2"} */
+alter session set query_tag = 'demo_seed_netsuite_transactions2'
+2022-10-10 05:02:28.068931 (Thread-1): 05:02:28  SQL status: SUCCESS 1 in 0.29 seconds
+2022-10-10 05:02:28.084756 (Thread-3): 05:02:28  SQL status: SUCCESS 1 in 0.22 seconds
+2022-10-10 05:02:28.325867 (Thread-1): 05:02:28  Using snowflake connection "seed.my_new_project.demo_seed_netsuite_nexttransactionlink"
+2022-10-10 05:02:28.326040 (Thread-1): 05:02:28  On seed.my_new_project.demo_seed_netsuite_nexttransactionlink: /* {"app": "dbt", "dbt_version": "1.2.2", "profile_name": "user", "target_name": "default", "node_id": "seed.my_new_project.demo_seed_netsuite_nexttransactionlink"} */
+BEGIN
+2022-10-10 05:02:28.388599 (Thread-3): 05:02:28  Using snowflake connection "seed.my_new_project.demo_seed_netsuite_transactions2"
+2022-10-10 05:02:28.388702 (Thread-3): 05:02:28  On seed.my_new_project.demo_seed_netsuite_transactions2: /* {"app": "dbt", "dbt_version": "1.2.2", "profile_name": "user", "target_name": "default", "node_id": "seed.my_new_project.demo_seed_netsuite_transactions2"} */
+create table PC_DBT_DB.dbt_mhoss2008.demo_seed_netsuite_transactions2 (id integer,type text,status text,createdby integer,createddate date,duedate integer,lastmodifieddate date,externalid integer,firmed integer,memo integer,number integer,shipdate date,trandate date,tranid text,transactionnumber text,typebaseddocumentnumber text,trandisplayname integer,void text,voided text,shippingaddress integer,entity text,Previous_transaction_id integer)
+2022-10-10 05:02:28.478362 (Thread-1): 05:02:28  SQL status: SUCCESS 1 in 0.15 seconds
+2022-10-10 05:02:28.641642 (Thread-3): 05:02:28  SQL status: SUCCESS 1 in 0.25 seconds
+2022-10-10 05:02:28.656923 (Thread-528): handling poll request
+2022-10-10 05:02:28.657254 (Thread-528): 05:02:28  Sending event: {'category': 'dbt', 'action': 'rpc_request', 'label': '68776726-190a-46dc-a4df-44ca4414331f', 'context': [<snowplow_tracker.self_describing_json.SelfDescribingJson object at 0x7fd72c82db80>]}
+2022-10-10 05:02:28.657945 (Thread-528): sending response (<Response 10779 bytes [200 OK]>) to 10.0.10.11
+2022-10-10 05:02:28.691302 (Thread-3): 05:02:28  Using snowflake connection "seed.my_new_project.demo_seed_netsuite_transactions2"
+2022-10-10 05:02:28.691465 (Thread-3): 05:02:28  On seed.my_new_project.demo_seed_netsuite_transactions2: /* {"app": "dbt", "dbt_version": "1.2.2", "profile_name": "user", "target_name": "default", "node_id": "seed.my_new_project.demo_seed_netsuite_transactions2"} */
+BEGIN
+2022-10-10 05:02:28.943799 (Thread-3): 05:02:28  SQL status: SUCCESS 1 in 0.25 seconds
+2022-10-10 05:02:29.060616 (Thread-3): 05:02:29  Using snowflake connection "seed.my_new_project.demo_seed_netsuite_transactions2"
+2022-10-10 05:02:29.060778 (Thread-3): 05:02:29  On seed.my_new_project.demo_seed_netsuite_transactions2: /* {"app": "dbt", "dbt_version": "1.2.2", "profile_name": "user", "target_name": "default", "node_id": "seed.my_new_project.demo_seed_netsuite_transactions2"} */
+insert into PC_DBT_DB.dbt_mhoss2008.demo_seed_netsuite_transactions2 (id, type, status, createdby, createddate, duedate, lastmodifieddate, externalid, firmed, memo, number, shipdate, trandate, tranid, transactionnumber, typebaseddocumentnumber, trandisplayname, void, voided, shippingaddress, entity, Previous_transaction_id) values
+            (%s,%...
+2022-10-10 05:02:29.802972 (Thread-3): 05:02:29  SQL status: SUCCESS 247 in 0.74 seconds
+2022-10-10 05:02:29.803337 (Thread-3): 05:02:29  Using snowflake connection "seed.my_new_project.demo_seed_netsuite_transactions2"
+2022-10-10 05:02:29.803439 (Thread-3): 05:02:29  On seed.my_new_project.demo_seed_netsuite_transactions2: /* {"app": "dbt", "dbt_version": "1.2.2", "profile_name": "user", "target_name": "default", "node_id": "seed.my_new_project.demo_seed_netsuite_transactions2"} */
+COMMIT
+2022-10-10 05:02:29.887883 (Thread-1): 05:02:29  Using snowflake connection "seed.my_new_project.demo_seed_netsuite_nexttransactionlink"
+2022-10-10 05:02:29.919480 (Thread-529): handling poll request
+2022-10-10 05:02:29.919839 (Thread-529): 05:02:29  Sending event: {'category': 'dbt', 'action': 'rpc_request', 'label': '68776726-190a-46dc-a4df-44ca4414331f', 'context': [<snowplow_tracker.self_describing_json.SelfDescribingJson object at 0x7fd719a9d070>]}
+2022-10-10 05:02:29.920467 (Thread-529): sending response (<Response 4673 bytes [200 OK]>) to 10.0.10.11
+2022-10-10 05:02:29.888019 (Thread-1): 05:02:29  On seed.my_new_project.demo_seed_netsuite_nexttransactionlink: /* {"app": "dbt", "dbt_version": "1.2.2", "profile_name": "user", "target_name": "default", "node_id": "seed.my_new_project.demo_seed_netsuite_nexttransactionlink"} */
+insert into PC_DBT_DB.dbt_mhoss2008.demo_seed_netsuite_nexttransactionlink (nextdoc, previousdoc, _FIVETRAN_DELETED) values
+            (%s,%s,%s),(%s,%s,%s),(%s,%s,%s),(%s,%s,%s),(%s,%s,%s),(%s,%s,%s),(%s,%s,%s),(%s,%s,%s),(%s,%s,%s),(%s,%s,%s),(%s,%s,%s),(%s,%s,%s),(%s,%s,%s),(%s,%s,%s),(%s,%s,%s),(%s,%s,%s),(%s,%s,%s),(%s,%s,%s),(%s,%s,%s)...
+2022-10-10 05:02:30.122955 (Thread-3): 05:02:30  SQL status: SUCCESS 1 in 0.32 seconds
+2022-10-10 05:02:30.123649 (Thread-3): 05:02:30  Writing runtime SQL for node "seed.my_new_project.demo_seed_netsuite_transactions2"
+2022-10-10 05:02:30.187449 (Thread-3): 05:02:30  finished collecting timing info
+2022-10-10 05:02:30.187637 (Thread-3): 05:02:30  On seed.my_new_project.demo_seed_netsuite_transactions2: Close
+2022-10-10 05:02:30.458490 (Thread-3): 05:02:30  Sending event: {'category': 'dbt', 'action': 'run_model', 'label': '4897b679-bd9b-4a18-bbac-3d04ccd9992d', 'context': [<snowplow_tracker.self_describing_json.SelfDescribingJson object at 0x7f1340604370>]}
+2022-10-10 05:02:30.458813 (Thread-3): 05:02:30  10 of 15 OK loaded seed file dbt_mhoss2008.demo_seed_netsuite_transactions2 .... [INSERT 247 in 6.08s]
+2022-10-10 05:02:30.459039 (Thread-3): 05:02:30  Finished running node seed.my_new_project.demo_seed_netsuite_transactions2
+2022-10-10 05:02:30.459224 (Thread-3): 05:02:30  Began running node seed.my_new_project.demo_seed_netsuite_unitstypeuom
+2022-10-10 05:02:30.459497 (Thread-3): 05:02:30  11 of 15 START seed file dbt_mhoss2008.demo_seed_netsuite_unitstypeuom ......... [RUN]
+2022-10-10 05:02:30.459781 (Thread-3): 05:02:30  Acquiring new snowflake connection "seed.my_new_project.demo_seed_netsuite_unitstypeuom"
+2022-10-10 05:02:30.459883 (Thread-3): 05:02:30  Began compiling node seed.my_new_project.demo_seed_netsuite_unitstypeuom
+2022-10-10 05:02:30.459975 (Thread-3): 05:02:30  finished collecting timing info
+2022-10-10 05:02:30.460079 (Thread-3): 05:02:30  Began executing node seed.my_new_project.demo_seed_netsuite_unitstypeuom
+2022-10-10 05:02:30.462703 (Thread-3): 05:02:30  Using snowflake connection "seed.my_new_project.demo_seed_netsuite_unitstypeuom"
+2022-10-10 05:02:30.462810 (Thread-3): 05:02:30  On seed.my_new_project.demo_seed_netsuite_unitstypeuom: /* {"app": "dbt", "dbt_version": "1.2.2", "profile_name": "user", "target_name": "default", "node_id": "seed.my_new_project.demo_seed_netsuite_unitstypeuom"} */
+show parameters like 'query_tag' in session
+2022-10-10 05:02:30.462892 (Thread-3): 05:02:30  Opening a new connection, currently in state closed
+2022-10-10 05:02:30.502565 (Thread-4): 05:02:30  SQL status: SUCCESS 3444 in 2.81 seconds
+2022-10-10 05:02:30.503107 (Thread-4): 05:02:30  Using snowflake connection "seed.my_new_project.demo_seed_netsuite_transaction_lines"
+2022-10-10 05:02:30.503258 (Thread-4): 05:02:30  On seed.my_new_project.demo_seed_netsuite_transaction_lines: /* {"app": "dbt", "dbt_version": "1.2.2", "profile_name": "user", "target_name": "default", "node_id": "seed.my_new_project.demo_seed_netsuite_transaction_lines"} */
+COMMIT
+2022-10-10 05:02:30.780574 (Thread-4): 05:02:30  SQL status: SUCCESS 1 in 0.28 seconds
+2022-10-10 05:02:30.781797 (Thread-4): 05:02:30  Writing runtime SQL for node "seed.my_new_project.demo_seed_netsuite_transaction_lines"
+2022-10-10 05:02:30.867699 (Thread-4): 05:02:30  finished collecting timing info
+2022-10-10 05:02:30.867895 (Thread-4): 05:02:30  On seed.my_new_project.demo_seed_netsuite_transaction_lines: Close
+2022-10-10 05:02:31.161302 (Thread-4): 05:02:31  Sending event: {'category': 'dbt', 'action': 'run_model', 'label': '4897b679-bd9b-4a18-bbac-3d04ccd9992d', 'context': [<snowplow_tracker.self_describing_json.SelfDescribingJson object at 0x7f1388236850>]}
+2022-10-10 05:02:31.161673 (Thread-4): 05:02:31  8 of 15 OK loaded seed file dbt_mhoss2008.demo_seed_netsuite_transaction_lines . [INSERT 3444 in 10.35s]
+2022-10-10 05:02:31.161903 (Thread-4): 05:02:31  Finished running node seed.my_new_project.demo_seed_netsuite_transaction_lines
+2022-10-10 05:02:31.162061 (Thread-4): 05:02:31  Began running node seed.my_new_project.demo_seed_transaction_status
+2022-10-10 05:02:31.162406 (Thread-4): 05:02:31  12 of 15 START seed file dbt_mhoss2008.demo_seed_transaction_status ............ [RUN]
+2022-10-10 05:02:31.188204 (Thread-530): handling poll request
+2022-10-10 05:02:31.188530 (Thread-530): 05:02:31  Sending event: {'category': 'dbt', 'action': 'rpc_request', 'label': '68776726-190a-46dc-a4df-44ca4414331f', 'context': [<snowplow_tracker.self_describing_json.SelfDescribingJson object at 0x7fd719a9dca0>]}
+2022-10-10 05:02:31.189469 (Thread-530): sending response (<Response 14088 bytes [200 OK]>) to 10.0.10.11
+2022-10-10 05:02:31.162801 (Thread-4): 05:02:31  Acquiring new snowflake connection "seed.my_new_project.demo_seed_transaction_status"
+2022-10-10 05:02:31.162948 (Thread-4): 05:02:31  Began compiling node seed.my_new_project.demo_seed_transaction_status
+2022-10-10 05:02:31.163093 (Thread-4): 05:02:31  finished collecting timing info
+2022-10-10 05:02:31.163294 (Thread-4): 05:02:31  Began executing node seed.my_new_project.demo_seed_transaction_status
+2022-10-10 05:02:31.167263 (Thread-4): 05:02:31  Using snowflake connection "seed.my_new_project.demo_seed_transaction_status"
+2022-10-10 05:02:31.167427 (Thread-4): 05:02:31  On seed.my_new_project.demo_seed_transaction_status: /* {"app": "dbt", "dbt_version": "1.2.2", "profile_name": "user", "target_name": "default", "node_id": "seed.my_new_project.demo_seed_transaction_status"} */
+show parameters like 'query_tag' in session
+2022-10-10 05:02:31.167564 (Thread-4): 05:02:31  Opening a new connection, currently in state closed
+2022-10-10 05:02:31.501288 (Thread-1): 05:02:31  SQL status: SUCCESS 10000 in 1.61 seconds
+2022-10-10 05:02:31.501834 (Thread-1): 05:02:31  Using snowflake connection "seed.my_new_project.demo_seed_netsuite_nexttransactionlink"
+2022-10-10 05:02:31.501961 (Thread-1): 05:02:31  On seed.my_new_project.demo_seed_netsuite_nexttransactionlink: /* {"app": "dbt", "dbt_version": "1.2.2", "profile_name": "user", "target_name": "default", "node_id": "seed.my_new_project.demo_seed_netsuite_nexttransactionlink"} */
+COMMIT
+2022-10-10 05:02:31.770882 (Thread-1): 05:02:31  SQL status: SUCCESS 1 in 0.27 seconds
+2022-10-10 05:02:32.136779 (Thread-1): 05:02:32  Using snowflake connection "seed.my_new_project.demo_seed_netsuite_nexttransactionlink"
+2022-10-10 05:02:32.136948 (Thread-1): 05:02:32  On seed.my_new_project.demo_seed_netsuite_nexttransactionlink: /* {"app": "dbt", "dbt_version": "1.2.2", "profile_name": "user", "target_name": "default", "node_id": "seed.my_new_project.demo_seed_netsuite_nexttransactionlink"} */
+BEGIN
+2022-10-10 05:02:32.320894 (Thread-1): 05:02:32  SQL status: SUCCESS 1 in 0.18 seconds
+2022-10-10 05:02:32.471238 (Thread-531): handling poll request
+2022-10-10 05:02:32.471638 (Thread-531): 05:02:32  Sending event: {'category': 'dbt', 'action': 'rpc_request', 'label': '68776726-190a-46dc-a4df-44ca4414331f', 'context': [<snowplow_tracker.self_describing_json.SelfDescribingJson object at 0x7fd72c811e50>]}
+2022-10-10 05:02:32.472316 (Thread-531): sending response (<Response 6398 bytes [200 OK]>) to 10.0.10.11
+2022-10-10 05:02:33.614764 (Thread-3): 05:02:33  SQL status: SUCCESS 1 in 3.15 seconds
+2022-10-10 05:02:33.615944 (Thread-3): 05:02:33  Setting query_tag to 'demo_seed_netsuite_unitstypeuom'. Will reset to '' after materialization.
+2022-10-10 05:02:33.616477 (Thread-3): 05:02:33  Using snowflake connection "seed.my_new_project.demo_seed_netsuite_unitstypeuom"
+2022-10-10 05:02:33.616580 (Thread-3): 05:02:33  On seed.my_new_project.demo_seed_netsuite_unitstypeuom: /* {"app": "dbt", "dbt_version": "1.2.2", "profile_name": "user", "target_name": "default", "node_id": "seed.my_new_project.demo_seed_netsuite_unitstypeuom"} */
+alter session set query_tag = 'demo_seed_netsuite_unitstypeuom'
+2022-10-10 05:02:33.740000 (Thread-532): handling poll request
+2022-10-10 05:02:33.740446 (Thread-532): 05:02:33  Sending event: {'category': 'dbt', 'action': 'rpc_request', 'label': '68776726-190a-46dc-a4df-44ca4414331f', 'context': [<snowplow_tracker.self_describing_json.SelfDescribingJson object at 0x7fd72c891c40>]}
+2022-10-10 05:02:33.740980 (Thread-532): sending response (<Response 2079 bytes [200 OK]>) to 10.0.10.11
+2022-10-10 05:02:33.802753 (Thread-3): 05:02:33  SQL status: SUCCESS 1 in 0.19 seconds
+2022-10-10 05:02:33.840913 (Thread-1): 05:02:33  Using snowflake connection "seed.my_new_project.demo_seed_netsuite_nexttransactionlink"
+2022-10-10 05:02:33.841058 (Thread-1): 05:02:33  On seed.my_new_project.demo_seed_netsuite_nexttransactionlink: /* {"app": "dbt", "dbt_version": "1.2.2", "profile_name": "user", "target_name": "default", "node_id": "seed.my_new_project.demo_seed_netsuite_nexttransactionlink"} */
+insert into PC_DBT_DB.dbt_mhoss2008.demo_seed_netsuite_nexttransactionlink (nextdoc, previousdoc, _FIVETRAN_DELETED) values
+            (%s,%s,%s),(%s,%s,%s),(%s,%s,%s),(%s,%s,%s),(%s,%s,%s),(%s,%s,%s),(%s,%s,%s),(%s,%s,%s),(%s,%s,%s),(%s,%s,%s),(%s,%s,%s),(%s,%s,%s),(%s,%s,%s),(%s,%s,%s),(%s,%s,%s),(%s,%s,%s),(%s,%s,%s),(%s,%s,%s),(%s,%s,%s)...
+2022-10-10 05:02:34.001310 (Thread-3): 05:02:34  Using snowflake connection "seed.my_new_project.demo_seed_netsuite_unitstypeuom"
+2022-10-10 05:02:34.001476 (Thread-3): 05:02:34  On seed.my_new_project.demo_seed_netsuite_unitstypeuom: /* {"app": "dbt", "dbt_version": "1.2.2", "profile_name": "user", "target_name": "default", "node_id": "seed.my_new_project.demo_seed_netsuite_unitstypeuom"} */
+BEGIN
+2022-10-10 05:02:34.189574 (Thread-3): 05:02:34  SQL status: SUCCESS 1 in 0.19 seconds
+2022-10-10 05:02:34.189795 (Thread-3): 05:02:34  Using snowflake connection "seed.my_new_project.demo_seed_netsuite_unitstypeuom"
+2022-10-10 05:02:34.189884 (Thread-3): 05:02:34  On seed.my_new_project.demo_seed_netsuite_unitstypeuom: /* {"app": "dbt", "dbt_version": "1.2.2", "profile_name": "user", "target_name": "default", "node_id": "seed.my_new_project.demo_seed_netsuite_unitstypeuom"} */
+truncate table "PC_DBT_DB"."DBT_MHOSS2008"."DEMO_SEED_NETSUITE_UNITSTYPEUOM"
+  ;
+2022-10-10 05:02:34.564068 (Thread-3): 05:02:34  SQL status: SUCCESS 1 in 0.37 seconds
+2022-10-10 05:02:34.564379 (Thread-3): 05:02:34  Using snowflake connection "seed.my_new_project.demo_seed_netsuite_unitstypeuom"
+2022-10-10 05:02:34.564469 (Thread-3): 05:02:34  On seed.my_new_project.demo_seed_netsuite_unitstypeuom: /* {"app": "dbt", "dbt_version": "1.2.2", "profile_name": "user", "target_name": "default", "node_id": "seed.my_new_project.demo_seed_netsuite_unitstypeuom"} */
+COMMIT
+2022-10-10 05:02:34.830058 (Thread-2): 05:02:34  Using snowflake connection "seed.my_new_project.demo_seed_netsuite_transactions"
+2022-10-10 05:02:34.830223 (Thread-2): 05:02:34  On seed.my_new_project.demo_seed_netsuite_transactions: /* {"app": "dbt", "dbt_version": "1.2.2", "profile_name": "user", "target_name": "default", "node_id": "seed.my_new_project.demo_seed_netsuite_transactions"} */
+BEGIN
+2022-10-10 05:02:34.885077 (Thread-3): 05:02:34  SQL status: SUCCESS 1 in 0.32 seconds
+2022-10-10 05:02:34.888559 (Thread-3): 05:02:34  Using snowflake connection "seed.my_new_project.demo_seed_netsuite_unitstypeuom"
+2022-10-10 05:02:34.888671 (Thread-3): 05:02:34  On seed.my_new_project.demo_seed_netsuite_unitstypeuom: /* {"app": "dbt", "dbt_version": "1.2.2", "profile_name": "user", "target_name": "default", "node_id": "seed.my_new_project.demo_seed_netsuite_unitstypeuom"} */
+BEGIN
+2022-10-10 05:02:34.946299 (Thread-2): 05:02:34  SQL status: SUCCESS 1 in 0.12 seconds
+2022-10-10 05:02:34.946482 (Thread-2): 05:02:34  Using snowflake connection "seed.my_new_project.demo_seed_netsuite_transactions"
+2022-10-10 05:02:34.946563 (Thread-2): 05:02:34  On seed.my_new_project.demo_seed_netsuite_transactions: /* {"app": "dbt", "dbt_version": "1.2.2", "profile_name": "user", "target_name": "default", "node_id": "seed.my_new_project.demo_seed_netsuite_transactions"} */
+truncate table "PC_DBT_DB"."DBT_MHOSS2008"."DEMO_SEED_NETSUITE_TRANSACTIONS"
+  ;
+2022-10-10 05:02:35.002103 (Thread-4): 05:02:35  SQL status: SUCCESS 1 in 3.83 seconds
+2022-10-10 05:02:35.003230 (Thread-4): 05:02:35  Setting query_tag to 'demo_seed_transaction_status'. Will reset to '' after materialization.
+2022-10-10 05:02:35.003683 (Thread-4): 05:02:35  Using snowflake connection "seed.my_new_project.demo_seed_transaction_status"
+2022-10-10 05:02:35.003776 (Thread-4): 05:02:35  On seed.my_new_project.demo_seed_transaction_status: /* {"app": "dbt", "dbt_version": "1.2.2", "profile_name": "user", "target_name": "default", "node_id": "seed.my_new_project.demo_seed_transaction_status"} */
+alter session set query_tag = 'demo_seed_transaction_status'
+2022-10-10 05:02:35.009707 (Thread-3): 05:02:35  SQL status: SUCCESS 1 in 0.12 seconds
+2022-10-10 05:02:35.012911 (Thread-3): 05:02:35  Using snowflake connection "seed.my_new_project.demo_seed_netsuite_unitstypeuom"
+2022-10-10 05:02:35.013009 (Thread-3): 05:02:35  On seed.my_new_project.demo_seed_netsuite_unitstypeuom: /* {"app": "dbt", "dbt_version": "1.2.2", "profile_name": "user", "target_name": "default", "node_id": "seed.my_new_project.demo_seed_netsuite_unitstypeuom"} */
+insert into PC_DBT_DB.dbt_mhoss2008.demo_seed_netsuite_unitstypeuom (INTERNALID, ABBREVIATION, BASEUNIT, CONVERSIONRATE, PLURALABBREVIATION, PLURALNAME, UNITNAME, UNITSTYPE, _FIVETRAN_DELETED, DATE_DELETED, _FIVETRAN_SYNCED) values
+            (%s,%s,%s,%s,%s,%s,%s,%s,%s,%s,%s),(%s,%s,%s,%s,%s,%s,%s,%s,%s,%s,%s),(%s,%s,%s,%s,%s,%s,%s,%s,%s,%s,%s),(%...
+2022-10-10 05:02:35.017535 (Thread-533): handling poll request
+2022-10-10 05:02:35.017867 (Thread-533): 05:02:35  Sending event: {'category': 'dbt', 'action': 'rpc_request', 'label': '68776726-190a-46dc-a4df-44ca4414331f', 'context': [<snowplow_tracker.self_describing_json.SelfDescribingJson object at 0x7fd71a034ac0>]}
+2022-10-10 05:02:35.018640 (Thread-533): sending response (<Response 12785 bytes [200 OK]>) to 10.0.10.11
+2022-10-10 05:02:35.104614 (Thread-2): 05:02:35  SQL status: SUCCESS 1 in 0.16 seconds
+2022-10-10 05:02:35.104864 (Thread-2): 05:02:35  Using snowflake connection "seed.my_new_project.demo_seed_netsuite_transactions"
+2022-10-10 05:02:35.104952 (Thread-2): 05:02:35  On seed.my_new_project.demo_seed_netsuite_transactions: /* {"app": "dbt", "dbt_version": "1.2.2", "profile_name": "user", "target_name": "default", "node_id": "seed.my_new_project.demo_seed_netsuite_transactions"} */
+COMMIT
+2022-10-10 05:02:35.116197 (Thread-4): 05:02:35  SQL status: SUCCESS 1 in 0.11 seconds
+2022-10-10 05:02:35.122839 (Thread-4): 05:02:35  Using snowflake connection "seed.my_new_project.demo_seed_transaction_status"
+2022-10-10 05:02:35.122966 (Thread-4): 05:02:35  On seed.my_new_project.demo_seed_transaction_status: /* {"app": "dbt", "dbt_version": "1.2.2", "profile_name": "user", "target_name": "default", "node_id": "seed.my_new_project.demo_seed_transaction_status"} */
+BEGIN
+2022-10-10 05:02:35.249647 (Thread-4): 05:02:35  SQL status: SUCCESS 1 in 0.13 seconds
+2022-10-10 05:02:35.249849 (Thread-4): 05:02:35  Using snowflake connection "seed.my_new_project.demo_seed_transaction_status"
+2022-10-10 05:02:35.249930 (Thread-4): 05:02:35  On seed.my_new_project.demo_seed_transaction_status: /* {"app": "dbt", "dbt_version": "1.2.2", "profile_name": "user", "target_name": "default", "node_id": "seed.my_new_project.demo_seed_transaction_status"} */
+truncate table "PC_DBT_DB"."DBT_MHOSS2008"."DEMO_SEED_TRANSACTION_STATUS"
+  ;
+2022-10-10 05:02:35.331214 (Thread-2): 05:02:35  SQL status: SUCCESS 1 in 0.23 seconds
+2022-10-10 05:02:35.496462 (Thread-3): 05:02:35  SQL status: SUCCESS 64 in 0.48 seconds
+2022-10-10 05:02:35.496776 (Thread-3): 05:02:35  Using snowflake connection "seed.my_new_project.demo_seed_netsuite_unitstypeuom"
+2022-10-10 05:02:35.496882 (Thread-3): 05:02:35  On seed.my_new_project.demo_seed_netsuite_unitstypeuom: /* {"app": "dbt", "dbt_version": "1.2.2", "profile_name": "user", "target_name": "default", "node_id": "seed.my_new_project.demo_seed_netsuite_unitstypeuom"} */
+COMMIT
+2022-10-10 05:02:35.539751 (Thread-1): 05:02:35  SQL status: SUCCESS 10000 in 1.7 seconds
+2022-10-10 05:02:35.540224 (Thread-1): 05:02:35  Using snowflake connection "seed.my_new_project.demo_seed_netsuite_nexttransactionlink"
+2022-10-10 05:02:35.540332 (Thread-1): 05:02:35  On seed.my_new_project.demo_seed_netsuite_nexttransactionlink: /* {"app": "dbt", "dbt_version": "1.2.2", "profile_name": "user", "target_name": "default", "node_id": "seed.my_new_project.demo_seed_netsuite_nexttransactionlink"} */
+COMMIT
+2022-10-10 05:02:35.588647 (Thread-4): 05:02:35  SQL status: SUCCESS 1 in 0.34 seconds
+2022-10-10 05:02:35.588834 (Thread-4): 05:02:35  Using snowflake connection "seed.my_new_project.demo_seed_transaction_status"
+2022-10-10 05:02:35.588914 (Thread-4): 05:02:35  On seed.my_new_project.demo_seed_transaction_status: /* {"app": "dbt", "dbt_version": "1.2.2", "profile_name": "user", "target_name": "default", "node_id": "seed.my_new_project.demo_seed_transaction_status"} */
+COMMIT
+2022-10-10 05:02:35.762257 (Thread-2): 05:02:35  Using snowflake connection "seed.my_new_project.demo_seed_netsuite_transactions"
+2022-10-10 05:02:35.762420 (Thread-2): 05:02:35  On seed.my_new_project.demo_seed_netsuite_transactions: /* {"app": "dbt", "dbt_version": "1.2.2", "profile_name": "user", "target_name": "default", "node_id": "seed.my_new_project.demo_seed_netsuite_transactions"} */
+BEGIN
+2022-10-10 05:02:35.790273 (Thread-3): 05:02:35  SQL status: SUCCESS 1 in 0.29 seconds
+2022-10-10 05:02:35.790838 (Thread-3): 05:02:35  Writing runtime SQL for node "seed.my_new_project.demo_seed_netsuite_unitstypeuom"
+2022-10-10 05:02:35.811545 (Thread-3): 05:02:35  finished collecting timing info
+2022-10-10 05:02:35.811731 (Thread-3): 05:02:35  On seed.my_new_project.demo_seed_netsuite_unitstypeuom: Close
+2022-10-10 05:02:35.835330 (Thread-1): 05:02:35  SQL status: SUCCESS 1 in 0.29 seconds
+2022-10-10 05:02:35.879286 (Thread-4): 05:02:35  SQL status: SUCCESS 1 in 0.29 seconds
+2022-10-10 05:02:35.882378 (Thread-4): 05:02:35  Using snowflake connection "seed.my_new_project.demo_seed_transaction_status"
+2022-10-10 05:02:35.882478 (Thread-4): 05:02:35  On seed.my_new_project.demo_seed_transaction_status: /* {"app": "dbt", "dbt_version": "1.2.2", "profile_name": "user", "target_name": "default", "node_id": "seed.my_new_project.demo_seed_transaction_status"} */
+BEGIN
+2022-10-10 05:02:35.888294 (Thread-2): 05:02:35  SQL status: SUCCESS 1 in 0.13 seconds
+2022-10-10 05:02:36.044598 (Thread-1): 05:02:36  Using snowflake connection "seed.my_new_project.demo_seed_netsuite_nexttransactionlink"
+2022-10-10 05:02:36.044761 (Thread-1): 05:02:36  On seed.my_new_project.demo_seed_netsuite_nexttransactionlink: /* {"app": "dbt", "dbt_version": "1.2.2", "profile_name": "user", "target_name": "default", "node_id": "seed.my_new_project.demo_seed_netsuite_nexttransactionlink"} */
+BEGIN
+2022-10-10 05:02:36.068154 (Thread-3): 05:02:36  Sending event: {'category': 'dbt', 'action': 'run_model', 'label': '4897b679-bd9b-4a18-bbac-3d04ccd9992d', 'context': [<snowplow_tracker.self_describing_json.SelfDescribingJson object at 0x7f1340677490>]}
+2022-10-10 05:02:36.068482 (Thread-3): 05:02:36  11 of 15 OK loaded seed file dbt_mhoss2008.demo_seed_netsuite_unitstypeuom ..... [INSERT 64 in 5.61s]
+2022-10-10 05:02:36.068707 (Thread-3): 05:02:36  Finished running node seed.my_new_project.demo_seed_netsuite_unitstypeuom
+2022-10-10 05:02:36.068864 (Thread-3): 05:02:36  Began running node seed.my_new_project.netsuite_status_codes
+2022-10-10 05:02:36.069091 (Thread-3): 05:02:36  13 of 15 START seed file dbt_mhoss2008.netsuite_status_codes ................... [RUN]
+2022-10-10 05:02:36.069347 (Thread-3): 05:02:36  Acquiring new snowflake connection "seed.my_new_project.netsuite_status_codes"
+2022-10-10 05:02:36.069443 (Thread-3): 05:02:36  Began compiling node seed.my_new_project.netsuite_status_codes
+2022-10-10 05:02:36.069536 (Thread-3): 05:02:36  finished collecting timing info
+2022-10-10 05:02:36.069639 (Thread-3): 05:02:36  Began executing node seed.my_new_project.netsuite_status_codes
+2022-10-10 05:02:36.077044 (Thread-3): 05:02:36  Using snowflake connection "seed.my_new_project.netsuite_status_codes"
+2022-10-10 05:02:36.077160 (Thread-3): 05:02:36  On seed.my_new_project.netsuite_status_codes: /* {"app": "dbt", "dbt_version": "1.2.2", "profile_name": "user", "target_name": "default", "node_id": "seed.my_new_project.netsuite_status_codes"} */
+show parameters like 'query_tag' in session
+2022-10-10 05:02:36.077245 (Thread-3): 05:02:36  Opening a new connection, currently in state closed
+2022-10-10 05:02:36.110515 (Thread-4): 05:02:36  SQL status: SUCCESS 1 in 0.23 seconds
+2022-10-10 05:02:36.112259 (Thread-4): 05:02:36  Using snowflake connection "seed.my_new_project.demo_seed_transaction_status"
+2022-10-10 05:02:36.112376 (Thread-4): 05:02:36  On seed.my_new_project.demo_seed_transaction_status: /* {"app": "dbt", "dbt_version": "1.2.2", "profile_name": "user", "target_name": "default", "node_id": "seed.my_new_project.demo_seed_transaction_status"} */
+insert into PC_DBT_DB.dbt_mhoss2008.demo_seed_transaction_status (id, Description) values
+            (%s,%s),(%s,%s),(%s,%s),(%s,%s),(%s,%s),(%s,%s),(%s,%s),(%s,%s),(%s,%s),(%s,%s),(%s,%s),(%s,%s),(%s,%s),(%s,%s),(%s,%s),(%s,%s),(%s,%s),(%s,%s),(%s,%s),(%s,%s),(%s,%s),(%s,%s),(%s,%s),(%s,%s),(%s,%s),(%s,%s),(%s,%s),(%s,%s),(%s,%s),(%s,%s),(%s,%s),(%s,...
+2022-10-10 05:02:36.203612 (Thread-1): 05:02:36  SQL status: SUCCESS 1 in 0.16 seconds
+2022-10-10 05:02:36.314239 (Thread-534): handling poll request
+2022-10-10 05:02:36.314605 (Thread-534): 05:02:36  Sending event: {'category': 'dbt', 'action': 'rpc_request', 'label': '68776726-190a-46dc-a4df-44ca4414331f', 'context': [<snowplow_tracker.self_describing_json.SelfDescribingJson object at 0x7fd719f09e50>]}
+2022-10-10 05:02:36.315725 (Thread-534): sending response (<Response 21708 bytes [200 OK]>) to 10.0.10.11
+2022-10-10 05:02:36.694182 (Thread-4): 05:02:36  SQL status: SUCCESS 152 in 0.58 seconds
+2022-10-10 05:02:36.694473 (Thread-4): 05:02:36  Using snowflake connection "seed.my_new_project.demo_seed_transaction_status"
+2022-10-10 05:02:36.694565 (Thread-4): 05:02:36  On seed.my_new_project.demo_seed_transaction_status: /* {"app": "dbt", "dbt_version": "1.2.2", "profile_name": "user", "target_name": "default", "node_id": "seed.my_new_project.demo_seed_transaction_status"} */
+COMMIT
+2022-10-10 05:02:37.011056 (Thread-4): 05:02:37  SQL status: SUCCESS 1 in 0.32 seconds
+2022-10-10 05:02:37.011690 (Thread-4): 05:02:37  Writing runtime SQL for node "seed.my_new_project.demo_seed_transaction_status"
+2022-10-10 05:02:37.142595 (Thread-4): 05:02:37  finished collecting timing info
+2022-10-10 05:02:37.142797 (Thread-4): 05:02:37  On seed.my_new_project.demo_seed_transaction_status: Close
+2022-10-10 05:02:37.500286 (Thread-4): 05:02:37  Sending event: {'category': 'dbt', 'action': 'run_model', 'label': '4897b679-bd9b-4a18-bbac-3d04ccd9992d', 'context': [<snowplow_tracker.self_describing_json.SelfDescribingJson object at 0x7f13433b3610>]}
+2022-10-10 05:02:37.500632 (Thread-4): 05:02:37  12 of 15 OK loaded seed file dbt_mhoss2008.demo_seed_transaction_status ........ [INSERT 152 in 6.34s]
+2022-10-10 05:02:37.500852 (Thread-4): 05:02:37  Finished running node seed.my_new_project.demo_seed_transaction_status
+2022-10-10 05:02:37.501003 (Thread-4): 05:02:37  Began running node seed.my_new_project.seed_company_names_list
+2022-10-10 05:02:37.501231 (Thread-4): 05:02:37  14 of 15 START seed file dbt_mhoss2008.seed_company_names_list ................. [RUN]
+2022-10-10 05:02:37.501490 (Thread-4): 05:02:37  Acquiring new snowflake connection "seed.my_new_project.seed_company_names_list"
+2022-10-10 05:02:37.501585 (Thread-4): 05:02:37  Began compiling node seed.my_new_project.seed_company_names_list
+2022-10-10 05:02:37.501674 (Thread-4): 05:02:37  finished collecting timing info
+2022-10-10 05:02:37.501772 (Thread-4): 05:02:37  Began executing node seed.my_new_project.seed_company_names_list
+2022-10-10 05:02:37.503674 (Thread-4): 05:02:37  Using snowflake connection "seed.my_new_project.seed_company_names_list"
+2022-10-10 05:02:37.503779 (Thread-4): 05:02:37  On seed.my_new_project.seed_company_names_list: /* {"app": "dbt", "dbt_version": "1.2.2", "profile_name": "user", "target_name": "default", "node_id": "seed.my_new_project.seed_company_names_list"} */
+show parameters like 'query_tag' in session
+2022-10-10 05:02:37.503861 (Thread-4): 05:02:37  Opening a new connection, currently in state closed
+2022-10-10 05:02:37.595987 (Thread-535): handling poll request
+2022-10-10 05:02:37.596338 (Thread-535): 05:02:37  Sending event: {'category': 'dbt', 'action': 'rpc_request', 'label': '68776726-190a-46dc-a4df-44ca4414331f', 'context': [<snowplow_tracker.self_describing_json.SelfDescribingJson object at 0x7fd719f2a700>]}
+2022-10-10 05:02:37.597025 (Thread-535): sending response (<Response 8678 bytes [200 OK]>) to 10.0.10.11
+2022-10-10 05:02:37.670166 (Thread-1): 05:02:37  Using snowflake connection "seed.my_new_project.demo_seed_netsuite_nexttransactionlink"
+2022-10-10 05:02:37.670349 (Thread-1): 05:02:37  On seed.my_new_project.demo_seed_netsuite_nexttransactionlink: /* {"app": "dbt", "dbt_version": "1.2.2", "profile_name": "user", "target_name": "default", "node_id": "seed.my_new_project.demo_seed_netsuite_nexttransactionlink"} */
+insert into PC_DBT_DB.dbt_mhoss2008.demo_seed_netsuite_nexttransactionlink (nextdoc, previousdoc, _FIVETRAN_DELETED) values
+            (%s,%s,%s),(%s,%s,%s),(%s,%s,%s),(%s,%s,%s),(%s,%s,%s),(%s,%s,%s),(%s,%s,%s),(%s,%s,%s),(%s,%s,%s),(%s,%s,%s),(%s,%s,%s),(%s,%s,%s),(%s,%s,%s),(%s,%s,%s),(%s,%s,%s),(%s,%s,%s),(%s,%s,%s),(%s,%s,%s),(%s,%s,%s)...
+2022-10-10 05:02:38.868892 (Thread-536): handling poll request
+2022-10-10 05:02:38.869296 (Thread-536): 05:02:38  Sending event: {'category': 'dbt', 'action': 'rpc_request', 'label': '68776726-190a-46dc-a4df-44ca4414331f', 'context': [<snowplow_tracker.self_describing_json.SelfDescribingJson object at 0x7fd719f2a910>]}
+2022-10-10 05:02:38.869814 (Thread-536): sending response (<Response 1629 bytes [200 OK]>) to 10.0.10.11
+2022-10-10 05:02:39.346483 (Thread-3): 05:02:39  SQL status: SUCCESS 1 in 3.27 seconds
+2022-10-10 05:02:39.347671 (Thread-3): 05:02:39  Setting query_tag to 'netsuite_status_codes'. Will reset to '' after materialization.
+2022-10-10 05:02:39.348163 (Thread-3): 05:02:39  Using snowflake connection "seed.my_new_project.netsuite_status_codes"
+2022-10-10 05:02:39.348264 (Thread-3): 05:02:39  On seed.my_new_project.netsuite_status_codes: /* {"app": "dbt", "dbt_version": "1.2.2", "profile_name": "user", "target_name": "default", "node_id": "seed.my_new_project.netsuite_status_codes"} */
+alter session set query_tag = 'netsuite_status_codes'
+2022-10-10 05:02:39.515702 (Thread-3): 05:02:39  SQL status: SUCCESS 1 in 0.17 seconds
+2022-10-10 05:02:39.578650 (Thread-3): 05:02:39  Using snowflake connection "seed.my_new_project.netsuite_status_codes"
+2022-10-10 05:02:39.578805 (Thread-3): 05:02:39  On seed.my_new_project.netsuite_status_codes: /* {"app": "dbt", "dbt_version": "1.2.2", "profile_name": "user", "target_name": "default", "node_id": "seed.my_new_project.netsuite_status_codes"} */
+BEGIN
+2022-10-10 05:02:39.762123 (Thread-3): 05:02:39  SQL status: SUCCESS 1 in 0.18 seconds
+2022-10-10 05:02:39.762327 (Thread-3): 05:02:39  Using snowflake connection "seed.my_new_project.netsuite_status_codes"
+2022-10-10 05:02:39.762409 (Thread-3): 05:02:39  On seed.my_new_project.netsuite_status_codes: /* {"app": "dbt", "dbt_version": "1.2.2", "profile_name": "user", "target_name": "default", "node_id": "seed.my_new_project.netsuite_status_codes"} */
+truncate table "PC_DBT_DB"."DBT_MHOSS2008"."NETSUITE_STATUS_CODES"
+  ;
+2022-10-10 05:02:40.042265 (Thread-4): 05:02:40  SQL status: SUCCESS 1 in 2.54 seconds
+2022-10-10 05:02:40.043456 (Thread-4): 05:02:40  Setting query_tag to 'seed_company_names_list'. Will reset to '' after materialization.
+2022-10-10 05:02:40.043923 (Thread-4): 05:02:40  Using snowflake connection "seed.my_new_project.seed_company_names_list"
+2022-10-10 05:02:40.044020 (Thread-4): 05:02:40  On seed.my_new_project.seed_company_names_list: /* {"app": "dbt", "dbt_version": "1.2.2", "profile_name": "user", "target_name": "default", "node_id": "seed.my_new_project.seed_company_names_list"} */
+alter session set query_tag = 'seed_company_names_list'
+2022-10-10 05:02:40.133432 (Thread-537): handling poll request
+2022-10-10 05:02:40.133871 (Thread-537): 05:02:40  Sending event: {'category': 'dbt', 'action': 'rpc_request', 'label': '68776726-190a-46dc-a4df-44ca4414331f', 'context': [<snowplow_tracker.self_describing_json.SelfDescribingJson object at 0x7fd719f2afa0>]}
+2022-10-10 05:02:40.134550 (Thread-537): sending response (<Response 6298 bytes [200 OK]>) to 10.0.10.11
+2022-10-10 05:02:40.142434 (Thread-3): 05:02:40  SQL status: SUCCESS 1 in 0.38 seconds
+2022-10-10 05:02:40.142686 (Thread-3): 05:02:40  Using snowflake connection "seed.my_new_project.netsuite_status_codes"
+2022-10-10 05:02:40.142770 (Thread-3): 05:02:40  On seed.my_new_project.netsuite_status_codes: /* {"app": "dbt", "dbt_version": "1.2.2", "profile_name": "user", "target_name": "default", "node_id": "seed.my_new_project.netsuite_status_codes"} */
+COMMIT
+2022-10-10 05:02:40.196597 (Thread-4): 05:02:40  SQL status: SUCCESS 1 in 0.15 seconds
+2022-10-10 05:02:40.252862 (Thread-4): 05:02:40  Using snowflake connection "seed.my_new_project.seed_company_names_list"
+2022-10-10 05:02:40.253023 (Thread-4): 05:02:40  On seed.my_new_project.seed_company_names_list: /* {"app": "dbt", "dbt_version": "1.2.2", "profile_name": "user", "target_name": "default", "node_id": "seed.my_new_project.seed_company_names_list"} */
+BEGIN
+2022-10-10 05:02:40.418996 (Thread-4): 05:02:40  SQL status: SUCCESS 1 in 0.17 seconds
+2022-10-10 05:02:40.419260 (Thread-4): 05:02:40  Using snowflake connection "seed.my_new_project.seed_company_names_list"
+2022-10-10 05:02:40.419354 (Thread-4): 05:02:40  On seed.my_new_project.seed_company_names_list: /* {"app": "dbt", "dbt_version": "1.2.2", "profile_name": "user", "target_name": "default", "node_id": "seed.my_new_project.seed_company_names_list"} */
+truncate table "PC_DBT_DB"."DBT_MHOSS2008"."SEED_COMPANY_NAMES_LIST"
+  ;
+2022-10-10 05:02:40.442177 (Thread-3): 05:02:40  SQL status: SUCCESS 1 in 0.3 seconds
+2022-10-10 05:02:40.445826 (Thread-3): 05:02:40  Using snowflake connection "seed.my_new_project.netsuite_status_codes"
+2022-10-10 05:02:40.445940 (Thread-3): 05:02:40  On seed.my_new_project.netsuite_status_codes: /* {"app": "dbt", "dbt_version": "1.2.2", "profile_name": "user", "target_name": "default", "node_id": "seed.my_new_project.netsuite_status_codes"} */
+BEGIN
+2022-10-10 05:02:40.608035 (Thread-3): 05:02:40  SQL status: SUCCESS 1 in 0.16 seconds
+2022-10-10 05:02:40.609797 (Thread-3): 05:02:40  Using snowflake connection "seed.my_new_project.netsuite_status_codes"
+2022-10-10 05:02:40.609895 (Thread-3): 05:02:40  On seed.my_new_project.netsuite_status_codes: /* {"app": "dbt", "dbt_version": "1.2.2", "profile_name": "user", "target_name": "default", "node_id": "seed.my_new_project.netsuite_status_codes"} */
+insert into PC_DBT_DB.dbt_mhoss2008.netsuite_status_codes (id, Description) values
+            (%s,%s),(%s,%s),(%s,%s),(%s,%s),(%s,%s),(%s,%s),(%s,%s),(%s,%s),(%s,%s),(%s,%s),(%s,%s),(%s,%s),(%s,%s),(%s,%s),(%s,%s),(%s,%s),(%s,%s),(%s,%s),(%s,%s),(%s,%s),(%s,%s),(%s,%s),(%s,%s),(%s,%s),(%s,%s),(%s,%s),(%s,%s),(%s,%s),(%s,%s),(%s,%s),(%s,%s),(%s,%s),(%s,%s),(%...
+2022-10-10 05:02:40.753176 (Thread-4): 05:02:40  SQL status: SUCCESS 1 in 0.33 seconds
+2022-10-10 05:02:40.753431 (Thread-4): 05:02:40  Using snowflake connection "seed.my_new_project.seed_company_names_list"
+2022-10-10 05:02:40.753518 (Thread-4): 05:02:40  On seed.my_new_project.seed_company_names_list: /* {"app": "dbt", "dbt_version": "1.2.2", "profile_name": "user", "target_name": "default", "node_id": "seed.my_new_project.seed_company_names_list"} */
+COMMIT
+2022-10-10 05:02:41.052211 (Thread-4): 05:02:41  SQL status: SUCCESS 1 in 0.3 seconds
+2022-10-10 05:02:41.072815 (Thread-4): 05:02:41  Using snowflake connection "seed.my_new_project.seed_company_names_list"
+2022-10-10 05:02:41.072962 (Thread-4): 05:02:41  On seed.my_new_project.seed_company_names_list: /* {"app": "dbt", "dbt_version": "1.2.2", "profile_name": "user", "target_name": "default", "node_id": "seed.my_new_project.seed_company_names_list"} */
+BEGIN
+2022-10-10 05:02:41.160833 (Thread-3): 05:02:41  SQL status: SUCCESS 152 in 0.55 seconds
+2022-10-10 05:02:41.161233 (Thread-3): 05:02:41  Using snowflake connection "seed.my_new_project.netsuite_status_codes"
+2022-10-10 05:02:41.161373 (Thread-3): 05:02:41  On seed.my_new_project.netsuite_status_codes: /* {"app": "dbt", "dbt_version": "1.2.2", "profile_name": "user", "target_name": "default", "node_id": "seed.my_new_project.netsuite_status_codes"} */
+COMMIT
+2022-10-10 05:02:41.255395 (Thread-4): 05:02:41  SQL status: SUCCESS 1 in 0.18 seconds
+2022-10-10 05:02:41.277764 (Thread-4): 05:02:41  Using snowflake connection "seed.my_new_project.seed_company_names_list"
+2022-10-10 05:02:41.277925 (Thread-4): 05:02:41  On seed.my_new_project.seed_company_names_list: /* {"app": "dbt", "dbt_version": "1.2.2", "profile_name": "user", "target_name": "default", "node_id": "seed.my_new_project.seed_company_names_list"} */
+insert into PC_DBT_DB.dbt_mhoss2008.seed_company_names_list (id, street, City, State, Zip) values
+            (%s,%s,%s,%s,%s),(%s,%s,%s,%s,%s),(%s,%s,%s,%s,%s),(%s,%s,%s,%s,%s),(%s,%s,%s,%s,%s),(%s,%s,%s,%s,%s),(%s,%s,%s,%s,%s),(%s,%s,%s,%s,%s),(%s,%s,%s,%s,%s),(%s,%s,%s,%s,%s),(%s,%s,%s,%s,%s),(%s,%s,%s,%s,%s),(%s,%s,%s,%s,%s),(%s,%s,%s,%s,%s),(%s,%s,%s,%...
+2022-10-10 05:02:41.412518 (Thread-3): 05:02:41  SQL status: SUCCESS 1 in 0.25 seconds
+2022-10-10 05:02:41.413115 (Thread-3): 05:02:41  Writing runtime SQL for node "seed.my_new_project.netsuite_status_codes"
+2022-10-10 05:02:41.444323 (Thread-538): handling poll request
+2022-10-10 05:02:41.444706 (Thread-538): 05:02:41  Sending event: {'category': 'dbt', 'action': 'rpc_request', 'label': '68776726-190a-46dc-a4df-44ca4414331f', 'context': [<snowplow_tracker.self_describing_json.SelfDescribingJson object at 0x7fd719ec2c40>]}
+2022-10-10 05:02:41.445522 (Thread-538): sending response (<Response 13203 bytes [200 OK]>) to 10.0.10.11
+2022-10-10 05:02:41.462543 (Thread-3): 05:02:41  finished collecting timing info
+2022-10-10 05:02:41.462766 (Thread-3): 05:02:41  On seed.my_new_project.netsuite_status_codes: Close
+2022-10-10 05:02:41.749800 (Thread-3): 05:02:41  Sending event: {'category': 'dbt', 'action': 'run_model', 'label': '4897b679-bd9b-4a18-bbac-3d04ccd9992d', 'context': [<snowplow_tracker.self_describing_json.SelfDescribingJson object at 0x7f138829ee50>]}
+2022-10-10 05:02:41.750149 (Thread-3): 05:02:41  13 of 15 OK loaded seed file dbt_mhoss2008.netsuite_status_codes ............... [INSERT 152 in 5.68s]
+2022-10-10 05:02:41.750381 (Thread-3): 05:02:41  Finished running node seed.my_new_project.netsuite_status_codes
+2022-10-10 05:02:41.750537 (Thread-3): 05:02:41  Began running node seed.my_new_project.seed_employee_name_list
+2022-10-10 05:02:41.750765 (Thread-3): 05:02:41  15 of 15 START seed file dbt_mhoss2008.seed_employee_name_list ................. [RUN]
+2022-10-10 05:02:41.751028 (Thread-3): 05:02:41  Acquiring new snowflake connection "seed.my_new_project.seed_employee_name_list"
+2022-10-10 05:02:41.751138 (Thread-3): 05:02:41  Began compiling node seed.my_new_project.seed_employee_name_list
+2022-10-10 05:02:41.751248 (Thread-3): 05:02:41  finished collecting timing info
+2022-10-10 05:02:41.751350 (Thread-3): 05:02:41  Began executing node seed.my_new_project.seed_employee_name_list
+2022-10-10 05:02:41.754502 (Thread-3): 05:02:41  Using snowflake connection "seed.my_new_project.seed_employee_name_list"
+2022-10-10 05:02:41.754608 (Thread-3): 05:02:41  On seed.my_new_project.seed_employee_name_list: /* {"app": "dbt", "dbt_version": "1.2.2", "profile_name": "user", "target_name": "default", "node_id": "seed.my_new_project.seed_employee_name_list"} */
+show parameters like 'query_tag' in session
+2022-10-10 05:02:41.754691 (Thread-3): 05:02:41  Opening a new connection, currently in state closed
+2022-10-10 05:02:41.893335 (Thread-4): 05:02:41  SQL status: SUCCESS 500 in 0.62 seconds
+2022-10-10 05:02:41.893648 (Thread-4): 05:02:41  Using snowflake connection "seed.my_new_project.seed_company_names_list"
+2022-10-10 05:02:41.893745 (Thread-4): 05:02:41  On seed.my_new_project.seed_company_names_list: /* {"app": "dbt", "dbt_version": "1.2.2", "profile_name": "user", "target_name": "default", "node_id": "seed.my_new_project.seed_company_names_list"} */
+COMMIT
+2022-10-10 05:02:42.186385 (Thread-4): 05:02:42  SQL status: SUCCESS 1 in 0.29 seconds
+2022-10-10 05:02:42.187017 (Thread-4): 05:02:42  Writing runtime SQL for node "seed.my_new_project.seed_company_names_list"
+2022-10-10 05:02:42.260495 (Thread-4): 05:02:42  finished collecting timing info
+2022-10-10 05:02:42.260673 (Thread-4): 05:02:42  On seed.my_new_project.seed_company_names_list: Close
+2022-10-10 05:02:42.559053 (Thread-4): 05:02:42  Sending event: {'category': 'dbt', 'action': 'run_model', 'label': '4897b679-bd9b-4a18-bbac-3d04ccd9992d', 'context': [<snowplow_tracker.self_describing_json.SelfDescribingJson object at 0x7f138ab72a90>]}
+2022-10-10 05:02:42.559410 (Thread-4): 05:02:42  14 of 15 OK loaded seed file dbt_mhoss2008.seed_company_names_list ............. [INSERT 500 in 5.06s]
+2022-10-10 05:02:42.559634 (Thread-4): 05:02:42  Finished running node seed.my_new_project.seed_company_names_list
+2022-10-10 05:02:42.721275 (Thread-539): handling poll request
+2022-10-10 05:02:42.721618 (Thread-539): 05:02:42  Sending event: {'category': 'dbt', 'action': 'rpc_request', 'label': '68776726-190a-46dc-a4df-44ca4414331f', 'context': [<snowplow_tracker.self_describing_json.SelfDescribingJson object at 0x7fd719f2ae20>]}
+2022-10-10 05:02:42.747453 (Thread-539): sending response (<Response 10829 bytes [200 OK]>) to 10.0.10.11
+2022-10-10 05:02:43.862658 (Thread-3): 05:02:43  SQL status: SUCCESS 1 in 2.11 seconds
+2022-10-10 05:02:43.863905 (Thread-3): 05:02:43  Setting query_tag to 'seed_employee_name_list'. Will reset to '' after materialization.
+2022-10-10 05:02:43.864494 (Thread-3): 05:02:43  Using snowflake connection "seed.my_new_project.seed_employee_name_list"
+2022-10-10 05:02:43.864599 (Thread-3): 05:02:43  On seed.my_new_project.seed_employee_name_list: /* {"app": "dbt", "dbt_version": "1.2.2", "profile_name": "user", "target_name": "default", "node_id": "seed.my_new_project.seed_employee_name_list"} */
+alter session set query_tag = 'seed_employee_name_list'
+2022-10-10 05:02:44.017626 (Thread-540): handling poll request
+2022-10-10 05:02:44.018009 (Thread-540): 05:02:44  Sending event: {'category': 'dbt', 'action': 'rpc_request', 'label': '68776726-190a-46dc-a4df-44ca4414331f', 'context': [<snowplow_tracker.self_describing_json.SelfDescribingJson object at 0x7fd719e120d0>]}
+2022-10-10 05:02:44.018557 (Thread-540): sending response (<Response 2007 bytes [200 OK]>) to 10.0.10.11
+2022-10-10 05:02:44.025982 (Thread-3): 05:02:44  SQL status: SUCCESS 1 in 0.16 seconds
+2022-10-10 05:02:44.106405 (Thread-3): 05:02:44  Using snowflake connection "seed.my_new_project.seed_employee_name_list"
+2022-10-10 05:02:44.106554 (Thread-3): 05:02:44  On seed.my_new_project.seed_employee_name_list: /* {"app": "dbt", "dbt_version": "1.2.2", "profile_name": "user", "target_name": "default", "node_id": "seed.my_new_project.seed_employee_name_list"} */
+BEGIN
+2022-10-10 05:02:44.272574 (Thread-3): 05:02:44  SQL status: SUCCESS 1 in 0.17 seconds
+2022-10-10 05:02:44.272788 (Thread-3): 05:02:44  Using snowflake connection "seed.my_new_project.seed_employee_name_list"
+2022-10-10 05:02:44.272876 (Thread-3): 05:02:44  On seed.my_new_project.seed_employee_name_list: /* {"app": "dbt", "dbt_version": "1.2.2", "profile_name": "user", "target_name": "default", "node_id": "seed.my_new_project.seed_employee_name_list"} */
+truncate table "PC_DBT_DB"."DBT_MHOSS2008"."SEED_EMPLOYEE_NAME_LIST"
+  ;
+2022-10-10 05:02:44.793592 (Thread-3): 05:02:44  SQL status: SUCCESS 1 in 0.52 seconds
+2022-10-10 05:02:44.793846 (Thread-3): 05:02:44  Using snowflake connection "seed.my_new_project.seed_employee_name_list"
+2022-10-10 05:02:44.793935 (Thread-3): 05:02:44  On seed.my_new_project.seed_employee_name_list: /* {"app": "dbt", "dbt_version": "1.2.2", "profile_name": "user", "target_name": "default", "node_id": "seed.my_new_project.seed_employee_name_list"} */
+COMMIT
+2022-10-10 05:02:45.095395 (Thread-3): 05:02:45  SQL status: SUCCESS 1 in 0.3 seconds
+2022-10-10 05:02:45.119300 (Thread-3): 05:02:45  Using snowflake connection "seed.my_new_project.seed_employee_name_list"
+2022-10-10 05:02:45.119444 (Thread-3): 05:02:45  On seed.my_new_project.seed_employee_name_list: /* {"app": "dbt", "dbt_version": "1.2.2", "profile_name": "user", "target_name": "default", "node_id": "seed.my_new_project.seed_employee_name_list"} */
+BEGIN
+2022-10-10 05:02:45.280157 (Thread-541): handling poll request
+2022-10-10 05:02:45.280568 (Thread-541): 05:02:45  Sending event: {'category': 'dbt', 'action': 'rpc_request', 'label': '68776726-190a-46dc-a4df-44ca4414331f', 'context': [<snowplow_tracker.self_describing_json.SelfDescribingJson object at 0x7fd719e12730>]}
+2022-10-10 05:02:45.281200 (Thread-541): sending response (<Response 5446 bytes [200 OK]>) to 10.0.10.11
+2022-10-10 05:02:45.276891 (Thread-3): 05:02:45  SQL status: SUCCESS 1 in 0.16 seconds
+2022-10-10 05:02:45.303986 (Thread-3): 05:02:45  Using snowflake connection "seed.my_new_project.seed_employee_name_list"
+2022-10-10 05:02:45.304171 (Thread-3): 05:02:45  On seed.my_new_project.seed_employee_name_list: /* {"app": "dbt", "dbt_version": "1.2.2", "profile_name": "user", "target_name": "default", "node_id": "seed.my_new_project.seed_employee_name_list"} */
+insert into PC_DBT_DB.dbt_mhoss2008.seed_employee_name_list (firstname, lastname) values
+            (%s,%s),(%s,%s),(%s,%s),(%s,%s),(%s,%s),(%s,%s),(%s,%s),(%s,%s),(%s,%s),(%s,%s),(%s,%s),(%s,%s),(%s,%s),(%s,%s),(%s,%s),(%s,%s),(%s,%s),(%s,%s),(%s,%s),(%s,%s),(%s,%s),(%s,%s),(%s,%s),(%s,%s),(%s,%s),(%s,%s),(%s,%s),(%s,%s),(%s,%s),(%s,%s),(%s,%s),(%s,%s),(%...
+2022-10-10 05:02:45.390006 (Thread-1): 05:02:45  SQL status: SUCCESS 10000 in 7.72 seconds
+2022-10-10 05:02:45.390527 (Thread-1): 05:02:45  Using snowflake connection "seed.my_new_project.demo_seed_netsuite_nexttransactionlink"
+2022-10-10 05:02:45.390656 (Thread-1): 05:02:45  On seed.my_new_project.demo_seed_netsuite_nexttransactionlink: /* {"app": "dbt", "dbt_version": "1.2.2", "profile_name": "user", "target_name": "default", "node_id": "seed.my_new_project.demo_seed_netsuite_nexttransactionlink"} */
+COMMIT
+2022-10-10 05:02:45.678684 (Thread-1): 05:02:45  SQL status: SUCCESS 1 in 0.29 seconds
+2022-10-10 05:02:45.837144 (Thread-3): 05:02:45  SQL status: SUCCESS 1000 in 0.53 seconds
+2022-10-10 05:02:45.837452 (Thread-3): 05:02:45  Using snowflake connection "seed.my_new_project.seed_employee_name_list"
+2022-10-10 05:02:45.837547 (Thread-3): 05:02:45  On seed.my_new_project.seed_employee_name_list: /* {"app": "dbt", "dbt_version": "1.2.2", "profile_name": "user", "target_name": "default", "node_id": "seed.my_new_project.seed_employee_name_list"} */
+COMMIT
+2022-10-10 05:02:45.940032 (Thread-1): 05:02:45  Using snowflake connection "seed.my_new_project.demo_seed_netsuite_nexttransactionlink"
+2022-10-10 05:02:45.940232 (Thread-1): 05:02:45  On seed.my_new_project.demo_seed_netsuite_nexttransactionlink: /* {"app": "dbt", "dbt_version": "1.2.2", "profile_name": "user", "target_name": "default", "node_id": "seed.my_new_project.demo_seed_netsuite_nexttransactionlink"} */
+BEGIN
+2022-10-10 05:02:46.090430 (Thread-1): 05:02:46  SQL status: SUCCESS 1 in 0.15 seconds
+2022-10-10 05:02:46.177578 (Thread-3): 05:02:46  SQL status: SUCCESS 1 in 0.34 seconds
+2022-10-10 05:02:46.178201 (Thread-3): 05:02:46  Writing runtime SQL for node "seed.my_new_project.seed_employee_name_list"
+2022-10-10 05:02:46.231058 (Thread-3): 05:02:46  finished collecting timing info
+2022-10-10 05:02:46.231260 (Thread-3): 05:02:46  On seed.my_new_project.seed_employee_name_list: Close
+2022-10-10 05:02:46.551110 (Thread-542): handling poll request
+2022-10-10 05:02:46.551561 (Thread-542): 05:02:46  Sending event: {'category': 'dbt', 'action': 'rpc_request', 'label': '68776726-190a-46dc-a4df-44ca4414331f', 'context': [<snowplow_tracker.self_describing_json.SelfDescribingJson object at 0x7fd719e23310>]}
+2022-10-10 05:02:46.552335 (Thread-542): sending response (<Response 7870 bytes [200 OK]>) to 10.0.10.11
+2022-10-10 05:02:46.588417 (Thread-3): 05:02:46  Sending event: {'category': 'dbt', 'action': 'run_model', 'label': '4897b679-bd9b-4a18-bbac-3d04ccd9992d', 'context': [<snowplow_tracker.self_describing_json.SelfDescribingJson object at 0x7f1340586d00>]}
+2022-10-10 05:02:46.588730 (Thread-3): 05:02:46  15 of 15 OK loaded seed file dbt_mhoss2008.seed_employee_name_list ............. [INSERT 1000 in 4.84s]
+2022-10-10 05:02:46.588970 (Thread-3): 05:02:46  Finished running node seed.my_new_project.seed_employee_name_list
+2022-10-10 05:02:47.426433 (Thread-1): 05:02:47  Using snowflake connection "seed.my_new_project.demo_seed_netsuite_nexttransactionlink"
+2022-10-10 05:02:47.426614 (Thread-1): 05:02:47  On seed.my_new_project.demo_seed_netsuite_nexttransactionlink: /* {"app": "dbt", "dbt_version": "1.2.2", "profile_name": "user", "target_name": "default", "node_id": "seed.my_new_project.demo_seed_netsuite_nexttransactionlink"} */
+insert into PC_DBT_DB.dbt_mhoss2008.demo_seed_netsuite_nexttransactionlink (nextdoc, previousdoc, _FIVETRAN_DELETED) values
+            (%s,%s,%s),(%s,%s,%s),(%s,%s,%s),(%s,%s,%s),(%s,%s,%s),(%s,%s,%s),(%s,%s,%s),(%s,%s,%s),(%s,%s,%s),(%s,%s,%s),(%s,%s,%s),(%s,%s,%s),(%s,%s,%s),(%s,%s,%s),(%s,%s,%s),(%s,%s,%s),(%s,%s,%s),(%s,%s,%s),(%s,%s,%s)...
+2022-10-10 05:02:47.808551 (Thread-543): handling poll request
+2022-10-10 05:02:47.808967 (Thread-543): 05:02:47  Sending event: {'category': 'dbt', 'action': 'rpc_request', 'label': '68776726-190a-46dc-a4df-44ca4414331f', 'context': [<snowplow_tracker.self_describing_json.SelfDescribingJson object at 0x7fd719e237c0>]}
+2022-10-10 05:02:47.809536 (Thread-543): sending response (<Response 3022 bytes [200 OK]>) to 10.0.10.11
+2022-10-10 05:02:48.891058 (Thread-1): 05:02:48  SQL status: SUCCESS 9992 in 1.46 seconds
+2022-10-10 05:02:48.891564 (Thread-1): 05:02:48  Using snowflake connection "seed.my_new_project.demo_seed_netsuite_nexttransactionlink"
+2022-10-10 05:02:48.891699 (Thread-1): 05:02:48  On seed.my_new_project.demo_seed_netsuite_nexttransactionlink: /* {"app": "dbt", "dbt_version": "1.2.2", "profile_name": "user", "target_name": "default", "node_id": "seed.my_new_project.demo_seed_netsuite_nexttransactionlink"} */
+COMMIT
+2022-10-10 05:02:49.084404 (Thread-544): handling poll request
+2022-10-10 05:02:49.084810 (Thread-544): 05:02:49  Sending event: {'category': 'dbt', 'action': 'rpc_request', 'label': '68776726-190a-46dc-a4df-44ca4414331f', 'context': [<snowplow_tracker.self_describing_json.SelfDescribingJson object at 0x7fd719e23970>]}
+2022-10-10 05:02:49.085355 (Thread-544): sending response (<Response 1653 bytes [200 OK]>) to 10.0.10.11
+2022-10-10 05:02:49.296915 (Thread-1): 05:02:49  SQL status: SUCCESS 1 in 0.41 seconds
+2022-10-10 05:02:49.298200 (Thread-1): 05:02:49  Writing runtime SQL for node "seed.my_new_project.demo_seed_netsuite_nexttransactionlink"
+2022-10-10 05:02:49.358344 (Thread-1): 05:02:49  finished collecting timing info
+2022-10-10 05:02:49.358530 (Thread-1): 05:02:49  On seed.my_new_project.demo_seed_netsuite_nexttransactionlink: Close
+2022-10-10 05:02:49.643697 (Thread-1): 05:02:49  Sending event: {'category': 'dbt', 'action': 'run_model', 'label': '4897b679-bd9b-4a18-bbac-3d04ccd9992d', 'context': [<snowplow_tracker.self_describing_json.SelfDescribingJson object at 0x7f13433b34f0>]}
+2022-10-10 05:02:49.644018 (Thread-1): 05:02:49  7 of 15 OK loaded seed file dbt_mhoss2008.demo_seed_netsuite_nexttransactionlink  [INSERT 49992 in 28.84s]
+2022-10-10 05:02:49.644267 (Thread-1): 05:02:49  Finished running node seed.my_new_project.demo_seed_netsuite_nexttransactionlink
+2022-10-10 05:02:50.346962 (Thread-545): handling poll request
+2022-10-10 05:02:50.347436 (Thread-545): 05:02:50  Sending event: {'category': 'dbt', 'action': 'rpc_request', 'label': '68776726-190a-46dc-a4df-44ca4414331f', 'context': [<snowplow_tracker.self_describing_json.SelfDescribingJson object at 0x7fd719e23d30>]}
+2022-10-10 05:02:50.348049 (Thread-545): sending response (<Response 3422 bytes [200 OK]>) to 10.0.10.11
+2022-10-10 05:02:51.618481 (Thread-546): handling poll request
+2022-10-10 05:02:51.618879 (Thread-546): 05:02:51  Sending event: {'category': 'dbt', 'action': 'rpc_request', 'label': '68776726-190a-46dc-a4df-44ca4414331f', 'context': [<snowplow_tracker.self_describing_json.SelfDescribingJson object at 0x7fd719e239d0>]}
+2022-10-10 05:02:51.619406 (Thread-546): sending response (<Response 290 bytes [200 OK]>) to 10.0.10.11
+2022-10-10 05:02:52.898798 (Thread-547): handling poll request
+2022-10-10 05:02:52.899238 (Thread-547): 05:02:52  Sending event: {'category': 'dbt', 'action': 'rpc_request', 'label': '68776726-190a-46dc-a4df-44ca4414331f', 'context': [<snowplow_tracker.self_describing_json.SelfDescribingJson object at 0x7fd719e23c40>]}
+2022-10-10 05:02:52.899749 (Thread-547): sending response (<Response 290 bytes [200 OK]>) to 10.0.10.11
+2022-10-10 05:02:54.173598 (Thread-548): handling poll request
+2022-10-10 05:02:54.174017 (Thread-548): 05:02:54  Sending event: {'category': 'dbt', 'action': 'rpc_request', 'label': '68776726-190a-46dc-a4df-44ca4414331f', 'context': [<snowplow_tracker.self_describing_json.SelfDescribingJson object at 0x7fd719d45190>]}
+2022-10-10 05:02:54.174510 (Thread-548): sending response (<Response 290 bytes [200 OK]>) to 10.0.10.11
+2022-10-10 05:02:54.231017 (Thread-2): 05:02:54  Using snowflake connection "seed.my_new_project.demo_seed_netsuite_transactions"
+2022-10-10 05:02:54.231232 (Thread-2): 05:02:54  On seed.my_new_project.demo_seed_netsuite_transactions: /* {"app": "dbt", "dbt_version": "1.2.2", "profile_name": "user", "target_name": "default", "node_id": "seed.my_new_project.demo_seed_netsuite_transactions"} */
+insert into PC_DBT_DB.dbt_mhoss2008.demo_seed_netsuite_transactions (id, type, status, createdby, createddate, duedate, lastmodifieddate, number, shipdate, trandate, tranid, transactionnumber, typebaseddocumentnumber, void, voided, shippingaddress, entity, Previous_transaction_id) values
+            (%s,%s,%s,%s,%s,%s,%s,%s,%s,%s,%s,%s,%s,%s,%s,%s,%...
+2022-10-10 05:02:55.438230 (Thread-549): handling poll request
+2022-10-10 05:02:55.438677 (Thread-549): 05:02:55  Sending event: {'category': 'dbt', 'action': 'rpc_request', 'label': '68776726-190a-46dc-a4df-44ca4414331f', 'context': [<snowplow_tracker.self_describing_json.SelfDescribingJson object at 0x7fd719e23580>]}
+2022-10-10 05:02:55.439244 (Thread-549): sending response (<Response 1601 bytes [200 OK]>) to 10.0.10.11
+2022-10-10 05:02:56.696385 (Thread-550): handling poll request
+2022-10-10 05:02:56.696786 (Thread-550): 05:02:56  Sending event: {'category': 'dbt', 'action': 'rpc_request', 'label': '68776726-190a-46dc-a4df-44ca4414331f', 'context': [<snowplow_tracker.self_describing_json.SelfDescribingJson object at 0x7fd719d454f0>]}
+2022-10-10 05:02:56.697272 (Thread-550): sending response (<Response 290 bytes [200 OK]>) to 10.0.10.11
+2022-10-10 05:02:57.034636 (Thread-2): 05:02:57  Snowflake adapter: Snowflake query id: 01a7870e-0001-824f-0000-0001ed877901
+2022-10-10 05:02:57.034799 (Thread-2): 05:02:57  Snowflake adapter: Snowflake error: 000904 (42000): SQL compilation error: error line 1 at position 257
+invalid identifier 'PREVIOUS_TRANSACTION_ID'
+2022-10-10 05:02:57.034988 (Thread-2): 05:02:57  finished collecting timing info
+2022-10-10 05:02:57.035136 (Thread-2): 05:02:57  On seed.my_new_project.demo_seed_netsuite_transactions: Close
+2022-10-10 05:02:57.251362 (Thread-2): 05:02:57  Database Error in seed demo_seed_netsuite_transactions (seeds/demo_seed_netsuite_transactions.csv)
+  000904 (42000): SQL compilation error: error line 1 at position 257
+  invalid identifier 'PREVIOUS_TRANSACTION_ID'
+2022-10-10 05:02:57.251630 (Thread-2): 05:02:57  Sending event: {'category': 'dbt', 'action': 'run_model', 'label': '4897b679-bd9b-4a18-bbac-3d04ccd9992d', 'context': [<snowplow_tracker.self_describing_json.SelfDescribingJson object at 0x7f13432d48e0>]}
+2022-10-10 05:02:57.251991 (Thread-2): 05:02:57  9 of 15 ERROR loading seed file dbt_mhoss2008.demo_seed_netsuite_transactions .. [ERROR in 33.38s]
+2022-10-10 05:02:57.252237 (Thread-2): 05:02:57  Finished running node seed.my_new_project.demo_seed_netsuite_transactions
+2022-10-10 05:02:57.253864 (MainThread): 05:02:57  Acquiring new snowflake connection "master"
+2022-10-10 05:02:57.254027 (MainThread): 05:02:57  
+2022-10-10 05:02:57.254120 (MainThread): 05:02:57  Running 1 on-run-end hook
+2022-10-10 05:02:57.254231 (MainThread): 05:02:57  Compiling operation.my_new_project.my_new_project-on-run-end-0
+2022-10-10 05:02:57.276670 (MainThread): 05:02:57  Using snowflake connection "master"
+2022-10-10 05:02:57.276793 (MainThread): 05:02:57  On master: /* {"app": "dbt", "dbt_version": "1.2.2", "profile_name": "user", "target_name": "default", "connection_name": "master"} */
+insert into PC_DBT_DB.dbt_mhoss2008.dbt_results
+                    (
+                        result_id,
+                        invocation_id,
+                        unique_id,
+                        database_name,
+                        schema_name,
+                        name,
+                        description_name,
+                        resource_type,
+                        status,
+                        execution_time,
+                        rows_affected
+                ) values(
+                            '4897b679-bd9b-4a18-bbac-3d04ccd9992d.seed.my_new_project.demo_seed_chart_of_accounts',
+                            '4897b679-bd9b-4a18-bbac-3d04ccd9992d',
+                            'seed.my_new_project.demo_seed_chart_of_accounts',
+                            'PC_DBT_DB',
+                            'dbt_mhoss2008',
+                            'demo_seed_chart_of_accounts',
+                            '',
+                            'seed',
+                            'success',
+                            3.4601762294769287,
+                            12
+                        ),(
+                            '4897b679-bd9b-4a18-bbac-3d04ccd9992d.seed.my_new_project.demo_seed_netsuite_departments',
+                            '4897b679-bd9b-4a18-bbac-3d04ccd9992d',
+                            'seed.my_new_project.demo_seed_netsuite_departments',
+                            'PC_DBT_DB',
+                            'dbt_mhoss2008',
+                            'demo_seed_netsuite_departments',
+                            '',
+                            'seed',
+                            'success',
+                            3.4659266471862793,
+                            27
+                        ),(
+                            '4897b679-bd9b-4a18-bbac-3d04ccd9992d.seed.my_new_project.demo_seed_address_list',
+                            '4897b679-bd9b-4a18-bbac-3d04ccd9992d',
+                            'seed.my_new_project.demo_seed_address_list',
+                            'PC_DBT_DB',
+                            'dbt_mhoss2008',
+                            'demo_seed_address_list',
+                            '',
+                            'seed',
+                            'success',
+                            3.54347825050354,
+                            500
+                        ),(
+                            '4897b679-bd9b-4a18-bbac-3d04ccd9992d.seed.my_new_project.demo_seed_netsuite_employees',
+                            '4897b679-bd9b-4a18-bbac-3d04ccd9992d',
+                            'seed.my_new_project.demo_seed_netsuite_employees',
+                            'PC_DBT_DB',
+                            'dbt_mhoss2008',
+                            'demo_seed_netsuite_employees',
+                            '',
+                            'seed',
+                            'success',
+                            3.5311057567596436,
+                            1000
+                        ),(
+                            '4897b679-bd9b-4a18-bbac-3d04ccd9992d.seed.my_new_project.demo_seed_netsuite_entity',
+                            '4897b679-bd9b-4a18-bbac-3d04ccd9992d',
+                            'seed.my_new_project.demo_seed_netsuite_entity',
+                            'PC_DBT_DB',
+                            'dbt_mhoss2008',
+                            'demo_seed_netsuite_entity',
+                            '',
+                            'seed',
+                            'success',
+                            3.131931781768799,
+                            500
+                        ),(
+                            '4897b679-bd9b-4a18-bbac-3d04ccd9992d.seed.my_new_project.demo_seed_netsuite_items',
+                            '4897b679-bd9b-4a18-bbac-3d04ccd9992d',
+                            'seed.my_new_project.demo_seed_netsuite_items',
+                            'PC_DBT_DB',
+                            'dbt_mhoss2008',
+                            'demo_seed_netsuite_items',
+                            '',
+                            'seed',
+                            'success',
+                            3.638841390609741,
+                            781
+                        ),(
+                            '4897b679-bd9b-4a18-bbac-3d04ccd9992d.seed.my_new_project.demo_seed_netsuite_transactions2',
+                            '4897b679-bd9b-4a18-bbac-3d04ccd9992d',
+                            'seed.my_new_project.demo_seed_netsuite_transactions2',
+                            'PC_DBT_DB',
+                            'dbt_mhoss2008',
+                            'demo_seed_netsuite_transactions2',
+                            '',
+                            'seed',
+                            'success',
+                            6.081780910491943,
+                            247
+                        ),(
+                            '4897b679-bd9b-4a18-bbac-3d04ccd9992d.seed.my_new_project.demo_seed_netsuite_transaction_lines',
+                            '4897b679-bd9b-4a18-bbac-3d04ccd9992d',
+                            'seed.my_new_project.demo_seed_netsuite_transaction_lines',
+                            'PC_DBT_DB',
+                            'dbt_mhoss2008',
+                            'demo_seed_netsuite_transaction_lines',
+                            '',
+                            'seed',
+                            'success',
+                            10.350549697875977,
+                            3444
+                        ),(
+                            '4897b679-bd9b-4a18-bbac-3d04ccd9992d.seed.my_new_project.demo_seed_netsuite_unitstypeuom',
+                            '4897b679-bd9b-4a18-bbac-3d04ccd9992d',
+                            'seed.my_new_project.demo_seed_netsuite_unitstypeuom',
+                            'PC_DBT_DB',
+                            'dbt_mhoss2008',
+                            'demo_seed_netsuite_unitstypeuom',
+                            '',
+                            'seed',
+                            'success',
+                            5.608385324478149,
+                            64
+                        ),(
+                            '4897b679-bd9b-4a18-bbac-3d04ccd9992d.seed.my_new_project.demo_seed_transaction_status',
+                            '4897b679-bd9b-4a18-bbac-3d04ccd9992d',
+                            'seed.my_new_project.demo_seed_transaction_status',
+                            'PC_DBT_DB',
+                            'dbt_mhoss2008',
+                            'demo_seed_transaction_status',
+                            '',
+                            'seed',
+                            'success',
+                            6.337561130523682,
+                            152
+                        ),(
+                            '4897b679-bd9b-4a18-bbac-3d04ccd9992d.seed.my_new_project.netsuite_status_codes',
+                            '4897b679-bd9b-4a18-bbac-3d04ccd9992d',
+                            'seed.my_new_project.netsuite_status_codes',
+                            'PC_DBT_DB',
+                            'dbt_mhoss2008',
+                            'netsuite_status_codes',
+                            '',
+                            'seed',
+                            'success',
+                            5.680456161499023,
+                            152
+                        ),(
+                            '4897b679-bd9b-4a18-bbac-3d04ccd9992d.seed.my_new_project.seed_company_names_list',
+                            '4897b679-bd9b-4a18-bbac-3d04ccd9992d',
+                            'seed.my_new_project.seed_company_names_list',
+                            'PC_DBT_DB',
+                            'dbt_mhoss2008',
+                            'seed_company_names_list',
+                            '',
+                            'seed',
+                            'success',
+                            5.057583332061768,
+                            500
+                        ),(
+                            '4897b679-bd9b-4a18-bbac-3d04ccd9992d.seed.my_new_project.seed_employee_name_list',
+                            '4897b679-bd9b-4a18-bbac-3d04ccd9992d',
+                            'seed.my_new_project.seed_employee_name_list',
+                            'PC_DBT_DB',
+                            'dbt_mhoss2008',
+                            'seed_employee_name_list',
+                            '',
+                            'seed',
+                            'success',
+                            4.837396621704102,
+                            1000
+                        ),(
+                            '4897b679-bd9b-4a18-bbac-3d04ccd9992d.seed.my_new_project.demo_seed_netsuite_nexttransactionlink',
+                            '4897b679-bd9b-4a18-bbac-3d04ccd9992d',
+                            'seed.my_new_project.demo_seed_netsuite_nexttransactionlink',
+                            'PC_DBT_DB',
+                            'dbt_mhoss2008',
+                            'demo_seed_netsuite_nexttransactionlink',
+                            '',
+                            'seed',
+                            'success',
+                            28.840291738510132,
+                            49992
+                        ),(
+                            '4897b679-bd9b-4a18-bbac-3d04ccd9992d.seed.my_new_project.demo_seed_netsuite_transactions',
+                            '4897b679-bd9b-4a18-bbac-3d04ccd9992d',
+                            'seed.my_new_project.demo_seed_netsuite_transactions',
+                            'PC_DBT_DB',
+                            'dbt_mhoss2008',
+                            'demo_seed_netsuite_transactions',
+                            '',
+                            'seed',
+                            'error',
+                            33.37714123725891,
+                            0
+                        )
+2022-10-10 05:02:57.276877 (MainThread): 05:02:57  Opening a new connection, currently in state init
+2022-10-10 05:02:57.968196 (Thread-551): handling poll request
+2022-10-10 05:02:57.968625 (Thread-551): 05:02:57  Sending event: {'category': 'dbt', 'action': 'rpc_request', 'label': '68776726-190a-46dc-a4df-44ca4414331f', 'context': [<snowplow_tracker.self_describing_json.SelfDescribingJson object at 0x7fd719d45bb0>]}
+2022-10-10 05:02:57.969357 (Thread-551): sending response (<Response 16453 bytes [200 OK]>) to 10.0.10.11
+2022-10-10 05:02:58.454823 (MainThread): 05:02:58  SQL status: SUCCESS 15 in 1.18 seconds
+2022-10-10 05:02:58.456086 (MainThread): 05:02:58  Writing injected SQL for node "operation.my_new_project.my_new_project-on-run-end-0"
+2022-10-10 05:02:58.457274 (MainThread): 05:02:58  1 of 1 START hook: my_new_project.on-run-end.0 ................................. [RUN]
+2022-10-10 05:02:58.457436 (MainThread): 05:02:58  1 of 1 OK hook: my_new_project.on-run-end.0 .................................... [OK in 0.00s]
+2022-10-10 05:02:58.457532 (MainThread): 05:02:58  
+2022-10-10 05:02:58.457640 (MainThread): 05:02:58  On master: Close
+2022-10-10 05:02:58.636470 (MainThread): 05:02:58  
+2022-10-10 05:02:58.636628 (MainThread): 05:02:58  Finished running 15 seeds, 1 hook in 0 hours 0 minutes and 43.46 seconds (43.46s).
+2022-10-10 05:02:58.636721 (MainThread): 05:02:58  Connection 'master' was properly closed.
+2022-10-10 05:02:58.636790 (MainThread): 05:02:58  Connection 'seed.my_new_project.demo_seed_netsuite_nexttransactionlink' was properly closed.
+2022-10-10 05:02:58.636853 (MainThread): 05:02:58  Connection 'seed.my_new_project.demo_seed_netsuite_transactions' was properly closed.
+2022-10-10 05:02:58.636913 (MainThread): 05:02:58  Connection 'seed.my_new_project.seed_employee_name_list' was properly closed.
+2022-10-10 05:02:58.636972 (MainThread): 05:02:58  Connection 'seed.my_new_project.seed_company_names_list' was properly closed.
+2022-10-10 05:02:58.700575 (MainThread): 05:02:58  
+2022-10-10 05:02:58.700764 (MainThread): 05:02:58  Completed with 1 error and 0 warnings:
+2022-10-10 05:02:58.700852 (MainThread): 05:02:58  
+2022-10-10 05:02:58.700940 (MainThread): 05:02:58  Database Error in seed demo_seed_netsuite_transactions (seeds/demo_seed_netsuite_transactions.csv)
+2022-10-10 05:02:58.701014 (MainThread): 05:02:58    000904 (42000): SQL compilation error: error line 1 at position 257
+2022-10-10 05:02:58.701079 (MainThread): 05:02:58    invalid identifier 'PREVIOUS_TRANSACTION_ID'
+2022-10-10 05:02:58.701170 (MainThread): 05:02:58  
+2022-10-10 05:02:58.701251 (MainThread): 05:02:58  Done. PASS=14 WARN=0 ERROR=1 SKIP=0 TOTAL=15
+2022-10-10 05:02:59.343515 (Thread-552): handling poll request
+2022-10-10 05:02:59.364391 (Thread-552): 05:02:59  Sending event: {'category': 'dbt', 'action': 'rpc_request', 'label': '68776726-190a-46dc-a4df-44ca4414331f', 'context': [<snowplow_tracker.self_describing_json.SelfDescribingJson object at 0x7fd71bc54370>]}
+2022-10-10 05:02:59.370272 (Thread-552): sending response (<Response 8290 bytes [200 OK]>) to 10.0.10.11
+2022-10-10 05:03:00.761708 (Thread-553): handling poll request
+2022-10-10 05:03:00.762141 (Thread-553): 05:03:00  Sending event: {'category': 'dbt', 'action': 'rpc_request', 'label': '68776726-190a-46dc-a4df-44ca4414331f', 'context': [<snowplow_tracker.self_describing_json.SelfDescribingJson object at 0x7fd71bdf6970>]}
+2022-10-10 05:03:00.763896 (Thread-553): sending response (<Response 29457 bytes [200 OK]>) to 10.0.10.11
+2022-10-10 05:03:01.466629 (Thread-554): handling status request
+2022-10-10 05:03:01.467042 (Thread-554): 05:03:01  Sending event: {'category': 'dbt', 'action': 'rpc_request', 'label': '68776726-190a-46dc-a4df-44ca4414331f', 'context': [<snowplow_tracker.self_describing_json.SelfDescribingJson object at 0x7fd71bdf6250>]}
+2022-10-10 05:03:01.467591 (Thread-554): sending response (<Response 1765 bytes [200 OK]>) to 10.0.10.11
+2022-10-10 05:03:01.577381 (Thread-555): handling status request
+2022-10-10 05:03:01.577794 (Thread-555): 05:03:01  Sending event: {'category': 'dbt', 'action': 'rpc_request', 'label': '68776726-190a-46dc-a4df-44ca4414331f', 'context': [<snowplow_tracker.self_describing_json.SelfDescribingJson object at 0x7fd71bdf6400>]}
+2022-10-10 05:03:01.578300 (Thread-555): sending response (<Response 1765 bytes [200 OK]>) to 10.0.10.11
+2022-10-10 05:11:40.664239 (Thread-556): handling status request
+2022-10-10 05:11:40.665222 (Thread-556): 05:11:40  Sending event: {'category': 'dbt', 'action': 'rpc_request', 'label': '68776726-190a-46dc-a4df-44ca4414331f', 'context': [<snowplow_tracker.self_describing_json.SelfDescribingJson object at 0x7fd71bdf6b20>]}
+2022-10-10 05:11:40.665717 (Thread-556): sending response (<Response 1765 bytes [200 OK]>) to 10.0.10.11
