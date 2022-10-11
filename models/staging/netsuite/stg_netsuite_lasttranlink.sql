@@ -1,10 +1,10 @@
 with TRANLINK as (
 select nextdoc,previousdoc from {{ref('raw_netsuite_nexttransactionlink') }}
-    where _FIVETRAN_DELETED = 'FALSE'
+where _FIVETRAN_DELETED = 'FALSE'
 ),
 LASTTRAN as (
-    select * from {{ref('raw_netsuite_nexttransactionlink') }}
-        where _FIVETRAN_DELETED = 'FALSE'
+    select * from {{ref('raw_netsuite_transactions') }}
+        -- where _FIVETRAN_DELETED = 'FALSE'
 ),
 renamed as (
 

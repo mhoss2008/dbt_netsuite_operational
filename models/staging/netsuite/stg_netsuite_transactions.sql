@@ -3,13 +3,10 @@ select * from {{ref('raw_netsuite_entity') }}
 ),
 TRANSACTION as (
 select * from {{ref('raw_netsuite_transactions') }}
-where _FIVETRAN_DELETED = 'FALSE'
+-- where _FIVETRAN_DELETED = 'FALSE'
 ),
 STATUS_CODES as (
 select * from {{ref('netsuite_status_codes') }}
-),
-END_USER as (
-select * from {{ref('stg_netsuite_employees') }}    
 ),
 CREATED_BY as (
 select * from {{ref('stg_netsuite_employees') }}    
@@ -30,9 +27,6 @@ STATUS_CODES.DESCRIPTION as status,
 ENTITY.id as entity_id,
 ENTITY.ENTITYID as entity_name,
 ENTITY.email as entity_email,
-END_USER.full_name as end_user_name,
-END_USER.cost_center as end_user_cost_center,
-END_USER.email as end_user_email,
 CREATED_BY.full_name as created_by_name,
 TRANSACTION.CREATEDDATE, 
 TRANSACTION.DUEDATE, 
@@ -63,7 +57,6 @@ NEXT_TRAN.all_next_tranid
 from TRANSACTION
 left join ENTITY on TRANSACTION.entity = ENTITY.id
 left join STATUS_CODES on upper(TRANSACTION.type)||':'||TRANSACTION.status = STATUS_CODES.id
-left join END_USER on TRANSACTION.CUSTBODY_END_USER=END_USER.netsuite_employee_id
 left join CREATED_BY on TRANSACTION.CREATEDBY=CREATED_BY.netsuite_employee_id 
 left join LAST_TRAN on LAST_TRAN.nsid = TRANSACTION.id
 left join NEXT_TRAN on NEXT_TRAN.nsid = TRANSACTION.id
