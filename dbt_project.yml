@@ -36,6 +36,11 @@ models:
     # Applies to all files under models/example/
     production:
       materialized: table
+seeds:
+  dbt_netsuite_operational:
+    demo_seed_netsuite_transactions:
+      +column_types:
+        EXTERNALID: varchar(16777216)
 
 
 on-run-end: "{{ log_dbt_results(results) }}"
