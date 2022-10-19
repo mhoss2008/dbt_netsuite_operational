@@ -4,7 +4,7 @@ with TRANSACTIONLINE_PURREQ as (
     select
     *,
     transaction as transaction_temp
-    from {{ref('demo_seed_netsuite_transaction_line_req') }}
+    from {{ref('demo_seed_netsuite_entity') }}
     limit 100
 ),
 
@@ -13,7 +13,7 @@ TRANSACTIONLINE_PO as (
     select 
     *,
     left(transaction,2) || '3' || right(transaction,4) as transaction_temp
-    from {{ref('demo_seed_netsuite_transaction_line_req') }}
+    from {{ref('demo_seed_netsuite_entity') }}
     
 ),
 
@@ -22,7 +22,7 @@ TRANSACTIONLINE_PO as (
     select 
     *,
     left(transaction,2) || '3' || right(transaction,4) as transaction_temp
-    from {{ref('demo_seed_netsuite_transaction_line_req') }}
+    from {{ref('demo_seed_netsuite_entity') }}
     
 ),
 
@@ -31,7 +31,7 @@ TRANSACTIONLINE_PO as (
     select 
     *,
     left(transaction,2) || '3' || right(transaction,4) as transaction_temp
-    from {{ref('demo_seed_netsuite_transaction_line_req') }}
+    from {{ref('demo_seed_netsuite_entity') }}
     
 )
 
