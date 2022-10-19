@@ -1,4 +1,4 @@
-﻿Transaction,department,EXPENSEACCOUNT,ITEM,QUANTITY,QUANTITYSHIPRECV,QUANTITYBILLED,RATE,rateamount ,netamount ,expectedshipdate ,expectedreceiptdate ,MEMO ,mainline,UNIQUEKEY ,kitmemberof
+Transaction,department,EXPENSEACCOUNT,ITEM,QUANTITY,QUANTITYSHIPRECV,QUANTITYBILLED,RATE,rateamount,netamount,expectedshipdate,expectedreceiptdate,MEMO,mainline,UNIQUEKEY,kitmemberof
 1126411,35,568,21,7,7,7,20,20,140,,,,,242242,
 1126412,32,543,24,9,9,9,71,71,639,,,,,242243,
 1126416,14,855,22,21,21,21,8,8,168,,,,,242244,
